@@ -321,7 +321,7 @@ In the US, the law that surrounds this stuff is the Computer Fraud and Abuse Act
 
 Basically, all you need to know is that every computer is a protected computer and that it is a crime to intentionally access a computer or account without authorization or to exceed authorized access.
 
-Exceed authorized access is a real sticky subject, and it has led to a bunch of terrible prosecutions. Remember Aaron Swartz? If you haven't read his Wikipedia page yet, you should. <https://en.wikipedia.org/wiki/Aaron_Swartz>
+Exceed authorized access is a real sticky subject, and it has led to a bunch of prosecutions.
 
 To stay on the safe side, only access computers you own, or have written consent to access. At some point we will build an entire network of training computers you can do whatever you want on. For now, there are plenty of sites that let you learn on their networks. The people who learn by seeing what is open on the internet are the ones who get into trouble.
 
@@ -1394,10 +1394,10 @@ Most forensic challenges can be tied in with Incident Response and teach the lea
 
 When looking through a network challenges, there are a few basic types of challenges you can expect to see.
 
-1) A file is transferred
-2) A conversation occurs between two addresses
-3) A hidden channel is used to send information
-4) Something occurred and you must follow a series of events to get to the final answer
+1. A file is transferred
+2. A conversation occurs between two addresses
+3. A hidden channel is used to send information
+4. Something occurred and you must follow a series of events to get to the final answer
 
 These challenges often involve adding another level of work beyond the initial discovery of the communication, whether adding stego, encoding, encryption or a custom network protocol.
 
@@ -1578,10 +1578,11 @@ CTF Meta (I/P)
 Cryptography is often considered to be one of the harder challenge types because many of the problems require deep specialization to understand. However, we are not teaching deep specialization in this course, we are teaching quick and dirty techniques to solve problems and find resources.
 
 There are a variety of common crypto problems such as:
-1) Ciphertext only
-2) Ciphertext + private key and algorithm
-3) Ciphertext and custom source code
-4) Ciphertext + public key and algorithm
+
+1. Ciphertext only
+2. Ciphertext + private key and algorithm
+3. Ciphertext and custom source code
+4. Ciphertext + public key and algorithm
 
 For the most part, you will always get enough ciphertext for meaningful statistics and for any advanced cryptography problem they will let you know what the algorithm is because the ciphertext will all be totally random. The only time you will get ciphertext only is for very short, classical algorithms.
 
