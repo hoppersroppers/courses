@@ -109,7 +109,7 @@ General Wellness
 #### Sleep
    * Everyone loves bragging about being a hardo and sleeping four hours a night for months on end... guess what? It's not just stupid, it's actively hurting you in a variety of ways.
     * <https://www.nhlbi.nih.gov/health-topics/sleep-deprivation-and-deficiency>
-* Nutrition
+### Nutrition
    * I'm not going to make you read anything, just don't eat cheetos and hot pockets and drink Monsters as your only sustenance for the day. Order in some Chinese or Thai. Not every delivery meal has to be pizza. 
    * Cook your own food every once in a while. Instant ramen doesn't count. Cooking is fun as hell. Do it. 
 
@@ -137,11 +137,11 @@ C:\Users\devey\Downloads\backup-moodle2-course-2-intro._to_security-20200324-171
 Questions
 
 
-Alright, you probably didn't expect this line of questioning in this course, and yet, here we are. 
+Alright, you probably didn't expect this line of questioning in this course, and yet, here we are. Serious business time, three quick questions.
 
 1. Have you wished you were dead or wished you could go to sleep and not wake up?
 
-2. Have you actually had any thoughts about killing yourself? If so, have you thought about how you might do this? Have you had any intention of acting on these thoughts of killing yourself, as opposed to you have the thoughts but you definitely would not act on them? Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan?
+2. Have you actually had any thoughts about killing yourself? If so, have you thought about how you might do this? 
 
 3. In the past three months, have you done anything, started to do anything, or prepared to do anything to end your life?
 
@@ -161,7 +161,7 @@ C:\Users\devey\Downloads\backup-moodle2-course-2-intro._to_security-20200324-171
 Why?
 
 
-You thought you were here to learn how to hack, so what is all this? 
+You thought you were here to learn how to get better at computers so what is all this? 
 
 Well, hopefully your end goal of all this is that you become a better person and have a better life. If you want to be good at computers just for the sake of being good at computers that counts for something too, but to me, all this technology is just a way for me to accomplish more than I could by myself. 
 
@@ -200,7 +200,7 @@ C:\Users\devey\Downloads\backup-moodle2-course-2-intro._to_security-20200324-171
 Why Security
 
 
-Computer security is the shield of the modern age. Without the constant battle on the frontlines between the people who want to see technology used for good and the people who want to use it for their own gain, or worse, to limit the rights and freedoms of others, the progress that occurs in the real world because of technology would be dramatically slowed. Security allows trust in technology, which leads to adoption, which leads to progress in one direction, or another. The more people able to help out with that fight, the faster we can move as a society, and less things will get broken and less people will be hurt on the way. That’s why this site exists, and hopefully, if you’re here for the right reasons, you’ll be able to jump into the fight with the tools you need to succeed. 
+Computer security is the shield of the modern age. Without the constant battle on the frontlines between the people who want to see technology used for good and the people who want to use it for their own gain, or worse, to limit the rights and freedoms of others, the progress that occurs in the real world because of technology would be dramatically slowed. Security allows trust in technology, which leads to adoption, which leads to progress in one direction or another. The more people able to help out with that fight, the faster we can move as a society, and less things will get broken and less people will be hurt on the way. That\92s why this site exists, and hopefully, if you\92re here for the right reasons, you\92ll be able to jump into the fight with the tools you need to succeed. 
 
 This course is meant to give you, someone new to the security field, and information technology in general, the skills and more importantly, the mindset required to be successful in this line of work. The only way to be good at anything in this field is to become comfortable looking at problems you have never seen before and then finding a way to solve what you are up against. This curriculum is not meant to turn you into a guru, but rather it is to provide you with a solid base of knowledge and mental models relating to security, as well as build your comfort level installing new programs, following tutorials for things you have never heard of before, and using the Linux operating system. If you leave this course with nothing other than an understanding of the hacker mentality, I have been successful by some measure. However, my goal is to help guide you through the first few steps of your journey into this world and to help you find your path afterwards as you develop even more advanced skills and continue your constant growth.
 
@@ -246,11 +246,11 @@ Our team has gone by many names, but one of our favorite's is Hopper's Roppers. 
 
 To learn more about her, read this: [http://www.biography.com/people/grace-hopper-21406809](http://www.biography.com/people/grace-hopper-21406809)
 
-Have you ever heard the quote, “It's easier to ask forgiveness than it is to get permission.”? That was her. 
+Have you ever heard the quote, \93It's easier to ask forgiveness than it is to get permission.\94? That was her. 
 
 ![alt text](https://i2.wp.com/hopperboulder.com/wp-content/uploads/2019/03/Grace1-2.jpg?w=704&ssl=1 "img1")
 
-This quote comes from an interview in the July 1986 CHIP’s Ahoy Magazine, the Department of the Navy’s Information Technology Magazine. She was at the cutting edge then and it is a testament to her vision how well this interview stands up to the test of time. Her passion for knowledge and innovation is the most important thing you can carry with you.
+This quote comes from an interview in the July 1986 CHIP\92s Ahoy Magazine, the Department of the Navy\92s Information Technology Magazine. She was at the cutting edge then and it is a testament to her vision how well this interview stands up to the test of time. Her passion for knowledge and innovation is the most important thing you can carry with you.
 
 Read this: [http://www.doncio.navy.mil/chips/ArticleDetails.aspx?id=3563](http://www.doncio.navy.mil/chips/ArticleDetails.aspx?id=3563)
 
@@ -268,7 +268,7 @@ While there was a chance you knew what Hopper's meant, it is very unlikely that 
 
 Don't worry; none of that should have meant anything to you. That would have made zero sense to me when I was sitting where you are sitting. 2 years into my journey, I would have understood about half of it. Today, I still have no idea what a W or X technique is because I copied that definition from Wikipedia. 
 
-While many other sites that attempt to teach this material assume you already know a great deal of knowledge, we take a different approach to make this challenging subject as approachable as possible. For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to do stuff, but very quickly they realize that there is no way for them to learn everything. They’re not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. By managing new your high expectations of yourself, providing constant feedback on your progress, and bringing you into the community, this is designed to minimize dropout rate while providing the best first hundred hours of a cyber security education possible.
+While many other sites that attempt to teach this material assume you already know a great deal of knowledge, we take a different approach to make this challenging subject as approachable as possible. For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to do stuff, but very quickly they realize that there is no way for them to learn everything. They\92re not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. By managing new your high expectations of yourself, providing constant feedback on your progress, and bringing you into the community, this is designed to minimize dropout rate while providing the best first hundred hours of a cyber security education possible.
 
 
 
@@ -311,7 +311,7 @@ C:\Users\devey\Downloads\backup-moodle2-course-2-intro._to_security-20200324-171
 Hacking
 
 
-The etymology of the word “hack” is very complicated, and anywhere you go you will find some slight disagreements. This is the most concise article you can find on the subject. <http://www.newyorker.com/tech/elements/a-short-history-of-hack>. As stated in the article, this is a point of contention, but honestly, it doesn't matter. If someone cares deeply about the definition of hack or hacker, good for them, but it shouldn't effect you.
+The etymology of the word \93hack\94 is very complicated, and anywhere you go you will find some slight disagreements. This is the most concise article you can find on the subject. <http://www.newyorker.com/tech/elements/a-short-history-of-hack>. As stated in the article, this is a point of contention, but honestly, it doesn't matter. If someone cares deeply about the definition of hack or hacker, good for them, but it shouldn't effect you.
 
 However, the most commonly agreed upon source for definitions is this page, <http://www.catb.org/~esr/jargon/html/H/hacker.html>, mostly because it has been around for a while and has the loosest definitions.
 
@@ -324,17 +324,21 @@ Legal Stuff
 
 
 ## Legal Stuff
-Unsurprisingly, in this course you will learn some things that could be used to do bad things. You might not think they're bad things at the time, and they might seem like funny pranks, but the laws against hacking are very vague. Even more importantly, there is a strong chance that at some point you will need to apply for a security clearance, and having a pile of felonies you have to admit to is not a great look and will complicate your paperwork.
+Unsurprisingly, in this course you will learn some things that could be used to do bad things. You might not think they're bad things at the time, and they might seem like funny pranks, but the laws against hacking are very vague. Even more importantly, there is a strong chance that at some point you might want to apply for a security clearance, and having a pile of felonies you have to admit to is not a great look and will complicate your paperwork.
 
 In the US, the law that surrounds this stuff is the Computer Fraud and Abuse Act.
 
 Basically, all you need to know is that every computer is a protected computer and that it is a crime to intentionally access a computer without authorization or exceed authorized access.
 
-Exceed authorized access is a real sticky subject, and it has led to a bunch of terrible prosecutions. Remember Aaron Swartz?
+Exceed authorized access is a real sticky subject, and it has led to a bunch of terrible prosecutions. Remember Aaron Swartz?  If you haven't read his wikipedia page yet, you should. <https://en.wikipedia.org/wiki/Aaron_Swartz> 
 
 To stay on the safe side, only access computers you own, or have written consent to access. You're lucky, because we have an entire network of training computers you can do whatever you want on. A lot of people don't, and that's where they get in trouble while trying to learn.  
 
-It should also be mentioned that copyright law is also a good way to get in trouble, not to mention that if you see software to pirate on the internet, it is very unlikely that it doesn't contain malware. Just don't steal things, we can almost always get a copy of whatever you want, it just might take some paperwork and some emails.
+It should also be mentioned that copyright law is also a good way to get in trouble, not to mention that if you see software to pirate on the internet, it is very unlikely that it doesn't contain malware. Just don't steal things, we can almost always get a copy of whatever you want, it just might take some paperwork and some emails. 
+
+## Classification
+Absolutely nothing here is classified, in any way, whatsoever. Nothing is derived from classified information. Don't bring any of that to this site. Thanks! 
+
 
 
 
@@ -347,6 +351,23 @@ Code of Conduct
 
 ## Code of Conduct
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 0. The Law Always Applys 
 
 ### 1. Purpose
 A primary goal of Hopper's Roppers is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
@@ -377,10 +398,10 @@ The following behaviors are considered harassment and are unacceptable within ou
 Violence, threats of violence or violent language directed against another person.
 Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
 Posting or displaying sexually explicit or violent material.
-Posting or threatening to post other people’s personally identifying information ("doxing").
+Posting or threatening to post other people\92s personally identifying information ("doxing").
 Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
 Inappropriate photography or recording.
-Inappropriate physical contact. You should have someone’s consent before touching them.
+Inappropriate physical contact. You should have someone\92s consent before touching them.
 Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
 Deliberate intimidation, stalking or following (online or in person).
 Advocating for, or encouraging, any of the above behavior.
@@ -411,7 +432,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 We will work with all parties to ensure the Code of Conduct is enforced. All decisions made by the staff is final.
 
 ### 9. Scope
-We expect all community participants (organizers, contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
+We expect all community participants (organizers, contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues\96online and in-person\96as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
@@ -509,7 +530,7 @@ C:\Users\devey\Downloads\backup-moodle2-course-2-intro._to_security-20200324-171
 Hacker Attitude
 
 
-Read this post: [http://www.catb.org/~esr/faqs/hacker-howto.html](http://www.catb.org/~esr/faqs/hacker-howto.html) It isn't perfect, but it will do for now until I write a new one. The biggest problem with this is that the author, while once a famous hacker and important member of the open source movement, is a total asshole. None of the content is bad, but we are in the process of trying to write something to replace all of his content in this curriculum.
+Read this post: [http://www.catb.org/~esr/faqs/hacker-howto.html](http://www.catb.org/~esr/faqs/hacker-howto.html) It isn't perfect, but it will do for now until I write a new one.\A0The biggest problem with this is that the author, while once a famous hacker and important member of the open source movement, is a total asshole. None of the content is bad, but we are in the process of trying to write something to replace all of his content in this curriculum.
 
 While there is a lot in there that is very interesting, the most important part is the hacker attitude.
 
@@ -523,7 +544,7 @@ While there is a lot in there that is very interesting, the most important part 
 
 [5. Attitude is no substitute for competence.](http://www.catb.org/~esr/faqs/hacker-howto.html#believe5)
 
-These 5 statements provide a reasonable framework for how you should approach learning this material. It should be fun, we shouldn't be wasting your time, there should be multiple ways for you to succeed, and we are measuring success by your ability at the end. Make sure you've really read through the post and then write 4-6 sentences on your interpretation of the last sentence in part one of the Hacker Attitude, “You also have to develop a kind of faith in your own learning capacity — a belief that even though you may not know all of what you need to solve a problem, if you tackle just a piece of it and learn from that, you'll learn enough to solve the next piece — and so on, until you're done.”
+These 5 statements provide a reasonable framework for how you should approach learning this material. It should be fun, we shouldn't be wasting your time, there should be multiple ways for you to succeed, and we are measuring success by your ability at the end. Make sure you've really read through the post and then write 4-6 sentences on your interpretation of the last sentence in part one of the Hacker Attitude, \93You also have to develop a kind of faith in your own learning capacity \97 a belief that even though you may not know all of what you need to solve a problem, if you tackle just a piece of it and learn from that, you'll learn enough to solve the next piece \97 and so on, until you're done.\94
 
 
 
@@ -534,29 +555,29 @@ C:\Users\devey\Downloads\backup-moodle2-course-2-intro._to_security-20200324-171
 Hacker Ethic
 
 
-From the same site as the Hacker How-To comes this brief description of the hacker ethic. Again, I am in the process of writing something else, but for now this is good enough.   
+From the same site as the Hacker How-To comes this brief description of the hacker ethic. Again, I am in the process of writing something else, but for now this is good enough.\A0  
 
 Read it: [http://www.catb.org/jargon/html/H/hacker-ethic.html](http://www.catb.org/jargon/html/H/hacker-ethic.html)
 
-It breaks the hacker ethic into two main beliefs that complement one another: 
+It breaks the hacker ethic into two main beliefs that complement one another:\A0
 
 
 1. The belief that information-sharing is a powerful positive good, and that it is an ethical duty of hackers to share their expertise by writing open-source code and facilitating access to information and to computing resources wherever possible.
 
 2. The belief that system-cracking for fun and exploration is ethically OK as long as the cracker commits no theft, vandalism, or breach of confidentiality.
 
-A longer version of the hacker ethic comes from the famous book _Hackers: Heroes of the Computer Revolution_ that you probably should read someday, but there is no rush. I haven't read the whole thing yet.  
+A longer version of the hacker ethic comes from the famous book _Hackers: Heroes of the Computer Revolution_ that you probably should read someday, but there is no rush. I haven't read the whole thing yet. \A0
 
-The Wikipedia article is pretty good so read it: [https://en.wikipedia.org/wiki/Hacker_ethic](https://en.wikipedia.org/wiki/Hacker_ethic)
+The Wikipedia article is pretty good so read it:\A0[https://en.wikipedia.org/wiki/Hacker_ethic](https://en.wikipedia.org/wiki/Hacker_ethic)
 
 They come out to 5 key beliefs:
 
-1. Access to computers—and anything which might teach you something about the way the world works—should be unlimited and total. Always yield to the Hands-On Imperative!  
-2. All information should be free (Often a topic of debate, he means free as in speech, rather than free as in beer) 
-3.  Mistrust authority—promote decentralization
-4.  Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.
-5. You can create art and beauty on a computer. The concept of "hack value" is doing something that is worth doing because of the "playful cleverness" required. 
-6.  Computers can change your life for the better
+1. Access to computers\97and anything which might teach you something about the way the world works\97should be unlimited and total. Always yield to the Hands-On Imperative!  
+2. All information should be free (Often a topic of debate, he means free as in speech, rather than free as in beer)\A0
+3. \A0Mistrust authority\97promote decentralization
+4. \A0Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.
+5. You can create art and beauty on a computer. The concept of "hack value" is doing something that is worth doing because of the "playful cleverness" required.\A0
+6. \A0Computers can change your life for the better
 
 Write a few sentences on what matters in the hacker ethic.  
 
@@ -568,11 +589,11 @@ C:\Users\devey\Downloads\backup-moodle2-course-2-intro._to_security-20200324-171
 Sharing
 
 
-One of the key parts of this mindset is sharing knowledge with others. A great quote on the subject is 'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.'  Not to mention, the more you give back to the community, the greater the value you provide. If you're just starting off, you might not think you have anything to provide, but in fact, you're looking at the world with a different perspective than someone who has done it for years. For example, you can provide feedback on when training makes no sense or isn't as effective as it could be, and help make it easier for the next person to go through it. This site is a work in progress and the more feedback we receive the better it will be.  
+One of the key parts of this mindset is sharing knowledge with others. A great quote on the subject is 'There is\A0nothing noble\A0in\A0being superior\A0to your fellow man; true nobility is\A0being superior\A0to your former self.' \A0Not to mention, the more you give back to the community, the greater the value you provide. If you're just starting off, you might not think you have anything to provide, but in fact, you're looking at the world with a different perspective than someone who has done it for years. For example, you can provide feedback on when training makes no sense or isn't as effective as it could be, and help make it easier for the next person to go through it. This site is a work in progress and the more feedback we receive the better it will be. \A0
 
-With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should “Read the Fucking Manual” or “RTFM”. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started. The most common "manual" you will come across in this course and your travels through hackerdom are the man-pages that accompany every single aspect of the Unix operating system, and they are a great resource for people who have spent years learning how to understand them. Right now, you don’t have the knowledge to be expected to understand how they work, and that is fine. There is no pressure to know anything, but there is pressure to learn. 
+With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should \93Read the Fucking Manual\94 or \93RTFM\94. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started. The most common "manual" you will come across in this course and your travels through hackerdom are the man-pages that accompany every single aspect of the Unix operating system, and they are a great resource for people who have spent years learning how to understand them. Right now, you don\92t have the knowledge to be expected to understand how they work, and that is fine. There is no pressure to know anything, but there is pressure to learn.\A0
 
-The comic web site Xkcd is a nerd cultural treasure and you will see it referenced constantly. Remember, you don’t have to get them all, when you are not sure, there is http://www.explainxkcd.com. Read [this comic](https://xkcd.com/1692/), and hover your mouse over it to get the alt-text. Submit what the alt-text tells you to do.  
+The comic web site Xkcd is a nerd cultural treasure and you will see it referenced constantly. Remember, you don\92t have to get them all, when you are not sure, there is http://www.explainxkcd.com. Read [this comic](https://xkcd.com/1692/), and hover your mouse over it to get the alt-text. Submit what the alt-text tells you to do.  
 
 
 
@@ -623,7 +644,7 @@ This section is derived from "How to Ask Smart Questions" by the ESR CATB guy we
 * Be precise and informative about your problem
 * Describe the symptoms of your problem or bug carefully and clearly.
 
-1. Describe the environment in which it occurs (machine, OS, application, whatever). Provide your vendor's distribution and release level (e.g.: “Fedora Core 7”, “Slackware 9.1”, etc.).
+1. Describe the environment in which it occurs (machine, OS, application, whatever). Provide your vendor's distribution and release level (e.g.: \93Fedora Core 7\94, \93Slackware 9.1\94, etc.).
 2. Describe the research you did to try and understand the problem before you asked the question.
 3. Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
 4. Describe any possibly relevant recent changes in your computer or software configuration.
@@ -634,13 +655,13 @@ This section is derived from "How to Ask Smart Questions" by the ESR CATB guy we
 * Be explicit about your question
 * Follow up with a brief note on the solution
 
-You can private message us, post on the forum, throw it on Slack, whatever. Just show you tried ahead of time and no one will ever get annoyed, because there is really no such thing as a bad question, just one you haven't researched enough. 
+You can private message us, post on the forum, throw it on Slack, whatever. Just show you tried ahead of time and no one will ever get annoyed, because there is really no such thing as a bad question, just one you haven't researched enough.\A0
 
-If you're in person, just ask. It's faster than Googling and you'll get more out of it. 
+If you're in person, just ask. It's faster than Googling and you'll get more out of it.\A0
 
-We already told you what RTFM stood for, so now we're gonna have you do it. 
+We already told you what RTFM stood for, so now we're gonna have you do it.\A0
 
-Visit this [man-page](https://linux.die.net/man/1/bash) and write down the first three things you don’t understand. Then google them and figure out what they are. Submit 3sentences explaining the 3 things you didn’t know. For the love of everything, don’t read any further once you are done with that. Remember Rule 3 of the Hacker Attitude, “Boredom and Drudgery are evil.” If you're not getting anything out of something at any point in this course, don't do it, and leave us feedback that we are wasting your time. We mean that. You won't hurt our feelings.
+Visit this [man-page](https://linux.die.net/man/1/bash) and write down the first three things you don\92t understand.\A0Then google them and figure out what they are. Submit 3sentences explaining the 3 things you didn\92t know.\A0For the love of everything, don\92t read any further once you are done with that. Remember Rule 3 of the Hacker Attitude, \93Boredom and Drudgery are evil.\94 If you're not getting anything out of something at any point in this course, don't do it, and leave us feedback that we are wasting your time. We mean that. You won't hurt our feelings.
 
 
 19
@@ -771,7 +792,7 @@ Use this page to help assess what your risks are: [https://ssd.eff.org/en/module
 What do you want to protect? Who do you want to protect it from? How likely is it that you will need to protect it? How bad are the consequences if you fail? How much trouble are you willing to go through in order to try to prevent those?
 
 0. Don't actually write down secrets, just general things you want to protect. Texts, pictures, personal data, etc. 
-1. Write down a list of data that you keep, where it’s kept, who has access to it, and what stops others from accessing it.
+1. Write down a list of data that you keep, where it\92s kept, who has access to it, and what stops others from accessing it.
 2. Think of four possible threat actors who might want to get a hold of your data or communications. It might be an individual, a government agency, or a corporation.
 3. Write down what each adversary might want to do with your private data
 4. Write down what the likelihood of each adversary coming for that data
@@ -806,7 +827,7 @@ Tasks:
 5. Read this: [https://www.nist.gov/cyberframework/online-learning/uses-and-benefits-framework](https://www.nist.gov/cyberframework/online-learning/uses-and-benefits-framework)
 6. Write a few sentences on how to use the framework to drive decision making.
 
-You probably don't know much right now technically, but technical knowledge is meant to inform your decision making processes, and you can usually get along fairly well on a good mix of common sense and procedure. Remember, frameworks are just frameworks, and are only as good as the person doing the assessment.
+You probably don't know much right now technically, but technical knowledge is meant to inform your decision making processes, and you can usually get along fairly well on a good mix of common sense and procedure.\A0Remember, frameworks are just frameworks, and are only as good as the person doing the assessment.
 
 
 76
@@ -1563,7 +1584,7 @@ Passwords
 # You used a shitty password 
 <https://ssd.eff.org/en/module/creating-strong-passwords>
  
-Passwords are hard, and losing your primary email can pretty much stop your life as you attempt to regain control. Luckily, there is a lot you can do to keep yourself from becoming the low hanging fruit. After this section, not only will you be able to protect yourself, but you’ll be able to share this with others.
+Passwords are hard, and losing your primary email can pretty much stop your life as you attempt to regain control. Luckily, there is a lot you can do to keep yourself from becoming the low hanging fruit. After this section, not only will you be able to protect yourself, but you\92ll be able to share this with others.
 
 Tasks:
 
@@ -1643,7 +1664,7 @@ C:\Users\devey\Downloads\backup-moodle2-course-2-intro._to_security-20200324-171
 Security Questions and Account Resets
 
 
-What is your mother’s maiden name? First dog? Elementary school? All of those things are fairly easy to find online, or just from casual conversation. If someone is trying to steal an account, that will always be the easiest route. Security questions are hard to avoid, but there are easy ways to harden yourself and protect your accounts.
+What is your mother\92s maiden name? First dog? Elementary school? All of those things are fairly easy to find online, or just from casual conversation. If someone is trying to steal an account, that will always be the easiest route. Security questions are hard to avoid, but there are easy ways to harden yourself and protect your accounts.
  
 Tasks: 
 
@@ -1661,7 +1682,7 @@ Tasks:
 * Describe each of the ways passwords are cracked
 * In 2-3 sentences, explain what salting does and why it is important.
 
-Combining the ideas of salting and hashing, now learn how you are going to make secure security questions! First, as a rule, don't use uppercase letters, spaces, or punctuation ever in your security questions. Why? Nothing about security, it just makes them easier to remember. Then if we take a hashing algorithm, like MD5, and a unique salt, such as “salty17”, we can use the function MD5(_answer_to_question_ + “salty17”). This will create a very very hard to figure out security question that you can easily use anywhere. 
+Combining the ideas of salting and hashing, now learn how you are going to make secure security questions! First, as a rule, don't use uppercase letters, spaces, or punctuation ever in your security questions. Why? Nothing about security, it just makes them easier to remember. Then if we take a hashing algorithm, like MD5, and a unique salt, such as \93salty17\94, we can use the function MD5(_answer_to_question_ + \93salty17\94). This will create a very very hard to figure out security question that you can easily use anywhere. 
 
 Or, if you are on a computer with your password manager, just write that shit down in your secure notes for a site. If they get your lastpass account you are screwed anyway, so don't worry about it.
 
@@ -2069,7 +2090,7 @@ Virtualization
 
 # Building Your Own Lab
 ## Introduction
-Building your own lab is important for a lot of reasons, but most importantly it is fun and teaches you a bunch of valuable information. In this section we will do some work securing our daily lives and install a virtual machine for us to work on. What you will be making is uniquely yours and will be something that you will work on and refine for the rest of your time doing the computers. This is your new workbench/hangout spot, so take pride in what you are making and make it yours.
+Building your own home lab is important for a lot of reasons, but most importantly it is fun and teaches you a bunch of valuable information. In this section we will do some work securing our daily lives and install a virtual machine for us to work on. What you will be making is uniquely yours and will be something that you will work on and refine for the rest of your time doing the computers. This is your new workbench/hangout spot, so take pride in what you are making and make it yours.
 
 ## Virtualization
 Why do we use virtualization?
@@ -2099,7 +2120,7 @@ Install VMWare
 
 Install free virtualization software to run your virtual machine in! 
 
-I recommend vmware player, as that has been what I have always used, however there are many alternatives, primarily VirtualBox and QEMU.
+I recommend VMWare player, as that has been what I have always used, however there are many alternatives, primarily VirtualBox and QEMU.
 
 **NOTE: If you already have one of these two installed, use them if you don't want to download an extra program to your computer. It will slightly change your experience, but everything that happens inside the VM will remain the same so it will not hurt your ability to learn.**
 
@@ -2381,7 +2402,7 @@ You might have heard of this before. It's the big one.
 
 This is a classic set of challenges that every member of our team has fought through, and while it takes some time, you should have had enough experience to figure out what you need to do. It won't be easy, and it might not be the most fun, but completion of this challenge is the single greatest determining factor in whether or now you continue along this journey. This is where you have to grind it out, make things happen, get stuck, learn things, and really spend some quality time with man pages.
 
-Let us know if you get stuck on any challenge for longer than a half hour, we will gladly point you in the right direction. And no cheating, as Hemingway once said, “There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.” We like Hemingway. He  was a big fan of boats and adventures. We are too.
+Let us know if you get stuck on any challenge for longer than a half hour, we will gladly point you in the right direction. And no cheating, as Hemingway once said, \93There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.\94 We like Hemingway. He  was a big fan of boats and adventures. We are too.
 
 While there are 25 Bandit levels, at this time we only expect you to be able to complete 1-13. They will be hard, but we know you can do them. The rest of the levels are saved for different places throughout the rest of the course. 
 
@@ -3196,6 +3217,7 @@ Chrome Power User
     * Read about Cookies
         *  What on earth are cookies?
         * <https://computer.howstuffworks.com/cookie.htmhttps://developers.google.com/web/tools/chrome-devtools/storage/cookies>
+* Learn about common error codes! <https://www.digitalocean.com/community/tutorials/how-to-troubleshoot-common-http-error-codes>
 
 
 
@@ -3242,7 +3264,7 @@ I should go more into this, but for now, I have two articles for you to read.
 
 
 ### Tracking
-* A famous quote about the internet is “If a service is free, the product is you”. this applies from social media to news sites to free antivirus. Silicon Valley is built on advertising money, and they make their money targeting advertisements. The more targeted, the more money they can charge. It isn't always advertisments though. Anything can be  turned into a dataset from pictures of your face, your conversations, any behavioral feature, or things like what you buy and what malware you download.
+* A famous quote about the internet is \93If a service is free, the product is you\94. this applies from social media to news sites to free antivirus. Silicon Valley is built on advertising money, and they make their money targeting advertisements. The more targeted, the more money they can charge. It isn't always advertisments though. Anything can be  turned into a dataset from pictures of your face, your conversations, any behavioral feature, or things like what you buy and what malware you download.
      * Read how it works:
         * <https://www.newfangled.com/if-they-are-watching-should-you-watch-too/>
         * Describe one potential abuse of tracking and one benefit of tracking in 2-3 sentences.
