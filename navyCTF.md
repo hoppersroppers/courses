@@ -1,9 +1,7 @@
-C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\moodle_backup.xml
-510
-53
-activities/page_510
-C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_510\page.xml
-** -- Enrollment Instructions -- **
+[//]: # (C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\moodle_backup.xml)
+
+[//]: # (510,53,activities/page_510,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_510\page.xml)
+# ** -- Enrollment Instructions -- **
 
 
 Yes... Enrolment is spelled wrong. I have been informed by our distinguished British brethren that this the way they spell the word. This is an open source web app and I guess the developers are Brits. As an organization uniquely proud of America, it pains me not to create a fork specifically to fix it. Maybe someday I will, but for now... it is spelled enrol here.
