@@ -1,8 +1,6 @@
 [//]: # (C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\moodle_backup.xml)
 [//]: # (53,510,activities/page_510,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_510\page.xml)
 # ** -- Enrollment Instructions -- ** 
-
-
 Yes... Enrolment is spelled wrong. I have been informed by our distinguished British brethren that this the way they spell the word. This is an open source web app and I guess the developers are Brits. As an organization uniquely proud of America, it pains me not to create a fork specifically to fix it. Maybe someday I will, but for now... it is spelled enrol here. 
 
 First off, while you can view the course as a guest, you do need to register for the site in order to enroll. If you're not registered yet, click <https://navy.hoppersroppers.org/login/signup.php?> to signup. 
@@ -25,12 +23,9 @@ Enrollment in the course after site registration is not automatic! Unfortunately
 
 Alright, now you are ready to go! 
 
-
 ---
 [//]: # (54,512,activities/page_512,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_512\page.xml)
 # Secure Yourself Now
-
-
 You signed up for this course to improve yourself, to learn how to secure yourself online, and to help others. That's what this section is dedicated to. If you finish this section and don't do anything else, your participation in this course will be a success in my eyes. Maybe not in your chain of command's but that's a completely different story. 
 
 Of course, I would prefer you to continue in the course, but I'm glad you are here, and I hope you stick around. 
@@ -45,12 +40,9 @@ I'd like to think you don't already have malware on your computer but if you are
 
 I know this stuff is obvious, but it's easy to be complacent when we get home. We know what best practices are, so do them.  
 
-
 ---
 [//]: # (54,513,activities/page_513,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_513\page.xml)
 # Computer Related Health
-
-
 You probably spend a ton of time in front of a computer at work, but now that you're at home, your setup might not be what it was. If you're going to be working through this course, competing in our CTF, or binging Netflix, these are a few changes you can constantly put into practice that will make you a happier and healthier person.
 
 ## Ergonomics
@@ -62,12 +54,9 @@ You probably spend a ton of time in front of a computer at work, but now that yo
 * Are you used to your eyes hurting after too long on the computer? This is mostly from the blue light. There's a ton of research you can read to prove it, or you can download this and it will change your life. <https://justgetflux.com/>
    * Windows has this option by default now, so check for that before downloading flux.
 * It is also an option to get blue light filtering glasses, they should be pretty cheap (>$30). I swear by mine, but hey, whatever, it keeps my eyes from hurting when I am about to spend 12 hours scrolling packet captures.
-
 ---
 [//]: # (54,514,activities/page_514,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_514\page.xml)
 # General Wellness
-
-
 
 #### Hydrate Constantly
    * My life motto is "Stay Happy and Stay Hydrated", and it is inscribed in my class ring... so yeah, I take hydration seriously.
@@ -98,12 +87,9 @@ You probably spend a ton of time in front of a computer at work, but now that yo
   * <https://www.nimh.nih.gov/health/topics/suicide-prevention/index.shtml>
 
 There is a group named the Mental Health Hackers who are pretty cool and worth a look  <https://twitter.com/hackershealth>.
-
 ---
 [//]: # (54,515,activities/page_515,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_515\page.xml)
 # Questions
-
-
 Alright, you probably didn't expect this line of questioning in this course, and yet, here we are. Serious business time, three quick questions.
 
 1. Have you wished you were dead or wished you could go to sleep and not wake up?
@@ -117,12 +103,9 @@ If you answered yes to any of these questions, visit <https://suicidepreventionl
 If you don't want to talk to a stranger, my name is Dennis, text or call me at 914-299-7537, email me, or message me on here. As an important note, I am not in your chain of command, so my interpretation is that I am not required to report any conversations I have. If anyone disagrees, let me know. 
 
 It's okay to not be okay, talk to someone.
-
 ---
 [//]: # (54,516,activities/page_516,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_516\page.xml)
 # Why?
-
-
 You thought you were here to learn how to get better at computers so what is all this? 
 
 Well, hopefully your end goal of all this is that you become a better person and have a better life. If you want to be good at computers just for the sake of being good at computers that counts for something too, but to me, all this technology is just a way for me to accomplish more than I could by myself. 
@@ -130,12 +113,9 @@ Well, hopefully your end goal of all this is that you become a better person and
 If you're going to be doing anything in this world, might as well take care of yourself first. Learning security comes far after you and your well-being. 
 
 Now, on to the show! 
-
 ---
 [//]: # (55,518,activities/page_518,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_518\page.xml)
 # Letter from the Author
-
-
 ## Dedication
 This training is dedicated to the memories of [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz), [Bassel Khartabil](https://en.wikipedia.org/wiki/Bassel_Khartabil) and those named on the [National Cryptologic Memorial](https://www.nsa.gov/about/cryptologic-heritage/cryptologic-memorial/cryptologic-memorial-list.shtml).
 
@@ -147,12 +127,9 @@ Security is the shield of the modern world, and we need good people on the wall.
 Hack the planet
 
 -Dennis
-
 ---
 [//]: # (55,519,activities/page_519,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_519\page.xml)
 # Why Security
-
-
 This course is meant to give you the skills and more importantly, the mindset required to be successful in this line of work. If you already are successful, time to get better. 
 
 The only way to be good at anything in this field is to become comfortable looking at problems you have never seen before and then finding a way to solve what you are up against. This curriculum is not meant to turn you into a guru, but rather it is to provide you with a solid base of knowledge and mental models relating to security, as well as build your comfort level installing new programs, following tutorials for things you have never heard of before, and using the Linux operating system. If you leave this course with nothing other than an understanding of the hacker mentality, I have been successful by some measure. However, my goal is to help guide you through the first few steps of your journey into this world and to help you find your path afterwards as you develop even more advanced skills and continue your constant growth.
@@ -160,12 +137,9 @@ The only way to be good at anything in this field is to become comfortable looki
 While I have tried to do everything in my ability to make this course self-guided, there are hundreds of places where a questioning attitude will identify clear shortfalls in the content. Some of these are intentional, most of them are not. Your questions and feedback will guide the development of this course so that it can become the best resource possible.
 
 Surrounding this site is a community to help you and provide guidance as you move along.  This community grows with each student who signs up, and our mentors will be there every step of the way to answer questions, explain difficult concepts, and talk about just about anything to help you along the way. Make sure to take full advantage of the many ways we provide to message other mentors so that we can all be part of this together.
-
 ---
 [//]: # (55,520,activities/page_520,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_520\page.xml)
 # !! Enrollment Instructions !!
-
-
 This already was in the first section of the course, but the UI is not intuitive so a lot of people are having trouble enrolling themselves. Follow this to get yourself registered for the course.
 
 Yes... Enrolment is spelled wrong. I have been informed by our distinguished British brethren that this the way they spell the word. This is an open source web app and I guess the developers are Brits. As an organization uniquely proud of America, it pains me not to create a fork specifically to fix it. Maybe someday I will, but for now... it is spelled enrol here. 
@@ -190,12 +164,9 @@ Enrollment in the course after site registration is not automatic! Unfortunately
 
 Alright, now you are ready to go! 
 
-
 ---
 [//]: # (55,521,activities/page_521,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_521\page.xml)
 # Hopper's ...
-
-
 # Hopper's 
 Our team has gone by many names, but one of our favorite's is Hopper's Roppers. I know you know who she is. 
 
@@ -210,12 +181,9 @@ This quote comes from an interview in the July 1986 CHIP’s Ahoy Magazine, the De
 Read this: [http://www.doncio.navy.mil/chips/ArticleDetails.aspx?id=3563](http://www.doncio.navy.mil/chips/ArticleDetails.aspx?id=3563)
 
 
-
 ---
 [//]: # (55,522,activities/page_522,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_522\page.xml)
 # ... ROPpers
-
-
 # Roppers
 
 While there was a chance you knew what Hopper's meant, it is very unlikely that you have had any idea what Roppers meant, mostly because it is a word we made up to define a group of people who ROP. And if you have never heard of ROP, or Return Oriented Programming before, and.... that is not just okay, that is expected, because why on earth would you have known about an obscure programming topic before this exact moment in time. To quote Wikipedia, "Return-oriented programming (ROP) is a computer security exploit technique that allows an attacker to execute code in the presence of security defenses such as non-executable memory (W xor X technique) and code signing by chaining together carefully chosen machine instruction sequences to get control of the stack..."
@@ -225,12 +193,9 @@ Don't worry; none of that should have meant anything to you. That would have mad
 While many other sites that attempt to teach this material assume you already know a great deal of knowledge, we take a different approach to make this challenging subject as approachable as possible. For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to do stuff, but very quickly they realize that there is no way for them to learn everything. They’re not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. By managing new your high expectations of yourself, providing constant feedback on your progress, and bringing you into the community, this is designed to minimize dropout rate while providing the best first hundred hours of a cyber security education possible.
 
 
-
 ---
 [//]: # (55,523,activities/page_523,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_523\page.xml)
 # Core Tenets
-
-
 ## Core Tenets
 
 ![alt text](https://news.yale.edu/sites/default/files/styles/horizontal_image/public/d6_files/YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg?itok=4HL3ETlO "img3")
@@ -254,21 +219,15 @@ Nothing in this course is spoonfed, and while we try to give you good resources,
 
 ## Content
 This curriculum was created based on inputs from members of the Naval Academy's Cyber Security Team and various guides scattered throughout the internet on how to break into information security. We put this curriculum together by aggregating all of the guides and tutorials we could find, took what we thought was important and added our own commentary. To say that this is built on the backs of a hundred other people's work would be an understatement, and we am forever grateful that we are part of a community which has created so many amazing resources. All attempts to cite source material have been made, if there is anything we have not properly attributed, let us know. Despite having been in the works for the last four years, this is the first iteration of the curriculum and it should change drastically as we see what does and doesn't work, and the only way we will know is feedback.
-
 ---
 [//]: # (55,524,activities/page_524,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_524\page.xml)
 # Hacking
-
-
 The etymology of the word “hack” is very complicated, and anywhere you go you will find some slight disagreements. This is the most concise article you can find on the subject. <http://www.newyorker.com/tech/elements/a-short-history-of-hack>. As stated in the article, this is a point of contention, but honestly, it doesn't matter. If someone cares deeply about the definition of hack or hacker, good for them, but it shouldn't effect you.
 
 However, the most commonly agreed upon source for definitions is this page, <http://www.catb.org/~esr/jargon/html/H/hacker.html>, mostly because it has been around for a while and has the loosest definitions.
-
 ---
 [//]: # (55,525,activities/page_525,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_525\page.xml)
 # Legal Stuff
-
-
 ## Legal Stuff
 Unsurprisingly, in this course you will learn some things that could be used to do bad things. You might not think they're bad things at the time, and they might seem like funny pranks, but the laws against hacking are very vague. Even more importantly, you probably have a security clearance, and having a pile of felonies you have to admit to is not a great look and will complicate your paperwork.
 
@@ -285,12 +244,9 @@ It should also be mentioned that copyright law is also a good way to get in trou
 ## Classification
 Absolutely nothing here is classified, in any way, whatsoever. Nothing is derived from classified information. Don't bring any of that to this site. Thanks! 
 
-
 ---
 [//]: # (55,526,activities/page_526,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_526\page.xml)
 # Code of Conduct
-
-
 ### 0. Regulations and the UCMJ Always Apply 
 
 ### 1. Purpose
@@ -371,12 +327,9 @@ Portions of text derived from the Django Code of Conduct and the Geek Feminism A
 
 After reading our Code of Conduct, submit any recommendation or changes you would like to see in it. We will change anything here to make it more effective.
 
-
 ---
 [//]: # (55,527,activities/page_527,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_527\page.xml)
 # Join Us
-
-
 ## Slack
 Instant group messaging has been a cultural staple of the internet community since its inception, as it is truly one of the most important functions that global interconnectedness can serve. In the beginning there was email, then bulletin boards systems (BBS), then Internet Relay Chat (IRC). Finally, there was Slack.
 
@@ -404,32 +357,23 @@ You don't need a speech on OPSEC. Follow Rob Joyce. <https://twitter.com/RGB_Lig
 A major part of hacker culture is the idea of open source technology. What is open source? We will go into it later, but basically it is distributing software for free so that people can use and make changes in order to build the best software possible. GitHub is the modern center of the open source community, providing free hosting for millions of projects. In fact, almost the entire content of this site is on Github! A great deal of hacker street cred is based around the things you create and release to the public, and the best way to do that is on GitHub. In this course, we use Github to learn good development practices so that you can be a more effective coder.
 
 Read this to learn about what open source is: <https://opensource.com/resources/what-open-source>
-
 ---
 [//]: # (66,528,activities/page_528,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_528\page.xml)
 # The 'Competitive' Team
-
-
 When you sign up for this site, you automatically become a member of our not-at-all competitive team, which also happens to be named Hopper's Roppers. This whole site is grown out of the training I made for my college security team who competed in various cyber security competitions. Now, Hopper's Roppers is a distributed team, open to anyone, but is especially meant to be a place for beginners to learn the ropes in and we will participate in any event we have the numbers for. You will not be ready to compete while you are still working your way through this course... the good news, is you don't need to be ready to compete to do it. All you have to do is sign up, know your brain is going to hurt and you probably won't understand anything, and be ready to learn. 
 
 There is no better measure of ability, grit, and the hacker mentality than playing in a competition. Every CTF requires you to use what you already know to identify what you will need to learn on the spot to solve the problem. As you are now a member of our team, we will let you know when competitions are occurring and we hope to see you there if you have the time. Even if you are new and don't think you have anything to contribute, you will learn more picking someone's brain as you shoulder-surf them (or watch them on Twitch) than you possibly could trying to learn by yourself.
 
-
 ---
 [//]: # (66,563,activities/page_563,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_563\page.xml)
 # Jeopardy Style
-
-
 Read this <https://ctfd.io/whats-a-ctf/> and watch the video to learn more.
 
 It's from the people behind CTFd, some cool folks from NYU that wrote the software that most Jeopardy style competitions run off.
 
-
 ---
 [//]: # (66,562,activities/page_562,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_562\page.xml)
 # Join the Team
-
-
 Request to join the Hopper's Roppers team on CTFtime. 
 
 <https://ctftime.org/team/104886>
@@ -437,12 +381,9 @@ Request to join the Hopper's Roppers team on CTFtime.
 CTFtime is great because it lets you find upcoming events <https://ctftime.org/event/list/upcoming> as well as provides a leaderboard for the best teams around the world.
 
 Now when you sign up for CTFs you can get the team points on the leaderboard. 
-
 ---
 [//]: # (66,565,activities/page_565,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_565\page.xml)
 # What You Will Learn
-
-
 There are a wide variety of skills required to succeed in a CTF competition.
 
 This course will attempt to teach you everything you need to know to start and take on any competition. 
@@ -452,21 +393,15 @@ First, we will start with how to use linux and linux command line tools. Then af
 Forensics is comprised of host-based and network forensics and we will go into the basics of that. Cryptography will be brief and will go over basic problems and how to solve them. We will also go into the basics of web exploitation and how some of those challenges work.
 
 This is a beginner course, so we will not be getting into Reverse Engineering or Binary Exploitation at all. This is meant to prepare you for the picoCTF competition where you will have to figure out how to use the skills and resources you learned in this course to solve problems as you go. 
-
 ---
 [//]: # (56,531,activities/page_531,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_531\page.xml)
 # This Shit is Hard
-
-
 Doing cool things with computers is hard (have I said that before), and yes there is an aspect that requires technical knowledge, but mostly, it just takes time. Doing cool things with computers is less of a technical challenge and more of an attitude and a willingness to work hard and teach yourself what you need to know in order to succeed in whatever you are trying to do. Our curriculum here is meant to give you the basic tools you will need to understand the challenges you face, but solving them is going to be on you. We'll be honest, this isn't easy. This isn't something that will take you a month or two to get the hang of. One of the primary curses of doing cool shit with computers is that each time you learn something, you immediately realize a new pile of things that you do not know. There's nothing wrong with not knowing things, and no one could ever expect you to. Even "experts" will only know a small slice of the greater field that is doing cool things with computers. Expecting anyone to be good at everything is ridiculous, but it is even more ridiculous for anyone to think a beginner should know everything... or really, anything. There's a lot of acronyms, slang, in-jokes, and domain specific knowledge. One of the promises we will make to you is that we will not ever put in an acronym, slang, or in-joke without explaining it.
 
 If you can stick with and complete this course, you will be armed with the baseline knowledge and attitude you need to be able to learn anything. Probably the most important skill you will learn is how to use all of your resources effectively, whether that is your classmates, teachers, reference pages, or Google. Mostly, Google. It will take a year or two before you get comfortable and stop feeling totally lost every day, but then you'll just start working on harder problems and you'll wind up more confused than you could imagine being now. Being good at computering is a long term process of reinforcing and building on the basic knowledge we will teach you in this course, and it will never end until you decide the computers have won. Don't let the computers win, and keep learning everything you can.
-
 ---
 [//]: # (56,532,activities/assign_532,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_532\assign.xml)
 # Hacker Attitude
-
-
 Read this post: [http://www.catb.org/~esr/faqs/hacker-howto.html](http://www.catb.org/~esr/faqs/hacker-howto.html) It isn't perfect, but it will do for now until I write a new one. The biggest problem with this is that the author, while once a famous hacker and important member of the open source movement, is a total asshole. None of the content is bad, but we are in the process of trying to write something to replace all of his content in this curriculum.
 
 While there is a lot in there that is very interesting, the most important part is the hacker attitude.
@@ -483,12 +418,9 @@ While there is a lot in there that is very interesting, the most important part 
 
 These 5 statements provide a reasonable framework for how you should approach learning this material. It should be fun, we shouldn't be wasting your time, there should be multiple ways for you to succeed, and we are measuring success by your ability at the end. Make sure you've really read through the post and then write 4-6 sentences on your interpretation of the last sentence in part one of the Hacker Attitude, “You also have to develop a kind of faith in your own learning capacity — a belief that even though you may not know all of what you need to solve a problem, if you tackle just a piece of it and learn from that, you'll learn enough to solve the next piece — and so on, until you're done.”
 
-
 ---
 [//]: # (56,533,activities/assign_533,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_533\assign.xml)
 # Hacker Ethic
-
-
 From the same site as the Hacker How-To comes this brief description of the hacker ethic. Again, I am in the process of writing something else, but for now this is good enough.   
 
 Read it: [http://www.catb.org/jargon/html/H/hacker-ethic.html](http://www.catb.org/jargon/html/H/hacker-ethic.html)
@@ -514,12 +446,9 @@ They come out to 5 key beliefs:
 6.  Computers can change your life for the better
 
 Write a few sentences on what matters in the hacker ethic.  
-
 ---
 [//]: # (56,534,activities/assign_534,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_534\assign.xml)
 # Sharing
-
-
 One of the key parts of this mindset is sharing knowledge with others. A great quote on the subject is 'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.'  Not to mention, the more you give back to the community, the greater the value you provide. If you're just starting off, you might not think you have anything to provide, but in fact, you're looking at the world with a different perspective than someone who has done it for years. For example, you can provide feedback on when training makes no sense or isn't as effective as it could be, and help make it easier for the next person to go through it. This site is a work in progress and the more feedback we receive the better it will be.  
 
 With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should “Read the Fucking Manual” or “RTFM”. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started. The most common "manual" you will come across in this course and your travels through hackerdom are the man-pages that accompany every single aspect of the Unix operating system, and they are a great resource for people who have spent years learning how to understand them. Right now, you don’t have the knowledge to be expected to understand how they work, and that is fine. There is no pressure to know anything, but there is pressure to learn. 
@@ -527,19 +456,13 @@ With that said, you're definitely going to have questions. There are nearly infi
 The comic web site Xkcd is a nerd cultural treasure and you will see it referenced constantly. Remember, you don’t have to get them all, when you are not sure, there is http://www.explainxkcd.com. Read [this comic](https://xkcd.com/1692/), and hover your mouse over it to get the alt-text. Submit what the alt-text tells you to do.  
 
 
-
 ---
 [//]: # (56,535,activities/assign_535,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_535\assign.xml)
 # Alt-Text
-
-
 You might be thinking to yourself... what is alt-text? Funny you ask that. Depending on your current browser, figure out how to view the web page's source code for <https://xkcd.com/1692/>. This might require some Googling. What you are looking at is hypertext markup language or HTML for short. HTML is the language that websites are made of. If you already knew that, good for you. You will learn a great deal more later, but for now, look at the code and find where the main picture is stored in the webpage. Now do you understand what alt-text means? Submit the entire tag, starting with < and ending with >.
-
 ---
 [//]: # (56,536,activities/assign_536,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_536\assign.xml)
 # RTFM
-
-
 ### In Defense of RTFM
 
 RTFM gets a bad rap for good reason, because it is usually used as a put down on someone who doesn't know much about a subject... with that said, once you have the knowledge to understand a topic, if you are using that software, you should read the manual. Even if you don't understand the manual, if you are going to ask a question, you might as well reference that you know the manual exists and that what you are asking is referenced, you just need clarification. If you ask questions effectively you will find you understand your initial question and the topic much better than if you had someone explain the answer to just your specific question.
@@ -552,12 +475,9 @@ You will use google for 98% of all CTF questions. That's just how it goes. CTFs 
 
 For now, check out this site with [Google tricks](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) and submit a screenshot of the search results for Hopper's Roppers using the operator symbol that only returns results that include all terms within quotes in the exact given order.
 
-
 ---
 [//]: # (56,537,activities/assign_537,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_537\assign.xml)
 # Questions
-
-
 ## Questions
 
 This section is derived from "How to Ask Smart Questions" by the ESR CATB guy we've already looked at a few times in this section. As we already said, guy is a total asshole so I am not going to send any more traffic his way.
@@ -586,12 +506,9 @@ If you're in person, just ask. It's faster than Googling and you'll get more out
 We already told you what RTFM stood for, so now we're gonna have you do it. 
 
 Visit this [man-page](https://linux.die.net/man/1/bash) and write down the first three things you don’t understand. Then google them and figure out what they are. Submit 3 sentences explaining the 3 things you didn’t know. For the love of everything, don’t read any further once you are done with that. Remember Rule 3 of the Hacker Attitude, “Boredom and Drudgery are evil.” If you're not getting anything out of something at any point in this course, don't do it, and leave us feedback that we are wasting your time. We mean that. You won't hurt our feelings.
-
 ---
 [//]: # (56,538,activities/assign_538,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_538\assign.xml)
 # Brainwashing and Learning
-
-
 ## Brainwashing 
 
 As we said before, hacking is a mindset, not a skillset. Sure you'll pick up plenty of useful skills along the way, but the primary benefit of the hacker mentality is being able to look at the world, see a problem you've never approached before, and figure out how to solve it. We are trying to cultivate that mindset, and yes, we are going to try to subtly brainwash you. We're not sorry about it. Genuine interest and drive are the two best indicators of success in this field, and we want to encourage it as much as we possibly can. How do we teach that? How do we measure that? We don't know. If we were pretentious losers we might say we're trying to hack your brain into becoming a hacker. But we're not. So lets call it brainwashing. Are you okay with being brainwashed?* 
@@ -637,19 +554,13 @@ Answer these questions:
 
 Submit the your questions and your goal date for this course.
 
-
 ---
 [//]: # (57,560,activities/assign_560,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_560\assign.xml)
 # Validate this Section
-
-
 If you already have a virtual machine set up for yourself at your house and you are very confident in you linux command line abilities, submit a statement why you don't need to do this before moving on to the Programming section.
-
 ---
 [//]: # (57,540,activities/assign_540,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_540\assign.xml)
 # Virtualization
-
-
 # Building Your Own Lab
 ## Introduction
 Building your own lab is important for a lot of reasons, but most importantly it is fun and teaches you a bunch of valuable information. In this section we will do some work securing our daily lives and install a virtual machine for us to work on. What you will be making is uniquely yours and will be something that you will work on and refine for the rest of your time doing the computers. This is your new workbench/hangout spot, so take pride in what you are making and make it yours.
@@ -661,19 +572,11 @@ Read [https://www.redhat.com/en/topics/virtualization](https://www.redhat.com/en
 
 Write up a few sentences on the primary benefits of running a virtualized environment inside of your Windows machine.
 
-
 ---
 [//]: # (57,541,activities/folder_541,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\folder_541\folder.xml)
 # Installation
-
-
-None
-
----
 [//]: # (57,542,activities/assign_542,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_542\assign.xml)
 # Install VMWare
-
-
 Install free virtualization software to run your virtual machine in! 
 
 I recommend vmware player, as that has been what I have always used, however there are many alternatives, primarily VirtualBox and QEMU.
@@ -683,12 +586,9 @@ I recommend vmware player, as that has been what I have always used, however the
 [https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
 
 This should be very straightforward. When you are complete, submit a screenshot of VMWare (or whatever you decided to use). Use the Microsoft 'Snip' tool to forever change your screenshot game. Just type "Snip" into the search bar and it will appear.
-
 ---
 [//]: # (57,543,activities/assign_543,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_543\assign.xml)
 # Install Ubuntu
-
-
 Install the Linux operating system Ubuntu using your virtualization software of choice! If you already have a VM with a Linux image on it, you don't need to download a new one just for this course. It will not change any aspect of your experience and there is no need to waste time or space. 
 
 An image is what we refer to an Operating System when packaged into a format that can be run off of a disc, usually having a .iso extension. We can download .iso's and boot off of the disc, but it's generally easier to use a VM.
@@ -706,85 +606,56 @@ We always try to link to the source of things, even dank memes. It's a weird thi
 
 When you're done, submit a screenshot of you running the Linux VM.
 
-
 ---
 [//]: # (57,544,activities/assign_544,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_544\assign.xml)
 # Install VMWare Tools
-
-
 Your VM might have automatically done this for you, or perhaps your guide had you did this. If not, you need to install VMWare Tools for Ubuntu.  If you are not using VMWare, skip this. 
 
 You need this for a lot of critical usability things, and it doesn't come pre-installed. You have most likely already seen prompts telling you to do this. Do it. I'll be honest, this can be kinda difficult sometimes, but you gotta figure your own way through this. Again, if you have any trouble, and this takes more than a half hour to figure out, call someone over or message us and we will help you out. There is no shame, I've had VMs before that I gave up trying to install VMWare tools and just sucked it up for a week. You'll be on this VM for a while, so you need to get it installed. 
 
 When complete, submit a screenshot that shows VMWaretools installed.
-
 ---
 [//]: # (57,546,activities/folder_546,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\folder_546\folder.xml)
 # Intro to Linux
-
-
-None
-
----
 [//]: # (57,629,activities/page_629,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_629\page.xml)
 # CTF Meta (I/P)  (copy)
-
-
 Host forensics is the most hated of all CTF problem types. Why? People who are lazy and make these problems sometimes make it a dumb game. That isn't to say it is all terrible, but you need to be ready for it.
 
 * Cracking passwords on zip files or stego programs
 * Steganography problems
 * Anything that is solved by just running the right tool. Good CTF problems should require skill.
 * Time-consuming recon challenges.
-
 ---
 [//]: # (57,550,activities/assign_550,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_550\assign.xml)
 # Linux Journey Command Line
-
-
 Linux Journey is an amazing site that has the best guides on how to use Linux out there. Complete the class located at this link and submit a screenshot of the completion confirmation when you are done.
 
 When working through all of these classes, do all actions listed on the page in your own browser and play around to see how they work. 
 [https://linuxjourney.com](https://linuxjourney.com)
-
 ---
 [//]: # (57,551,activities/assign_551,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_551\assign.xml)
 # Linux Journey Text-Fu
-
-
 Complete the class located at this link and submit a screenshot of the completion confirmation when you are done.
 
 [https://linuxjourney.com](https://linuxjourney.com)
-
 ---
 [//]: # (57,552,activities/assign_552,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_552\assign.xml)
 # History
-
-
 Using the history command and all the knowledge you have gained, pipe your command line history into a file and submit it. There should be a lot of things from your time doing LinuxJourney. We are doing this so that we can understand where our curriculum breaks down and where we need to go into greater detail so you don't get as lost. 
-
 ---
 [//]: # (57,567,activities/assign_567,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_567\assign.xml)
 # *** Netcat and SSH (I/P) *** 
-
-
 I don't have this built yet, but I should 
-
 ---
 [//]: # (57,553,activities/page_553,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_553\page.xml)
 # Man Pages
-
-
 Read this. [https://www.cs.mcgill.ca/~guide/help/man.html](https://www.cs.mcgill.ca/~guide/help/man.html)
 Remember, if the man page doesn't help, googling the command and the word "usage" will usually get you where you need to be. 
 
 You are going to this for your next challenge! 
-
 ---
 [//]: # (57,593,activities/page_593,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_593\page.xml)
 # Over the Wire Bandit
-
-
 Here it is: Over the Wire...
 
 You might have heard of this before. It's the big one.
@@ -800,31 +671,22 @@ Whenever you finish lessons, 1, 5, 10 let us know in chat! When you finish 13, l
 Good luck!!!! We are not going to let you end your journey here!!!
 
 Complete [http://overthewire.org/wargames/bandit/](http://overthewire.org/wargames/bandit/).
-
 ---
 [//]: # (58,628,activities/page_628,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_628\page.xml)
 # CTF Meta (I/P) 
-
-
 Host forensics is the most hated of all CTF problem types. Why? People who are lazy and make these problems sometimes make it a dumb game. That isn't to say it is all terrible, but you need to be ready for it.
 
 * Cracking passwords on zip files or stego programs
 * Steganography problems
 * Anything that is solved by just running the right tool. Good CTF problems should require skill.
 * Time-consuming recon challenges.
-
 ---
 [//]: # (58,561,activities/assign_561,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_561\assign.xml)
 # Validate this Section
-
-
 If you already are confident in your ability to write python scripts (or any other scripting language), submit a statement why you don't need to do this before moving on to the CTF section.
-
 ---
 [//]: # (58,556,activities/assign_556,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_556\assign.xml)
 # Programming Languages
-
-
 There are plenty of people out there who say you can be good at computers and cyber security without knowing how to program. Those people are wrong. Sorry for being a jerk about it.
 
 
@@ -840,12 +702,9 @@ This is important. Try to really understand the breadth of what programming lang
   * <https://norvig.com/21-days.html>
    1. In your own words, describe what a program is.
    2. In your own words describe what a programming language is.
-
 ---
 [//]: # (58,557,activities/assign_557,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_557\assign.xml)
 # Python
-
-
 There are hundreds of languages out there, but the language we are going to start with is Python. Python is a fairly simple and easy to learn language, but more importantly, is fast to write and allows advanced you to throw together scripts whenever you need them. There are a ton of great security references and plugins to the language and it allows you to accomplish just about anything you could need to do using just one language. In the future you will learn plenty other languages, but for right now, Python will suffice.
 
 This is going to take a while, but Codeacademy Python is the best way I've found to learn a first programming language. It is all done in an online editor and will let you progress with the appropriate hints. 
@@ -858,12 +717,9 @@ Keep us updated in chat on your progress, we will be reaching out to you too. Wh
       * <https://www.codecademy.com/learn/python>
 
 So you know a language now, right? Congratulations! The thing to remember is that all skills, if not used, will slowly atrophy. My recommendation is to constantly challenge yourself to maintain your skill level so when you have to write a program, you can whip something up immediately without having to relearn the syntax... or you can just ignore it completely and when the need arises, spend a half hour fumbling until you remember enough to get it working. Both of those are completely valid ways to maintain proficiency in a language. This course won't teach you any more languages, but if you continue in this pipeline you will learn C and some low level assembly.
-
 ---
 [//]: # (58,558,activities/assign_558,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_558\assign.xml)
 # Python from the Terminal
-
-
  You are a big bad programmer now, but it has all been done in your browser! Time to learn how to do it from the terminal on your computer(s). This might require some googling..... don't worry, that is literally how programming works. You find something you need to do, and google how to do it. Then you forget how to do it, and you go and google it again the next time you do it. The next bit will help you set up your python environment in your OS's. Setting up environments is very time consuming, no matter what it is, but you will have to do this for basically every language, and every version of each language, so you will have to get good at it.
 
 
@@ -883,12 +739,9 @@ So you know a language now, right? Congratulations! The thing to remember is tha
 
 Programming and scripting are different, but share most of the same principles, and these principles will be shared between all languages. Once you can program well in one language, you can learn any language, it just will take a bit to learn.
 
-
 ---
 [//]: # (72,627,activities/page_627,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_627\page.xml)
 # Canonical Documents (I/P)
-
-
 <https://github.com/pwning/docs/blob/master/suggestions-for-running-a-ctf.markdown> 
 
 ## Flag Format
@@ -953,31 +806,20 @@ If a problem has already been solved, be extremely sensitive about making change
 
 
 <http://captf.com/maxims.html>
-
 ---
 [//]: # (67,625,activities/page_625,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_625\page.xml)
 # CTF Meta (I/P)
-
-
 Host forensics is the most hated of all CTF problem types. Why? People who are lazy and make these problems sometimes make it a dumb game. That isn't to say it is all terrible, but you need to be ready for it.
 
 * Cracking passwords on zip files or stego programs
 * Steganography problems
 * Anything that is solved by just running the right tool. Good CTF problems should require skill.
 * Time-consuming recon challenges.
-
 ---
 [//]: # (67,594,activities/folder_594,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\folder_594\folder.xml)
 # File Forensics
-
-
-None
-
----
 [//]: # (67,568,activities/assign_568,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_568\assign.xml)
 # Representing Data 1
-
-
 * How do these ones and zeros work? <https://learn.sparkfun.com/tutorials/binary>
 * Also hey, what is hex? <https://learn.sparkfun.com/tutorials/hexadecimal>
 
@@ -1001,12 +843,9 @@ Any time you need to deal with a file format, google will provide most of the an
    4. What does "c2l4dHlmb3Vy" translate to from Base64?
 
 * It is annoying to do that by hand, but it does help. Here is a tool so that you never have to do that again. <https://gchq.github.io/CyberChef/>. Fun fact, it is released by GCHQ, Britain's version of the NSA. Great tool and very useful. There are about a thousand uses for this thing, you can find a bunch on GitHub.
-
 ---
 [//]: # (67,569,activities/assign_569,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_569\assign.xml)
 # Representing Data 2
-
-
 * Read this <https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l01/lec.html>
 * Do the HW other than problem 9. <https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l01/hw/hw.pdf>
 1. Submit pictures of the HW.
@@ -1016,62 +855,44 @@ Any time you need to deal with a file format, google will provide most of the an
 
 
 
-
 ---
 [//]: # (67,574,activities/assign_574,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_574\assign.xml)
 # File Carving 1
-
-
 Follow this walkthrough: <https://github.com/HackThisSite/CTF-Writeups/tree/master/2017/EasyCTF/Zooooooom>
 
 Submit a screenshot of your solution. 
 
-
 ---
 [//]: # (67,575,activities/assign_575,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_575\assign.xml)
 # File Carving 2
-
-
 Follow this walkthrough: <https://github.com/ctfs/write-ups-2015/tree/master/csaw-finals-ctf-2015/forensic/mandiant>
 
 Submit a screenshot of your solution. 
 
-
 ---
 [//]: # (67,576,activities/assign_576,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_576\assign.xml)
 # File Carving 3
-
-
 Follow this walkthrough: <https://blog.stalkr.net/2010/05/defcon-18-ctf-quals-writeup-forensics.html>
 
 Submit a screenshot of your solution. 
 
-
 ---
 [//]: # (67,577,activities/assign_577,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_577\assign.xml)
 # File Carving 4
-
-
 Follow this walkthrough: <https://medium.com/@the.bilal.rizwan/intigriti-ctf-writeup-737009900a42>
 
 Submit a screenshot of your solution. 
 
-
 ---
 [//]: # (67,579,activities/assign_579,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_579\assign.xml)
 # File Carving 5
-
-
 What files are contained inside of PoC || GTFO Volume 7? <https://www.alchemistowl.org/pocorgtfo/pocorgtfo07.pdf> 
 
 Submit a screenshot of what you have found.
 
-
 ---
 [//]: # (67,580,activities/assign_580,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_580\assign.xml)
 # File Metadata
-
-
 What is metadata in the real world? <https://ssd.eff.org/en/module/why-metadata-matters>
 
 Usually we are thinking about in the context of communications, but files contain metadata as well. When it was created, where, by who... sometimes it even will tell you the type of machine. 
@@ -1079,21 +900,15 @@ Usually we are thinking about in the context of communications, but files contai
 Read this: <https://ctf101.org/forensics/what-is-metadata/>
 
 Give me the GPS coords for this picture: <https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg>. I recommend this site: <http://exif.regex.info/>										
-
 ---
 [//]: # (67,581,activities/assign_581,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_581\assign.xml)
 # File Metadata 2
-
-
 Follow this walkthrough: <https://github.com/ctfs/write-ups-2015/tree/master/insomni-hack-ctf-2015/forensic/zoom-in>		
 
 Submit a screenshot of your solution.							
-
 ---
 [//]: # (67,582,activities/assign_582,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_582\assign.xml)
 # Steganography 1
-
-
 Steganography, or stego, challenges are among the most hated of all CTF challenges because they really are only limited in difficulty by how much of a pain in the ass the people who wrote the challenge are.
 
 Luckily, there are a few "standard" problems and tools that make solving those problems easier. 
@@ -1106,49 +921,45 @@ I recommend you use this link to download Stegsolve <https://github.com/eugeneko
 
 
 I recommend you use this link to download Steghide <https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve>. Steghide is the defacto tool for password protected stego challenges, but don't forget to try steghide with no password. 
-
 ---
 [//]: # (67,583,activities/assign_583,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_583\assign.xml)
 # Steganography 2
-
-
 Complete this writeup and submit a screenshot of the answer: <https://github.com/ctfs/write-ups-2015/tree/master/pragyan-ctf-2015/stegano/what_you_see_is_what_you_get> 
 
 I recommend you use this link to download Steghide<https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve>. Steghide is the defacto tool for password protected stego challenges, but don't forget to try steghide with no password. 
-
 ---
 [//]: # (67,597,activities/folder_597,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\folder_597\folder.xml)
 # Host Forensics
-
-
-None
-
----
 [//]: # (67,584,activities/assign_584,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_584\assign.xml)
 # *** Host Forensics 1 (I/P) ***
-
-
-None
-
----
+# enabled
+# enabled
+# maxfilesubmissions
+# maxsubmissionsizebytes
+# filetypeslist
+# enabled
+# enabled
+# commentinline
+# enabled
+# enabled
+# enabled
 [//]: # (67,596,activities/folder_596,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\folder_596\folder.xml)
 # Memory Forensics
-
-
-None
-
----
 [//]: # (67,585,activities/assign_585,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_585\assign.xml)
 # *** Memory Forensics (I/P) ***
-
-
-None
-
----
+# enabled
+# enabled
+# maxfilesubmissions
+# maxsubmissionsizebytes
+# filetypeslist
+# enabled
+# enabled
+# commentinline
+# enabled
+# enabled
+# enabled
 [//]: # (73,624,activities/page_624,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_624\page.xml)
 # CTF Meta (I/P)
-
-
 Forensics can include a number of elements mixed together such as:
 
 Network (pcap files)
@@ -1160,31 +971,20 @@ When creating network challenges (.pcap etc) rather than a 'follow TCP stream' p
 Adding layers of basic encoding, encryption or rolling custom protocols can be great for more advanced challenges, but make sure it doesn't turn a network forensics challenge into a crypto one; the skill you want to highlight here is understanding network concepts and technologies and strengthen the player's ability to utilize wireshark/tshark/scapy confidently.
 Conduct challenge creation in a sandbox with planned noise/interference, do not run on local machines with dropbox packets flying around.
 Definitely play around with Internet-of-Things devices, QR code lookups, and finding the source of an attackers origin IP through proxies/VPNs etc. These are all valid real-world examples and require the player to observe, identify and analyse.
-
 ---
 [//]: # (73,578,activities/folder_578,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\folder_578\folder.xml)
 # Network Forensics
-
-
-None
-
----
 [//]: # (73,573,activities/page_573,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_573\page.xml)
 # Wireshark (Requires Fixing)
-
-
  * Work through the NewBoston Wireshark tutorial. No need to watch all of it, or at regular speed. Try 1.5 speed (or 2x) and bounce around to learn as much as you can.
 
 <https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBI2ZFuyZOl5Q7sptR7PwYN>
 
  I'm sorry. This deserves its own thing but I haven't made it yet.
  
-
 ---
 [//]: # (73,600,activities/page_600,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_600\page.xml)
 # tShark
-
-
 Follow this tutorial: <https://hackertarget.com/tshark-tutorial-and-filter-examples/>
 
 To create your initial pcap, run the command "tshark -i wlan0 -w capture-output.pcap" and then visit <https://hoppersroppers.org> and <http://zombo.com/>.
@@ -1192,12 +992,9 @@ To create your initial pcap, run the command "tshark -i wlan0 -w capture-output.
 Then continue through the rest of the tutorial using the pcap you recorded.
 
 
-
 ---
 [//]: # (73,571,activities/assign_571,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_571\assign.xml)
 # Networking RFCs 1
-
-
 RFCs or Request for Comments, is the way that the internet develops standards. Read this to learn more: <https://www.lifewire.com/what-is-internet-request-for-comments-rfc-4092366> We talked about them a bit in the Representing Data section.
 
 Now the important thing is how to read an RFC.
@@ -1212,12 +1009,9 @@ Now the important thing is how to read an RFC.
 4. What is a GET request and what does it look like?
 5. What is a User-Agent?
 6. What RFC guides "cache-control" in a header?
-
 ---
 [//]: # (73,572,activities/assign_572,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_572\assign.xml)
 # Networking RFCs 2
-
-
 * Skim the DNS RFC to answer questions. I won't give you the RFC for this, go find it.
 
 1. What is the format of a DNS Resource Request (RR) datagram?
@@ -1229,61 +1023,37 @@ Now the important thing is how to read an RFC.
 7. In the header of a message, how many bits from the ID field is the TC bit?
 
 Congratulations, you are, at this exact moment in time, the world's 2nd most knowledgeable person about TC bits. Alright, now time to forget that and move on to learning more important things, like reading the "Standard for the Transmission of IP Datagrams on Avian Carriers" for fun. I promise this one is shorter. <https://www.rfc-editor.org/rfc/rfc1149.txt>
-
 ---
 [//]: # (73,601,activities/assign_601,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_601\assign.xml)
 # NetForensics 1
-
-
 Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/forensics/transfer-100> 
-
 ---
 [//]: # (73,602,activities/assign_602,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_602\assign.xml)
 # NetForensics 2
-
-
 Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://medium.com/@marcellelee/ctf-challenge-walkthrough-network-traffic-analysis-rogue-user-f87ae923130> 
-
 ---
 [//]: # (73,603,activities/assign_603,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_603\assign.xml)
 # NetForensics 3
-
-
 Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://medium.com/@marcellelee/ctf-challenge-walkthrough-network-traffic-analysis-rogue-user-f87ae923130> 
-
 ---
 [//]: # (73,604,activities/assign_604,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_604\assign.xml)
 # NetForensics 4
-
-
 Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://blogs.tunelko.com/2013/09/01/asis-ctf-simple-pcap-spcap-writeup/> 
-
 ---
 [//]: # (73,605,activities/assign_605,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_605\assign.xml)
 # NetForensics 5
-
-
 Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://ctftime.org/writeup/10362> 
-
 ---
 [//]: # (73,606,activities/assign_606,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_606\assign.xml)
 # NetForensics 6
-
-
 Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://github.com/ctfs/write-ups-2015/tree/master/ghost-in-the-shellcode-2015/forensics/cloudfs> 
-
 ---
 [//]: # (73,607,activities/assign_607,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_607\assign.xml)
 # NetForensics 7
-
-
 Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://github.com/ctfs/write-ups-2015/tree/master/hack-dat-kiwi-ctf-2015/forensics/ssl-sniff-2> 
-
 ---
 [//]: # (68,623,activities/page_623,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_623\page.xml)
 # CTF Meta (I/P)
-
-
 In general try to give the competitors as much information as you can. Working source code with secret keys clearly X'ed out is ideal.
 
 If you have a ciphertext only problem, try to do the following:
@@ -1293,19 +1063,11 @@ If you have a ciphertext only problem, try to do the following:
 *If you are using any crypto system made after the 19th century, be sure to tell challengers what the algorithm is. No one wants to guess whether ciphertext is from an Enigma or a Purple Machine; or from 3DES or GOST
 
 If your problem requires a lot of local computation, make sure to test it on reasonable consumer hardware. Realizing late in the competition that while you have the right method of solving the problem, you don't have the computation power to complete the computation before the end is a bad feeling. In general, under an hour on fairly modern consumer hardware is fine; more than that should have good justification.
-
 ---
 [//]: # (68,609,activities/folder_609,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\folder_609\folder.xml)
 # Classical Ciphers
-
-
-None
-
----
 [//]: # (68,610,activities/assign_610,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_610\assign.xml)
 # Frequency Analysis
-
-
 Read this: <https://www.dcode.fr/frequency-analysis>
 
 Use the tool to determine the frequency of characters, bigrams, and trigrams of the text: 
@@ -1317,12 +1079,9 @@ Then use the tool to determine frequency of chars, bigrams, and trigrams of this
 "Iuhtxhqfb dqdobvlv lv wkh vwxgb ri wkh glvwulexwlrq ri wkh ohwwhuv lq d whaw. Dqdobvlv ri iuhtxhqflhv khos ghfubswlqj vxevwlwxwlrq-edvhg flskhuv xvlqj wkh idfw wkdw vrph ohwwhuv dssdulwlrqv duh ydublqj lq d jlyhq odqjxdjh : lq hqjolvk, ohwwhuv H, W ru D duh frpprq zkloh C ru T duh uduh."
 
 Explain how frequency analysis can be used to identify the type of cipher used.
-
 ---
 [//]: # (68,611,activities/assign_611,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_611\assign.xml)
 # Automated Frequency Analysis
-
-
 Read this: <https://planetcalc.com/8047/>
 
 Then decrypt this: "Iuhtxhqfb dqdobvlv lv wkh vwxgb ri wkh glvwulexwlrq ri wkh ohwwhuv lq d whaw. Dqdobvlv ri iuhtxhqflhv khos ghfubswlqj vxevwlwxwlrq-edvhg flskhuv xvlqj wkh idfw wkdw vrph ohwwhuv dssdulwlrqv duh ydublqj lq d jlyhq odqjxdjh : lq hqjolvk, ohwwhuv H, W ru D duh frpprq zkloh C ru T duh uduh."
@@ -1337,12 +1096,9 @@ Crypto has a lot of math, but luckily, because it is math, someone else has usua
 2. Explain how frequency analysis can be used to automatically detect the correct decryption of a ciphertext.
 3. What is leet speak?
 4. How would this break a text fitness calculation?
-
 ---
 [//]: # (68,612,activities/assign_612,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_612\assign.xml)
 # Index of Coincidence
-
-
 Read this: <https://www.dcode.fr/index-coincidence>
 
 "Iuhtxhqfb dqdobvlv lv wkh vwxgb ri wkh glvwulexwlrq ri wkh ohwwhuv lq d whaw. Dqdobvlv ri iuhtxhqflhv khos ghfubswlqj vxevwlwxwlrq-edvhg flskhuv xvlqj wkh idfw wkdw vrph ohwwhuv dssdulwlrqv duh ydublqj lq d jlyhq odqjxdjh : lq hqjolvk, ohwwhuv H, W ru D duh frpprq zkloh C ru T duh uduh."
@@ -1351,12 +1107,9 @@ Read this: <https://www.dcode.fr/index-coincidence>
 2. What is a transposition cipher?
 3. What is a monoalphabetic cipher?
 4. What is a polyalphabetic cipher?
-
 ---
 [//]: # (68,613,activities/assign_613,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_613\assign.xml)
 # Caesar Ciphers and Substitution
-
-
 ## Caesar 
 
 The most common, and most famous, of all ciphers.
@@ -1387,12 +1140,9 @@ JDS FGBOG YVACGJSLJ AJJAWF TAFSU CJ YBUUCQVS JB ZSZIWS UBTS VSJJSNU BX JDS AVYDA
 Don't forget to use frequency analysis. 
 
 
-
 ---
 [//]: # (68,614,activities/assign_614,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_614\assign.xml)
 # Vigenere Ciphers
-
-
 Read this: <https://www.boxentriq.com/code-breaking/vigenere-cipher>
 
 Solve using <https://www.dcode.fr/vigenere-cipher>
@@ -1409,12 +1159,9 @@ Most flags in competitions for all challenges, not just crypto will be obfuscate
 6. "ms5yr 32e ud0s 5rdw1yq dg2e6 gnqdvrsobb dy7upnx, u81g k2b brz!" 
    * This file was encrypted with a dictionary word. Use the dictionary solver.
 7. Why are wordlists useful for cracking ciphers? 
-
 ---
 [//]: # (68,615,activities/assign_615,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_615\assign.xml)
 # "Fun" Ciphers
-
-
 The good (and bad) thing about ciphers is that really anything can be used to convey information. This means you will come across all sorts of wild challenges. When you come across them, pay attention to hints and use google to try to identify what they are and where to find an online solver. If you can't find a solver you'll have to do it manually, or write your own. 
 
 Especially in a competition, doing it manually is faster than writing your own.
@@ -1427,19 +1174,11 @@ Solve these problems:
 3.  <https://github.com/hoppersroppers/hoppersroppers.github.io/raw/master/_layouts/flags.JPG>
 
 
-
 ---
 [//]: # (68,616,activities/folder_616,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\folder_616\folder.xml)
 # Modern Cryptography
-
-
-None
-
----
 [//]: # (68,621,activities/assign_621,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_621\assign.xml)
 # Modern Crypto
-
-
 Cryptography has come a long long way since the time of Caesar. Now, just about everything we do relies on math. Math, it turns out, is very hard to beat if it is done properly. Math can tell you that it is provably impossible for an attacker to decrypt something earlier than the heat death of the sun. That is pretty awesome. If you find yourself trying to beat math, you're probably attacking the wrong part of the problem. Learn about encryption below. 
 
 0. Read this: <https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/lec.html>
@@ -1456,12 +1195,9 @@ Now here is a slightly more technical primer on how real world cryptography work
 Read this: <https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp>
 
 Alright, now that you have an idea of what encryption is, read this <https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/> and explain the differences between the ideas explained.
-
 ---
 [//]: # (68,620,activities/assign_620,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_620\assign.xml)
 # Passwords
-
-
 Read this: <https://ssd.eff.org/en/module/creating-strong-passwords>
 
 Passwords are a normal part of life for us. But when you see them in a Capture the Flag, usually something fishy is going on. Remember what we said earlier about you not being able to beat math? When it comes to passwords, you won't beat math. If the password is short, or in a dictionary, you will break it. If it is not, you never will. 
@@ -1476,12 +1212,9 @@ Passwords are a normal part of life for us. But when you see them in a Capture t
 8. Read this and follow interesting links: <https://www.usna.edu/CyberDept/sy110/lec/cryptHashPswd/lec.html>
 9. <https://xkcd.com/936/>
 
-
 ---
 [//]: # (68,619,activities/assign_619,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_619\assign.xml)
 # Hashes
-
-
 ### Hashing and Salting
 
 Tasks:
@@ -1491,12 +1224,9 @@ Tasks:
 * Describe each of the ways passwords are cracked
 * In 2-3 sentences, explain what salting does and why it is important.
 
-
 ---
 [//]: # (68,618,activities/assign_618,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_618\assign.xml)
 # XOR
-
-
 Read this: <https://ctf101.org/cryptography/what-is-xor/>
 
 99.9% of the time you see an XOR problem in a CTF, you can solve it with something named xortool. 
@@ -1506,23 +1236,17 @@ Follow this writeup and submit a screenshot of your solution: <http://mslc.ctf.s
 Follow this writeup and submit a screenshot of your solution: <https://github.com/AetherEternity/ctf-writeups/tree/master/hackyou2017/Decrypt>	
 
 					
-
 ---
 [//]: # (68,617,activities/assign_617,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_617\assign.xml)
 # RSA
-
-
 Read this: <https://ctf101.org/cryptography/what-is-rsa/>
 				
 Follow this writeup and submit your solution: <https://www.hacktoday.io/t/hack-the-box-weak-rsa-challenge/2271>.
 
 Follow this writeup and submit your solution: <https://qy.sg/x-ctf-fact0r!z3-and-fact0r!z3_aga!n-crypto/> 
-
 ---
 [//]: # (68,622,activities/page_622,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_622\page.xml)
 # Things You Shouldn't Try to Do
-
-
 Remember what we said earlier about how math will win, every time? 
 
 The corollary to the rule that you cannot beat math is "Never roll your own crypto". <https://www.vice.com/en_us/article/wnx8nq/why-you-dont-roll-your-own-crypto>. Anybody can write their own crypto libraries, but it probably sucks and is susceptible to attacks that were known in 1942. So when you see a CTF challenge with a "custom encryption library", know that whoever wrote that library implemented it wrong.  In order to solve that challenge, you will need to know a great deal more about crypto than this course will try to teach you. If you want to become very very good at crypto, do the Matasano CryptoPals challenges. <https://cryptopals.com/> and spend the rest of your days reading academic papers. Otherwise, just move on with your life. 
@@ -1539,12 +1263,9 @@ So moving on, if implemented properly (and the assumption for all standard libra
    * That something might just be a wordlist gathered from all words on a website/server/description
 4.  <https://en.wikipedia.org/wiki/Halting_problem>
 5. <https://en.wikipedia.org/wiki/P_versus_NP_problem>
-
 ---
 [//]: # (69,626,activities/page_626,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_626\page.xml)
 # CTF Meta (I/P)
-
-
 If your challenge requires a large number of requests or measuring timing, ensure that it is still reasonable to solve remotely. Better yet, have a shell server on the same network (perhaps a pwnable with an SSH login) with common scripting languages and libraries installed where players can run their attacks from.
 
 Here are some common things to avoid:
@@ -1555,12 +1276,9 @@ Here are some common things to avoid:
 (Notice a pattern here?)
 
 One great type of web problem is one where full source is given (and despite this it is still challenging).
-
 ---
 [//]: # (69,630,activities/assign_630,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_630\assign.xml)
 # How Internet (I/P)
-
-
 ## How does the internet work?
 * <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works>
 * <https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a>
@@ -1568,12 +1286,9 @@ One great type of web problem is one where full source is given (and despite thi
 1. What is the difference between client side and server side?
 2. Should I have more questions for this? Yes? Did I make them yet? No.
 3. For your response, submit 5 questions that you think would do a good job of assessing someone's knowledge.
-
 ---
 [//]: # (69,631,activities/assign_631,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_631\assign.xml)
 # How Website (I/P) 
-
-
 ## How do websites work? 
 
 Read and do all of this: <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web>
@@ -1591,12 +1306,9 @@ Read and do all of this: <https://developer.mozilla.org/en-US/docs/Learn/Getting
 3. What do codes 200-299 mean?
 4. What do codes 300-399 mean?
 5. What do codes 400-499 mean?
-
 ---
 [//]: # (69,632,activities/assign_632,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_632\assign.xml)
 # Under the Hood
-
-
 I know someone on the internet is going to be upset I am recommending Chrome for this. Sorry. I like it. If you are used to using some other websites Dev Tools, then you don't need to do this section. 
 
 ## Chrome Developer Tools
@@ -1618,12 +1330,9 @@ I know someone on the internet is going to be upset I am recommending Chrome for
  
  * <https://computer.howstuffworks.com/cookie.htmhttps://developers.google.com/web/tools/chrome-devtools/storage/cookies>
 * Install a Cookie Editor <https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en>
-
 ---
 [//]: # (69,633,activities/assign_633,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_633\assign.xml)
 # SQL Injection
-
-
 Read this: <https://ctf101.org/web-exploitation/sql-injection/what-is-sql-injection/>
 
 1. What is SQL injection?
@@ -1633,12 +1342,9 @@ As a helpful hint, 95% of SQL injects are as simple as pasting ' OR '1'='1 after
 
 Relevant XKCD: <https://xkcd.com/327/>
 
-
 ---
 [//]: # (69,634,activities/assign_634,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_634\assign.xml)
 # Command Injection
-
-
 Read this: <https://ctf101.org/web-exploitation/command-injection/what-is-command-injection/>
 
 1. What is command injection?
@@ -1649,36 +1355,27 @@ Most command injects are Linux command line stuff, so the better you are with Li
 
 Relevant XKCD: <https://xkcd.com/327/>
 
-
 ---
 [//]: # (69,635,activities/assign_635,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_635\assign.xml)
 # Directory Traversal
-
-
 Read this: <https://ctf101.org/web-exploitation/directory-traversal/what-is-directory-traversal/>
 
 1. What is directory traversal?
 2. How does it work?
 
 
-
 ---
 [//]: # (69,636,activities/assign_636,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_636\assign.xml)
 # Cross Site Request Forgery
-
-
 Read this: <https://ctf101.org/web-exploitation/cross-site-request-forgery/what-is-cross-site-request-forgery/>
 
 1. What is Cross Site Request Forgery or CSRF?
 2. How does it work?
 
 
-
 ---
 [//]: # (69,637,activities/assign_637,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_637\assign.xml)
 # Cross Site Scripting
-
-
 Read this: <https://ctf101.org/web-exploitation/cross-site-scripting/what-is-cross-site-scripting/>
 
 1. What is Cross Site Scripting or XSS?
@@ -1686,12 +1383,9 @@ Read this: <https://ctf101.org/web-exploitation/cross-site-scripting/what-is-cro
 3. Why is the acronym XSS and not CSS? 
 
 
-
 ---
 [//]: # (69,638,activities/assign_638,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_638\assign.xml)
 # Server Side Request Forgery
-
-
 Read this: <https://ctf101.org/web-exploitation/server-side-request-forgery/what-is-server-side-request-forgery/>
 
 1. What is Server Side Request Forgery or SSFR?
@@ -1699,12 +1393,9 @@ Read this: <https://ctf101.org/web-exploitation/server-side-request-forgery/what
 
 
 
-
 ---
 [//]: # (70,639,activities/page_639,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_639\page.xml)
 # You Won't Learn That Here (I/P)
-
-
 I don't believe this is a beginner topic! You should learn C and assembly before trying to do this stuff. Check out our course once I am done making it. 
 
 There are plenty of pwning and RE challenges in CTFs, but they are hard and will be in the Advanced CTFs course.
@@ -1719,12 +1410,9 @@ Here is some old stuff on it: <https://drive.google.com/file/d/0B0F__fXm3TCqbXU3
 For RE I think this is the best resource: <https://microcorruption.com/>
 
 For BinEx I really like this: <https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/> 
-
 ---
 [//]: # (74,640,activities/page_640,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_640\page.xml)
 # Compete and Learn
-
-
 Register for the 2018 picoCTF! 
 
 <https://2018game.picoctf.com/> 
@@ -1734,5 +1422,4 @@ This competition runs year round. With the knowledge you have from this course y
 Keep us informed of your progress.  
 
 I might do something where I have you submit screenshots of your score every 5 challenges you solve, and then have you do writeups of n challenges. 
-
 ---
