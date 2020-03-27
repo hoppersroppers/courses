@@ -172,11 +172,11 @@ Our team has gone by many names, but one of our favorite's is Hopper's Roppers. 
 
 To learn more about her, read this: [http://www.biography.com/people/grace-hopper-21406809](http://www.biography.com/people/grace-hopper-21406809)
 
-Have you ever heard the quote, “It's easier to ask forgiveness than it is to get permission.”? That was her. 
+Have you ever heard the quote, ?It's easier to ask forgiveness than it is to get permission.?? That was her. 
 
 ![alt text](https://i2.wp.com/hopperboulder.com/wp-content/uploads/2019/03/Grace1-2.jpg?w=704&ssl=1 "img1")
 
-This quote comes from an interview in the July 1986 CHIP’s Ahoy Magazine, the Department of the Navy’s Information Technology Magazine. She was at the cutting edge then and it is a testament to her vision how well this interview stands up to the test of time. Her passion for knowledge and innovation is the most important thing you can carry with you.
+This quote comes from an interview in the July 1986 CHIP?s Ahoy Magazine, the Department of the Navy?s Information Technology Magazine. She was at the cutting edge then and it is a testament to her vision how well this interview stands up to the test of time. Her passion for knowledge and innovation is the most important thing you can carry with you.
 
 Read this: [http://www.doncio.navy.mil/chips/ArticleDetails.aspx?id=3563](http://www.doncio.navy.mil/chips/ArticleDetails.aspx?id=3563)
 
@@ -190,7 +190,7 @@ While there was a chance you knew what Hopper's meant, it is very unlikely that 
 
 Don't worry; none of that should have meant anything to you. That would have made zero sense to me when I was sitting where you are sitting. 2 years into my journey, I would have understood about half of it. Today, I still have no idea what a W or X technique is because I copied that definition from Wikipedia. 
 
-While many other sites that attempt to teach this material assume you already know a great deal of knowledge, we take a different approach to make this challenging subject as approachable as possible. For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to do stuff, but very quickly they realize that there is no way for them to learn everything. They’re not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. By managing new your high expectations of yourself, providing constant feedback on your progress, and bringing you into the community, this is designed to minimize dropout rate while providing the best first hundred hours of a cyber security education possible.
+While many other sites that attempt to teach this material assume you already know a great deal of knowledge, we take a different approach to make this challenging subject as approachable as possible. For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to do stuff, but very quickly they realize that there is no way for them to learn everything. They?re not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. By managing new your high expectations of yourself, providing constant feedback on your progress, and bringing you into the community, this is designed to minimize dropout rate while providing the best first hundred hours of a cyber security education possible.
 
 
 ---
@@ -222,7 +222,7 @@ This curriculum was created based on inputs from members of the Naval Academy's 
 ---
 [//]: # (55,524,activities/page_524,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\page_524\page.xml)
 # Hacking
-The etymology of the word “hack” is very complicated, and anywhere you go you will find some slight disagreements. This is the most concise article you can find on the subject. <http://www.newyorker.com/tech/elements/a-short-history-of-hack>. As stated in the article, this is a point of contention, but honestly, it doesn't matter. If someone cares deeply about the definition of hack or hacker, good for them, but it shouldn't effect you.
+The etymology of the word ?hack? is very complicated, and anywhere you go you will find some slight disagreements. This is the most concise article you can find on the subject. <http://www.newyorker.com/tech/elements/a-short-history-of-hack>. As stated in the article, this is a point of contention, but honestly, it doesn't matter. If someone cares deeply about the definition of hack or hacker, good for them, but it shouldn't effect you.
 
 However, the most commonly agreed upon source for definitions is this page, <http://www.catb.org/~esr/jargon/html/H/hacker.html>, mostly because it has been around for a while and has the loosest definitions.
 ---
@@ -278,10 +278,10 @@ The following behaviors are considered harassment and are unacceptable within ou
 Violence, threats of violence or violent language directed against another person.
 Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
 Posting or displaying sexually explicit or violent material.
-Posting or threatening to post other people’s personally identifying information ("doxing").
+Posting or threatening to post other people?s personally identifying information ("doxing").
 Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
 Inappropriate photography or recording.
-Inappropriate physical contact. You should have someone’s consent before touching them.
+Inappropriate physical contact. You should have someone?s consent before touching them.
 Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
 Deliberate intimidation, stalking or following (online or in person).
 Advocating for, or encouraging, any of the above behavior.
@@ -312,7 +312,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 We will work with all parties to ensure the Code of Conduct is enforced. All decisions made by the staff is final.
 
 ### 9. Scope
-We expect all community participants (organizers, contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
+We expect all community participants (organizers, contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues?online and in-person?as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
@@ -402,7 +402,7 @@ If you can stick with and complete this course, you will be armed with the basel
 ---
 [//]: # (56,532,activities/assign_532,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_532\assign.xml)
 # Hacker Attitude
-Read this post: [http://www.catb.org/~esr/faqs/hacker-howto.html](http://www.catb.org/~esr/faqs/hacker-howto.html) It isn't perfect, but it will do for now until I write a new one. The biggest problem with this is that the author, while once a famous hacker and important member of the open source movement, is a total asshole. None of the content is bad, but we are in the process of trying to write something to replace all of his content in this curriculum.
+Read this post: [http://www.catb.org/~esr/faqs/hacker-howto.html](http://www.catb.org/~esr/faqs/hacker-howto.html) It isn't perfect, but it will do for now until I write a new one.?The biggest problem with this is that the author, while once a famous hacker and important member of the open source movement, is a total asshole. None of the content is bad, but we are in the process of trying to write something to replace all of his content in this curriculum.
 
 While there is a lot in there that is very interesting, the most important part is the hacker attitude.
 
@@ -416,44 +416,44 @@ While there is a lot in there that is very interesting, the most important part 
 
 [5. Attitude is no substitute for competence.](http://www.catb.org/~esr/faqs/hacker-howto.html#believe5)
 
-These 5 statements provide a reasonable framework for how you should approach learning this material. It should be fun, we shouldn't be wasting your time, there should be multiple ways for you to succeed, and we are measuring success by your ability at the end. Make sure you've really read through the post and then write 4-6 sentences on your interpretation of the last sentence in part one of the Hacker Attitude, “You also have to develop a kind of faith in your own learning capacity — a belief that even though you may not know all of what you need to solve a problem, if you tackle just a piece of it and learn from that, you'll learn enough to solve the next piece — and so on, until you're done.”
+These 5 statements provide a reasonable framework for how you should approach learning this material. It should be fun, we shouldn't be wasting your time, there should be multiple ways for you to succeed, and we are measuring success by your ability at the end. Make sure you've really read through the post and then write 4-6 sentences on your interpretation of the last sentence in part one of the Hacker Attitude, ?You also have to develop a kind of faith in your own learning capacity ? a belief that even though you may not know all of what you need to solve a problem, if you tackle just a piece of it and learn from that, you'll learn enough to solve the next piece ? and so on, until you're done.?
 
 ---
 [//]: # (56,533,activities/assign_533,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_533\assign.xml)
 # Hacker Ethic
-From the same site as the Hacker How-To comes this brief description of the hacker ethic. Again, I am in the process of writing something else, but for now this is good enough.   
+From the same site as the Hacker How-To comes this brief description of the hacker ethic. Again, I am in the process of writing something else, but for now this is good enough.?  
 
 Read it: [http://www.catb.org/jargon/html/H/hacker-ethic.html](http://www.catb.org/jargon/html/H/hacker-ethic.html)
 
-It breaks the hacker ethic into two main beliefs that complement one another: 
+It breaks the hacker ethic into two main beliefs that complement one another:?
 
 
 1. The belief that information-sharing is a powerful positive good, and that it is an ethical duty of hackers to share their expertise by writing open-source code and facilitating access to information and to computing resources wherever possible.
 
 2. The belief that system-cracking for fun and exploration is ethically OK as long as the cracker commits no theft, vandalism, or breach of confidentiality.
 
-A longer version of the hacker ethic comes from the famous book _Hackers: Heroes of the Computer Revolution_ that you probably should read someday, but there is no rush. I haven't read the whole thing yet.  
+A longer version of the hacker ethic comes from the famous book _Hackers: Heroes of the Computer Revolution_ that you probably should read someday, but there is no rush. I haven't read the whole thing yet. ?
 
-The Wikipedia article is pretty good so read it: [https://en.wikipedia.org/wiki/Hacker_ethic](https://en.wikipedia.org/wiki/Hacker_ethic)
+The Wikipedia article is pretty good so read it:?[https://en.wikipedia.org/wiki/Hacker_ethic](https://en.wikipedia.org/wiki/Hacker_ethic)
 
 They come out to 5 key beliefs:
 
-1. Access to computers—and anything which might teach you something about the way the world works—should be unlimited and total. Always yield to the Hands-On Imperative!  
-2. All information should be free (Often a topic of debate, he means free as in speech, rather than free as in beer) 
-3.  Mistrust authority—promote decentralization
-4.  Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.
-5. You can create art and beauty on a computer. The concept of "hack value" is doing something that is worth doing because of the "playful cleverness" required. 
-6.  Computers can change your life for the better
+1. Access to computers?and anything which might teach you something about the way the world works?should be unlimited and total. Always yield to the Hands-On Imperative!  
+2. All information should be free (Often a topic of debate, he means free as in speech, rather than free as in beer)?
+3. ?Mistrust authority?promote decentralization
+4. ?Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.
+5. You can create art and beauty on a computer. The concept of "hack value" is doing something that is worth doing because of the "playful cleverness" required.?
+6. ?Computers can change your life for the better
 
 Write a few sentences on what matters in the hacker ethic.  
 ---
 [//]: # (56,534,activities/assign_534,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_534\assign.xml)
 # Sharing
-One of the key parts of this mindset is sharing knowledge with others. A great quote on the subject is 'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.'  Not to mention, the more you give back to the community, the greater the value you provide. If you're just starting off, you might not think you have anything to provide, but in fact, you're looking at the world with a different perspective than someone who has done it for years. For example, you can provide feedback on when training makes no sense or isn't as effective as it could be, and help make it easier for the next person to go through it. This site is a work in progress and the more feedback we receive the better it will be.  
+One of the key parts of this mindset is sharing knowledge with others. A great quote on the subject is 'There is?nothing noble?in?being superior?to your fellow man; true nobility is?being superior?to your former self.' ?Not to mention, the more you give back to the community, the greater the value you provide. If you're just starting off, you might not think you have anything to provide, but in fact, you're looking at the world with a different perspective than someone who has done it for years. For example, you can provide feedback on when training makes no sense or isn't as effective as it could be, and help make it easier for the next person to go through it. This site is a work in progress and the more feedback we receive the better it will be. ?
 
-With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should “Read the Fucking Manual” or “RTFM”. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started. The most common "manual" you will come across in this course and your travels through hackerdom are the man-pages that accompany every single aspect of the Unix operating system, and they are a great resource for people who have spent years learning how to understand them. Right now, you don’t have the knowledge to be expected to understand how they work, and that is fine. There is no pressure to know anything, but there is pressure to learn. 
+With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should ?Read the Fucking Manual? or ?RTFM?. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started. The most common "manual" you will come across in this course and your travels through hackerdom are the man-pages that accompany every single aspect of the Unix operating system, and they are a great resource for people who have spent years learning how to understand them. Right now, you don?t have the knowledge to be expected to understand how they work, and that is fine. There is no pressure to know anything, but there is pressure to learn.?
 
-The comic web site Xkcd is a nerd cultural treasure and you will see it referenced constantly. Remember, you don’t have to get them all, when you are not sure, there is http://www.explainxkcd.com. Read [this comic](https://xkcd.com/1692/), and hover your mouse over it to get the alt-text. Submit what the alt-text tells you to do.  
+The comic web site Xkcd is a nerd cultural treasure and you will see it referenced constantly. Remember, you don?t have to get them all, when you are not sure, there is http://www.explainxkcd.com. Read [this comic](https://xkcd.com/1692/), and hover your mouse over it to get the alt-text. Submit what the alt-text tells you to do.  
 
 
 ---
@@ -488,7 +488,7 @@ This section is derived from "How to Ask Smart Questions" by the ESR CATB guy we
 * Be precise and informative about your problem
 * Describe the symptoms of your problem or bug carefully and clearly.
 
-1. Describe the environment in which it occurs (machine, OS, application, whatever). Provide your vendor's distribution and release level (e.g.: “Fedora Core 7”, “Slackware 9.1”, etc.).
+1. Describe the environment in which it occurs (machine, OS, application, whatever). Provide your vendor's distribution and release level (e.g.: ?Fedora Core 7?, ?Slackware 9.1?, etc.).
 2. Describe the research you did to try and understand the problem before you asked the question.
 3. Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
 4. Describe any possibly relevant recent changes in your computer or software configuration.
@@ -499,13 +499,13 @@ This section is derived from "How to Ask Smart Questions" by the ESR CATB guy we
 * Be explicit about your question
 * Follow up with a brief note on the solution
 
-You can private message us, post on the forum, throw it on Slack, whatever. Just show you tried ahead of time and no one will ever get annoyed, because there is really no such thing as a bad question, just one you haven't researched enough. 
+You can private message us, post on the forum, throw it on Slack, whatever. Just show you tried ahead of time and no one will ever get annoyed, because there is really no such thing as a bad question, just one you haven't researched enough.?
 
-If you're in person, just ask. It's faster than Googling and you'll get more out of it. 
+If you're in person, just ask. It's faster than Googling and you'll get more out of it.?
 
-We already told you what RTFM stood for, so now we're gonna have you do it. 
+We already told you what RTFM stood for, so now we're gonna have you do it.?
 
-Visit this [man-page](https://linux.die.net/man/1/bash) and write down the first three things you don’t understand. Then google them and figure out what they are. Submit 3 sentences explaining the 3 things you didn’t know. For the love of everything, don’t read any further once you are done with that. Remember Rule 3 of the Hacker Attitude, “Boredom and Drudgery are evil.” If you're not getting anything out of something at any point in this course, don't do it, and leave us feedback that we are wasting your time. We mean that. You won't hurt our feelings.
+Visit this [man-page](https://linux.die.net/man/1/bash) and write down the first three things you don?t understand.?Then google them and figure out what they are. Submit 3 sentences explaining the 3 things you didn?t know.?For the love of everything, don?t read any further once you are done with that. Remember Rule 3 of the Hacker Attitude, ?Boredom and Drudgery are evil.? If you're not getting anything out of something at any point in this course, don't do it, and leave us feedback that we are wasting your time. We mean that. You won't hurt our feelings.
 ---
 [//]: # (56,538,activities/assign_538,C:\Users\devey\Downloads\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf\backup-moodle2-course-6-intro_to_ctfs-20200325-1544-nu-nf~\activities\assign_538\assign.xml)
 # Brainwashing and Learning
@@ -662,7 +662,7 @@ You might have heard of this before. It's the big one.
 
 This is a classic set of challenges that every member of our team has fought through, and while it takes some time, you should have had enough experience to figure out what you need to do. It won't be easy, and it might not be the most fun, but completion of this challenge is the single greatest determining factor in whether or now you continue along this journey. This is where you have to grind it out, make things happen, get stuck, learn things, and really spend some quality time with man pages.
 
-Let us know if you get stuck on any challenge for longer than a half hour, we will gladly point you in the right direction. And no cheating, as Hemingway once said, “There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.” We like Hemingway. He  was a big fan of boats and adventures. We are too.
+Let us know if you get stuck on any challenge for longer than a half hour, we will gladly point you in the right direction. And no cheating, as Hemingway once said, ?There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.? We like Hemingway. He  was a big fan of boats and adventures. We are too.
 
 While there are 25 Bandit levels, at this time we only expect you to be able to complete 1-13. They will be hard, but we know you can do them. The rest of the levels are saved for different places throughout the rest of the course. 
 
