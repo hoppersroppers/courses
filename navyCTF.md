@@ -26,7 +26,7 @@ Enrollment in the course after site registration is not automatic! Unfortunately
 
 Alright, now you are ready to go!
 
-
+___
 
 512
 54
