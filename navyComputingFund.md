@@ -1,7 +1,7 @@
 [//]: # (C:\Users\devey\Downloads\backup-moodle2-course-5-computing_fundamentals-20200327-1637-nu-nf\moodle_backup.xml)
 [//]: # (40,392,activities/page_392)
 # Work in Progress!
-Hello! If you are reading this and haven't made an account yet, any edits you recomend or typos you catch can be reported via GitHub at <https://github.com/hoppersroppers/training/tree/master/Core/1.IntroductionToHacking>.
+Hello! If you are reading this and haven't made an account yet, any edits you recomend or typos you catch can be reported via GitHub at <https://github.com/hoppersroppers/courses/edit/master/navyComputingFund.md>.
 
 The course content and repository are not 1 to 1 as I copy content between the two, but I will make all efforts to have them match up.
 
