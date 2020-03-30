@@ -15,7 +15,7 @@ You're working from home, off your personal computer, so first, congratulations 
 
 Your first assignment is to start using a password manager.  Read this <https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/> to learn about password managers, and then install one, I  recommend <https://lastpass.com/>. There's plenty of other password managers out there, but I've been using this one forever and that is the only reason I recommend it. Convince your friends and family to use password managers. If you don't want to do this now, skip it, I make sure you do it later in the course. 
 
-Your second task, if you do not already have one installed, is to install an ad-blocking extension. Ad-blockers do what they say they do, making your web experience significantly better, but also block trackers and lessen the chance of getting malware laden ads.  For Chrome, I recommend uBlock Origin: <https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en>. I don't use Firefox, but it's a good browser, especially for the more privacy conscious. I also recommend installing Chrome (or Firefox) and ad-blockers on as many computers of friends and family that you do tech support for. If you don't want to do this now, skip it, I make sure you do it later in the course. 
+Your second task, if you do not already have one installed, is to install an ad-blocking extension. Ad-blockers do what they say they do, making your web experience significantly better, but also block trackers and lessen the chance of getting malware laden ads.  For Chrome, I recommend uBlock Origin: <https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en>. I don't use Firefox, but it has an ad-blocker built in which makes it the best choice for the privacy and security conscious. I also recommend installing Chrome and ad-blockers (or Firefox) on as many computers of friends and family that you do tech support for. If you don't want to do this now, skip it, I make sure you do it later in the course. 
 
 I'd like to think you don't already have malware on your computer but if you are working off of a shared family computer, there's a decent chance if you haven't checked recently. First, ensure that Windows Defender is enabled. If it isn't, turn it on. After you've done that, turn on automatic updates and ensure your computer is completely updated. If it isn't, update now. Once again, do this on as many computers as you are responsible for. You do it at work, do it home. If you're not on Windows, good luck not downloading malware you 1337 hardo. You'll probably be fine.
 
@@ -38,6 +38,11 @@ You probably spend a ton of time in front of a computer at work, but now that yo
 ---
 [//]: # (54,798,activities/page_798)
 # General Wellness
+#### Coronavirus
+   * You are likely working from home right now and should be practicing social distancing
+   * For a great unofficial guide, check out <https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/>
+   * For the official .gov website, visit: <https://www.coronavirus.gov/>
+
 #### Hydrate Constantly
    * My life motto is "Stay Happy and Stay Hydrated", and it is inscribed in my class ring... so yeah, I take hydration seriously
    * You should be going to the bathroom every 2-4 hours
@@ -113,11 +118,12 @@ Hack the planet
 # Why Security?
 Computer security is the shield of the modern age. Without the constant battle on the frontlines between the people who want to see technology used for good and the people who want to use it for their own gain, or worse, to limit the rights and freedoms of others, the progress that occurs in the real world because of technology would be dramatically slowed. Security allows trust in technology, which leads to adoption, which leads to progress in one direction, or another. The more people able to help out with that fight, the faster we can move as a society, and less things will get broken and less people will be hurt on the way. That?s why this site exists, and hopefully, if you?re here for the right reasons, you?ll be able to jump into the fight with the tools you need to succeed.
 
-This course is meant to give you, someone new to the security field, and information technology in general, the skills and more importantly, the mindset required to be successful in this line of work. The only way to be good at anything in this field is to become comfortable looking at problems you have never seen before and then finding a way to solve what you are up against. This curriculum is not meant to turn you into a guru, but rather it is to provide you with a solid base of knowledge and mental models relating to security, as well as build your comfort level installing new programs, following tutorials for things you have never heard of before, and using the Linux operating system. If you leave this course with nothing other than an understanding of the hacker mentality, I have been successful by some measure. However, my goal is to help guide you through the first few steps of your journey into this world and to help you find your path afterwards as you develop even more advanced skills and continue your constant growth.
+This course is designed to give you the mindset and fundamental skills necessary to be successful in the information security field. If you already have some experience - great! But we do not to assume any prior knowledge of security or even information technology in general. At the end of this, you may not be a guru (hint: nobody knows everything), but you should have the mental models and base knowledge to use the Linux operating system, install new programs, and be equipped to find and understand the information you need to learn even more. 
 
 While I have tried to do everything in my ability to make this course self-guided, there are hundreds of places where a questioning attitude will identify clear shortfalls in the content. Some of these are intentional, most of them are not. Your questions and feedback will guide the development of this course so that it can become the best resource possible.
 
 Surrounding this site is a community to help you and provide guidance as you move along. This community grows with each student who signs up, and our mentors will be there every step of the way to answer questions, explain difficult concepts, and talk about just about anything to help you along the way. Make sure to take full advantage of the many ways we provide to message other mentors so that we can all be part of this together.
+
 ---
 [//]: # (85,804,activities/page_804)
 # Hopper's ...
@@ -138,9 +144,9 @@ Read this: [http://www.doncio.navy.mil/chips/ArticleDetails.aspx?id=3563](http:/
 # ... ROPpers
 While there was a chance you knew what Hopper's meant, it is very unlikely that you have had any idea what Roppers meant, mostly because it is a word we made up to define a group of people who ROP. And if you have never heard of ROP, or Return Oriented Programming before, and.... that is not just okay, that is expected, because why on earth would you have known about an obscure programming topic before this exact moment in time. To quote Wikipedia, "Return-oriented programming (ROP) is a computer security exploit technique that allows an attacker to execute code in the presence of security defenses such as non-executable memory (W xor X technique) and code signing by chaining together carefully chosen machine instruction sequences to get control of the stack..."
 
-Don't worry; none of that should have meant anything to you. That would have made zero sense to me when I was sitting where you are sitting. 2 years into my journey, I would have understood about half of it. Today, I still have no idea what a W or X technique is because I copied that definition from Wikipedia. 
+Don't worry; none of that should have meant anything to you. That would have made zero sense to me when I was sitting where you are sitting. Two years into my journey, I would have understood about half of it. Now at least I know what all the words mean, but I rely on friends who know more than me if I have questions.
 
-While many other sites that attempt to teach this material assume you already know a great deal of knowledge, we take a different approach to make this challenging subject as approachable as possible. For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to do stuff, but very quickly they realize that there is no way for them to learn everything. They?re not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. By managing your high expectations of yourself, providing constant feedback on your progress, and bringing you into the community, this is designed to minimize dropout rate while providing the best first hundred hours of a cyber security education possible.
+While many other sites that attempt to teach this material assume you already know a great deal of knowledge, we take a different approach to make this challenging subject as approachable as possible. For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to do stuff, but very quickly they realize that there is no way for them to learn everything. They're not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. By managing your high expectations of yourself, providing constant feedback on your progress, and bringing you into the community, this is designed to minimize dropout rate while providing the best introduction a cyber security education possible.
 
 ---
 [//]: # (85,806,activities/page_806)
@@ -166,6 +172,7 @@ Nothing in this course is spoonfed, and while we try to give you good resources,
 
 ## Content
 This curriculum was created based on inputs from members of the Boat School's Cyber Security Team and various guides scattered throughout the internet on how to break into information security. We put this curriculum together by aggregating all of the guides and tutorials we could find, took what we thought was important and added our own commentary. To say that this is built on the backs of a hundred other people's work would be an understatement, and we am forever grateful that we are part of a community which has created so many amazing resources. All attempts to cite source material have been made, if there is anything we have not properly attributed, let us know. Despite having been in the works for the last four years, this is the first iteration of the curriculum and it should change drastically as we see what does and doesn't work, and the only way we will know is feedback.
+
 ---
 [//]: # (85,807,activities/page_807)
 # Legal
@@ -175,7 +182,7 @@ Our community guidelines are available here: <https://www.hoppersroppers.org/gui
 ## Legal Stuff
 Unsurprisingly, in this course you will learn some things that could be used to do bad things. You might not think they're bad things at the time, and they might seem like funny pranks, but the laws against hacking are very vague. Even more importantly, you probably have a security clearance, and having a pile of felonies you have to admit to is not a great look and will complicate your paperwork.
 
-In the US, the law that surrounds this stuff is the Computer Fraud and Abuse Act.
+In the US, the Computer Fraud and Abuse Act (CFAA) is the most important law concerning hacking to consider.
 
 Basically, all you need to know is that every computer is a protected computer and that it is a crime to intentionally access a computer or account without authorization or to exceed authorized access.
 
@@ -234,6 +241,7 @@ Request to join the Hopper's Roppers team on CTFtime.
 CTFtime is great because it lets you find upcoming events <https://ctftime.org/event/list/upcoming> as well as provides a leaderboard for the best teams around the world.
 
 Now when you sign up for CTFs you can get the team points on the leaderboard. 
+
 ---
 [//]: # (66,565,activities/page_565)
 # What You Will Learn
@@ -246,12 +254,14 @@ First, we will start with how to use linux and linux command line tools. Then af
 Forensics is comprised of host-based and network forensics and we will go into the basics of that. Cryptography will be brief and will go over basic problems and how to solve them. We will also go into the basics of web exploitation and how some of those challenges work.
 
 This is a beginner course, so we will not be getting into Reverse Engineering or Binary Exploitation at all. This is meant to prepare you for the picoCTF competition where you will have to figure out how to use the skills and resources you learned in this course to solve problems as you go. 
+
 ---
 [//]: # (84,812,activities/page_812)
-# This Shit is Hard
-Doing cool things with computers is hard (have I said that before), and yes there is an aspect that requires technical knowledge, but mostly, it just takes time. Doing cool things with computers is less of a technical challenge and more of an attitude and a willingness to work hard and teach yourself what you need to know in order to succeed in whatever you are trying to do. Our curriculum here is meant to give you the basic tools you will need to understand the challenges you face, but solving them is going to be on you. We'll be honest, this isn't easy. This isn't something that will take you a month or two to get the hang of. One of the primary curses of doing cool shit with computers is that each time you learn something, you immediately realize a new pile of things that you do not know. There's nothing wrong with not knowing things, and no one could ever expect you to. Even "experts" will only know a small slice of the greater field that is doing cool things with computers. Expecting anyone to be good at everything is ridiculous, but it is even more ridiculous for anyone to think a beginner should know everything... or really, anything. There's a lot of acronyms, slang, in-jokes, and domain specific knowledge. One of the promises we will make to you is that we will not ever put in an acronym, slang, or in-joke without explaining it.
+# This Stuff is Hard
+Doing cool things with computers is hard (have I said that before), and yes there is an aspect that requires technical knowledge, but mostly, it just takes time. Doing cool things with computers is less of a technical challenge and more of an attitude and a willingness to work hard and teach yourself what you need to know in order to succeed in whatever you are trying to do. Our curriculum here is meant to give you the basic tools you will need to understand the challenges you face, but solving them is going to be on you. We'll be honest, this isn't easy. This isn't something that will take you a month or two to get the hang of. One of the primary curses of doing cool stuff with computers is that each time you learn something, you immediately realize a new pile of things that you do not know. There's nothing wrong with not knowing things, and no one could ever expect you to. Even "experts" will only know a small slice of the greater field that is doing cool things with computers. Expecting anyone to be good at everything is ridiculous, but it is even more ridiculous for anyone to think a beginner should know everything... or really, anything. There's a lot of acronyms, slang, in-jokes, and domain specific knowledge. One of the promises we will make to you is that we will not ever put in an acronym, slang, or in-joke without explaining it.
 
 If you can stick with and complete this course, you will be armed with the baseline knowledge and attitude you need to be able to learn anything. Probably the most important skill you will learn is how to use all of your resources effectively, whether that is your classmates, teachers, reference pages, or Google. Mostly, Google. It will take a year or two before you get comfortable and stop feeling totally lost every day, but then you'll just start working on harder problems and you'll wind up more confused than you could imagine being now. Being good at computering is a long term process of reinforcing and building on the basic knowledge we will teach you in this course, and it will never end until you decide the computers have won. Don't let the computers win, and keep learning everything you can.
+
 ---
 [//]: # (84,813,activities/page_813)
 # Hacker Attitude
@@ -272,6 +282,7 @@ While there is a lot in there that is very interesting, the most important part 
 5. Attitude is no substitute for competence.
 
 These 5 statements provide a reasonable framework for how you should approach learning this material. It should be fun, we shouldn't be wasting your time, there should be multiple ways for you to succeed, and we are measuring success by your ability at the end. 
+
 ---
 [//]: # (84,814,activities/page_814)
 # Hacker Ethic
@@ -298,6 +309,7 @@ They come out to six key beliefs:
 4. ?Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.
 5. You can create art and beauty on a computer. The concept of "hack value" is doing something that is worth doing because of the "playful cleverness" required.?
 6. ?Computers can change your life for the better
+
 ---
 [//]: # (84,815,activities/page_815)
 # RTFM
@@ -341,6 +353,7 @@ We already told you what RTFM stood for, so now we're gonna have you do it.?
 Visit this [man-page](https://linux.die.net/man/1/bash) and write down the first three things you don?t understand.?(I don't expect you to make it past the Name, "bash - GNU Bourne-Again SHell", there is so much to unpack in just that).
 
  Then Google one of them and figure out what it is. Submit a sentence or two explaining the thing you didn?t know.?For the love of everything, don?t read any further once you are done with that. Remember Rule 3 of the Hacker Attitude, ?Boredom and Drudgery are evil.? If you're not getting anything out of something at any point in this course, don't do it, and leave us feedback that we are wasting your time. We mean that. You won't hurt our feelings.
+ 
 ---
 [//]: # (84,817,activities/page_817)
 # Learning
@@ -477,6 +490,7 @@ Validated from previous experience...
 Host forensics is the most hated of all CTF problem types. This is not because the problems are particularly hard or boring, but is because some people who make the problems are lazy and make it into a dumb guessing game. Personally, forensics problems are my favorite category. It's the one that has the most applicability to real world jobs, is super easy to get started, and when the problems are done correctly, it is basically like solving a mystery.
 
 There are a few categories of forensic problems that we will go over in this course, focusing on the ones that we see in CTF problems the most frequently. None of this should be confused with what actual forensic analysts do in an incident response, however, many of the skills overlap and there are some fundamental theories that can be applied to CTF problems.
+
 ---
 [//]: # (67,782,activities/label_782)
 # File Forensics
@@ -563,7 +577,8 @@ Usually we are thinking about in the context of communications, but files contai
 
 Read this: <https://ctf101.org/forensics/what-is-metadata/>
 
-Give me the GPS coords for this picture: <https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg>. I recommend this site: <http://exif.regex.info/>										
+Give me the GPS coords for this picture: <https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg>. I recommend this site: <http://exif.regex.info/>		
+
 ---
 [//]: # (67,581,activities/assign_581)
 # File Metadata 2
@@ -590,6 +605,7 @@ I recommend you use this link to download Stegsolve <https://github.com/eugeneko
 I recommend you use this link to download Steghide <https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve>. Steghide is the defacto tool for password protected stego challenges, but don't forget to try steghide with no password. 
 
 With these two tools you should be able to solve 90% of all stego problems. Even if these don't work, they can still identify weirdness and you can investigate further.
+
 ---
 [//]: # (67,583,activities/assign_583)
 # Steganography 2
@@ -600,18 +616,22 @@ Complete this writeup and submit a screenshot of the answer: <https://github.com
 [//]: # (67,783,activities/label_783)
 # Host Forensics
 Host Forensics
+
 ---
 [//]: # (67,584,activities/assign_584)
 # *** Host Forensics 1 (I/P) ***
 In Progress!
+
 ---
 [//]: # (67,784,activities/label_784)
 # Memory Forensics
 Memory Forensics
+
 ---
 [//]: # (67,585,activities/assign_585)
 # *** Memory Forensics (I/P) ***
 In Progress!
+
 ---
 [//]: # (73,624,activities/page_624)
 # CTF Meta (I/P)
