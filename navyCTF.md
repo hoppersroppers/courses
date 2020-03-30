@@ -3,23 +3,23 @@
 # Site Registration
 You must register for the site before your progress can be tracked.
 
-Click here to register: <https://navy.hoppersroppers.org/login/signup.php?> 
+Click here to register: <https://navy.hoppersroppers.org/login/signup.php?>
 ---
 [//]: # (54,796,activities/page_796)
 # Secure Yourself Now
-You signed up for this course to improve yourself, to learn how to secure yourself online, and to help others. That's what this section is dedicated to. If you finish this section and don't do anything else, your participation in this course will be a success in my eyes. Maybe not in your chain of command's but that's a completely different story. 
+You signed up for this course to improve yourself, to learn how to secure yourself online, and to help others. That's what this section is dedicated to. If you finish this section and don't do anything else, your participation in this course will be a success in my eyes. Maybe not in your chain of command's but that's a completely different story.
 
-Of course, I would prefer you to continue in the course, but I'm glad you are here, and I hope you stick around. 
+Of course, I would prefer you to continue in the course, but I'm glad you are here, and I hope you stick around.
 
 You're working from home, off your personal computer, so first, congratulations on all the bandwidth. You are all security professionals, so I know I don't have to drive this point home too hard, but the computers that you defend and maintain at work are significantly more secure than the one you are accessing this course from. You know everything I am about to tell you, but I'm going to tell you it again.
 
-Your first assignment is to start using a password manager.  Read this <https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/> to learn about password managers, and then install one, I  recommend <https://lastpass.com/>. There's plenty of other password managers out there, but I've been using this one forever and that is the only reason I recommend it. Convince your friends and family to use password managers. If you don't want to do this now, skip it, I make sure you do it later in the course. 
+Your first assignment is to start using a password manager.  Read this <https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/> to learn about password managers, and then install one, I  recommend <https://lastpass.com/>. There's plenty of other password managers out there, but I've been using this one forever and that is the only reason I recommend it. Convince your friends and family to use password managers. If you don't want to do this now, skip it, I make sure you do it later in the course.
 
-Your second task, if you do not already have one installed, is to install an ad-blocking extension. Ad-blockers do what they say they do, making your web experience significantly better, but also block trackers and lessen the chance of getting malware laden ads.  For Chrome, I recommend uBlock Origin: <https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en>. I don't use Firefox, but it has an ad-blocker built in which makes it the best choice for the privacy and security conscious. I also recommend installing Chrome and ad-blockers (or Firefox) on as many computers of friends and family that you do tech support for. If you don't want to do this now, skip it, I make sure you do it later in the course. 
+Your second task, if you do not already have one installed, is to install an ad-blocking extension. Ad-blockers do what they say they do, making your web experience significantly better, but also block trackers and lessen the chance of getting malware laden ads.  For Chrome, I recommend uBlock Origin: <https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en>. I don't use Firefox, but it has an ad-blocker built in which makes it the best choice for the privacy and security conscious. I also recommend installing Chrome and ad-blockers (or Firefox) on as many computers of friends and family that you do tech support for. If you don't want to do this now, skip it, I make sure you do it later in the course.
 
 I'd like to think you don't already have malware on your computer but if you are working off of a shared family computer, there's a decent chance if you haven't checked recently. First, ensure that Windows Defender is enabled. If it isn't, turn it on. After you've done that, turn on automatic updates and ensure your computer is completely updated. If it isn't, update now. Once again, do this on as many computers as you are responsible for. You do it at work, do it home. If you're not on Windows, good luck not downloading malware you 1337 hardo. You'll probably be fine.
 
-I know this stuff is obvious, but it's easy to be complacent when we get home. We know what best practices are, so do them.  
+I know this stuff is obvious, but it's easy to be complacent when we get home. We know what best practices are, so do them.
 
 ---
 [//]: # (54,797,activities/page_797)
@@ -28,7 +28,7 @@ You probably spend a ton of time in front of a computer at work, but now that yo
 
 ## Ergonomics
 * Read this: <https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169>
-1. Now fix your setup so that everything aligns properly. This is an investment. If you have a laptop, find a keyboard and mouse and set the laptop up on top of books to get it to the right height when you are sitting down. Try to avoid having a laptop on your lap, get it on a table and sit in a chair. 
+1. Now fix your setup so that everything aligns properly. This is an investment. If you have a laptop, find a keyboard and mouse and set the laptop up on top of books to get it to the right height when you are sitting down. Try to avoid having a laptop on your lap, get it on a table and sit in a chair.
 
 ## Blue Light and Brightness
 * Drop the brightness on your computer as far as you can. Just trust me.
@@ -46,29 +46,29 @@ You probably spend a ton of time in front of a computer at work, but now that yo
 #### Hydrate Constantly
    * My life motto is "Stay Happy and Stay Hydrated", and it is inscribed in my class ring... so yeah, I take hydration seriously
    * You should be going to the bathroom every 2-4 hours
-   * Caffeine, and especially drinks like coffee and energy drinks dehydrate you 
+   * Caffeine, and especially drinks like coffee and energy drinks dehydrate you
 
 #### Sleep
    * Everyone loves bragging about being a hardo and sleeping four hours a night for months on end... guess what? It's not just stupid, it's actively hurting you in a variety of ways
     * <https://www.nhlbi.nih.gov/health-topics/sleep-deprivation-and-deficiency>
 
 #### Nutrition
-   * I'm not going to make you read anything, just don't eat cheetos and hot pockets and drink Monsters as your only sustenance for the day. Order in some Chinese or Thai. Not every delivery meal has to be pizza. 
-   * Cook your own food every once in a while. Instant ramen doesn't count. Cooking is fun as hell. Do it. 
+   * I'm not going to make you read anything, just don't eat cheetos and hot pockets and drink Monsters as your only sustenance for the day. Order in some Chinese or Thai. Not every delivery meal has to be pizza.
+   * Cook your own food every once in a while. Instant ramen doesn't count. Cooking is fun as hell. Do it.
 
 #### Fitness
-   * Not going to beat this one to death. Getting your heart rate elevated for a few minutes a day is good for you, full stop. Do it. 
-   * Even if the PRT is cancelled you should still work out. 
-   * Looking for great resource for this, please recommend one if you have it. 
+   * Not going to beat this one to death. Getting your heart rate elevated for a few minutes a day is good for you, full stop. Do it.
+   * Even if the PRT is cancelled you should still work out.
+   * Looking for great resource for this, please recommend one if you have it.
 
 ####  Neurodiversity
    * Hackers are known for our neurodiversity, and our brains let us do amazing things, but sometimes they work in ways that don't always make the most sense to us and the people around us. Here are some resources to help understand what you or other people experience every day.
   * <https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd/index.shtml>
   * <https://www.helpguide.org/articles/add-adhd/adhd-attention-deficit-disorder-in-adults.htm>
-  * If you have questions about medication, talk to your command's doc to get a referral to Mental Health. It's a process but it's worth it. 
+  * If you have questions about medication, talk to your command's doc to get a referral to Mental Health. It's a process but it's worth it.
 
 #### Mental Health
-   * The more you know about these concerns and their symptoms, the better you can understand them. Additionally, everyone needs more general suicide prevention and depression training. It's not fun, but it is worth having all the resources you can. Read all of these. Help yourself or help your friends. 
+   * The more you know about these concerns and their symptoms, the better you can understand them. Additionally, everyone needs more general suicide prevention and depression training. It's not fun, but it is worth having all the resources you can. Read all of these. Help yourself or help your friends.
   * <https://www.nimh.nih.gov/health/topics/depression/index.shtml>
   * <https://www.nimh.nih.gov/health/topics/suicide-prevention/index.shtml>
 
@@ -80,25 +80,25 @@ Alright, you probably didn't expect this line of questioning in this course, and
 
 1. Have you wished you were dead or wished you could go to sleep and not wake up?
 
-2. Have you actually had any thoughts about killing yourself? If so, have you thought about how you might do this? 
+2. Have you actually had any thoughts about killing yourself? If so, have you thought about how you might do this?
 
 3. In the past three months, have you done anything, started to do anything, or prepared to do anything to end your life?
 
-If you answered yes to any of these questions, visit <https://suicidepreventionlifeline.org/> or call 1-800-273-8255. 
+If you answered yes to any of these questions, visit <https://suicidepreventionlifeline.org/> or call 1-800-273-8255.
 
-If you don't want to talk to a stranger, my name is Dennis, text or call me at 914-299-7537, email me, or message me on here. As an important note, I am not in your chain of command, so my interpretation is that I am not required to report any conversations I have. If anyone disagrees, let me know. 
+If you don't want to talk to a stranger, my name is Dennis, text or call me at 914-299-7537, email me, or message me on here. As an important note, I am not in your chain of command, so my interpretation is that I am not required to report any conversations I have. If anyone disagrees, let me know.
 
 It's okay to not be okay, talk to someone.
 ---
 [//]: # (54,800,activities/page_800)
 # Why?
-You thought you were here to learn how to get better at computers so what is all this? 
+You thought you were here to learn how to get better at computers so what is all this?
 
-Well, hopefully your end goal of all this is that you become a better person and have a better life. If you want to be good at computers just for the sake of being good at computers that counts for something too, but to me, all this technology is just a way for me to accomplish more than I could by myself. 
+Well, hopefully your end goal of all this is that you become a better person and have a better life. If you want to be good at computers just for the sake of being good at computers that counts for something too, but to me, all this technology is just a way for me to accomplish more than I could by myself.
 
-If you're going to be doing anything in this world, might as well take care of yourself first. Learning security comes far after you and your well-being. 
+If you're going to be doing anything in this world, might as well take care of yourself first. Learning security comes far after you and your well-being.
 
-Now, on to the show! 
+Now, on to the show!
 ---
 [//]: # (85,802,activities/page_802)
 # Letter from the Author
@@ -106,7 +106,7 @@ Now, on to the show!
 This training is dedicated to the memories of [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz), [Bassel Khartabil](https://en.wikipedia.org/wiki/Bassel_Khartabil) and those named on the [National Cryptologic Memorial](https://www.nsa.gov/about/cryptologic-heritage/cryptologic-memorial/cryptologic-memorial-list.shtml).
 
 ## Letter from the Author
-After a decade of teaching myself how to use computers and a few years training others, I went and made the site that I wish had existed when I got into the field back in middle school. 
+After a decade of teaching myself how to use computers and a few years training others, I went and made the site that I wish had existed when I got into the field back in middle school.
 
 Security is the shield of the modern world, and we need good people on the wall.  Thanks for being up there.
 
@@ -118,7 +118,7 @@ Hack the planet
 # Why Security?
 Computer security is the shield of the modern age. Without the constant battle on the frontlines between the people who want to see technology used for good and the people who want to use it for their own gain, or worse, to limit the rights and freedoms of others, the progress that occurs in the real world because of technology would be dramatically slowed. Security allows trust in technology, which leads to adoption, which leads to progress in one direction, or another. The more people able to help out with that fight, the faster we can move as a society, and less things will get broken and less people will be hurt on the way. That?s why this site exists, and hopefully, if you?re here for the right reasons, you?ll be able to jump into the fight with the tools you need to succeed.
 
-This course is designed to give you the mindset and fundamental skills necessary to be successful in the information security field. If you already have some experience - great! But we do not to assume any prior knowledge of security or even information technology in general. At the end of this, you may not be a guru (hint: nobody knows everything), but you should have the mental models and base knowledge to use the Linux operating system, install new programs, and be equipped to find and understand the information you need to learn even more. 
+This course is designed to give you the mindset and fundamental skills necessary to be successful in the information security field. If you already have some experience - great! But we do not to assume any prior knowledge of security or even information technology in general. At the end of this, you may not be a guru (hint: nobody knows everything), but you should have the mental models and base knowledge to use the Linux operating system, install new programs, and be equipped to find and understand the information you need to learn even more.
 
 While I have tried to do everything in my ability to make this course self-guided, there are hundreds of places where a questioning attitude will identify clear shortfalls in the content. Some of these are intentional, most of them are not. Your questions and feedback will guide the development of this course so that it can become the best resource possible.
 
@@ -127,10 +127,10 @@ Surrounding this site is a community to help you and provide guidance as you mov
 ---
 [//]: # (85,804,activities/page_804)
 # Hopper's ...
-We named out team after Grace Hopper because she is our favorite person in Navy computing history. You probably know who she is. 
+We named out team after Grace Hopper because she is our favorite person in Navy computing history. You probably know who she is.
 
 
-Have you ever heard the quote, ?It's easier to ask forgiveness than it is to get permission.?? That was her. 
+Have you ever heard the quote, ?It's easier to ask forgiveness than it is to get permission.?? That was her.
 
 ![alt text](https://i2.wp.com/hopperboulder.com/wp-content/uploads/2019/03/Grace1-2.jpg?w=704&ssl=1 "img1")
 
@@ -186,26 +186,26 @@ In the US, the Computer Fraud and Abuse Act (CFAA) is the most important law con
 
 Basically, all you need to know is that every computer is a protected computer and that it is a crime to intentionally access a computer or account without authorization or to exceed authorized access.
 
-Exceed authorized access is a real sticky subject, and it has led to a bunch of unfortunate prosecutions. 
+Exceed authorized access is a real sticky subject, and it has led to a bunch of unfortunate prosecutions.
 
-To stay on the safe side, only access computers you own, or have written consent to access. You're lucky, because we have an entire network of training computers you can do whatever you want on. A lot of people don't, and that's where they get in trouble while trying to learn.  
+To stay on the safe side, only access computers you own, or have written consent to access. You're lucky, because we have an entire network of training computers you can do whatever you want on. A lot of people don't, and that's where they get in trouble while trying to learn.
 
 It should also be mentioned that copyright law is also a good way to get in trouble, not to mention that if you see software to pirate on the internet, it is very unlikely that it doesn't contain malware. Just don't steal things, we can almost always get a copy of whatever you want, it just might take some paperwork and some emails.
 
 ## Classification
-Absolutely nothing here is classified, in any way, whatsoever. Nothing is derived from classified information. 
+Absolutely nothing here is classified, in any way, whatsoever. Nothing is derived from classified information.
 
 ---
 [//]: # (85,808,activities/page_808)
 # Join Us
 ## Slack
-Instant group messaging has been a cultural staple of the internet community since its inception, as it is truly one of the most important functions that global interconnectedness can serve. 
+Instant group messaging has been a cultural staple of the internet community since its inception, as it is truly one of the most important functions that global interconnectedness can serve.
 
 Slack has become the messaging platform of choice, allowing group collaboration and real time chat along with various plug-ins and file hosting integration. We use it for many of feedback, support, as a forum, and as our primary instant messaging channel. At some point we might migrate to a self-hosted server, but for now, Slack is the easiest to work with.
 
 Join our channel at <https://launchpass.com/hoppersroppers> and post a hello!
 
-If this is not working for you, it is because you have an ad-blocker installed. If you do, whitelist the site or open it in Incognito mode and enter your email. We'll learn all about ad-blockers and why that broke the site for you later. If you continue having problems, message us here or email us. 
+If this is not working for you, it is because you have an ad-blocker installed. If you do, whitelist the site or open it in Incognito mode and enter your email. We'll learn all about ad-blockers and why that broke the site for you later. If you continue having problems, message us here or email us.
 
 Choose a nickname, or what we call online, a "handle" for yourself. Don't worry about it too much, you will come up with something good eventually, and you are not stuck with whatever you start with. As a general rule, don't call yourself something like "Dark Shadow". Unless you want to. In that case, do that. I probably had a dozen or so before settling on my current one, 'deevnull'. I liked mine because it is a nerd joke (that will be explained about halfway through this course) and incorporates my last name.  Send me a message with a brief introduction to let me know you joined. We use Slack for just about everything from helping on problems, submitting feedback, or just talking about random things.
 
@@ -220,7 +220,7 @@ Follow @HoppersRoppers on twitter so we can follow you. Again, if you don't want
 ---
 [//]: # (66,528,activities/page_528)
 # The 'Competitive' Team
-When you sign up for this site, you automatically become a member of our not-at-all competitive team, which also happens to be named Hopper's Roppers. This whole site is grown out of the training I made for my college security team who competed in various cyber security competitions. Now, Hopper's Roppers is a distributed team, open to anyone, but is especially meant to be a place for beginners to learn the ropes in and we will participate in any event we have the numbers for. You will not be ready to compete while you are still working your way through this course... the good news, is you don't need to be ready to compete to do it. All you have to do is sign up, know your brain is going to hurt and you probably won't understand anything, and be ready to learn. 
+When you sign up for this site, you automatically become a member of our not-at-all competitive team, which also happens to be named Hopper's Roppers. This whole site is grown out of the training I made for my college security team who competed in various cyber security competitions. Now, Hopper's Roppers is a distributed team, open to anyone, but is especially meant to be a place for beginners to learn the ropes in and we will participate in any event we have the numbers for. You will not be ready to compete while you are still working your way through this course... the good news, is you don't need to be ready to compete to do it. All you have to do is sign up, know your brain is going to hurt and you probably won't understand anything, and be ready to learn.
 
 There is no better measure of ability, grit, and the hacker mentality than playing in a competition. Every CTF requires you to use what you already know to identify what you will need to learn on the spot to solve the problem. As you are now a member of our team, we will let you know when competitions are occurring and we hope to see you there if you have the time. Even if you are new and don't think you have anything to contribute, you will learn more picking someone's brain as you shoulder-surf them (or watch them on Twitch) than you possibly could trying to learn by yourself.
 
@@ -234,26 +234,26 @@ It's from the people behind CTFd, some cool folks from NYU that wrote the softwa
 ---
 [//]: # (66,562,activities/page_562)
 # Join the Team
-Request to join the Hopper's Roppers team on CTFtime. 
+Request to join the Hopper's Roppers team on CTFtime.
 
 <https://ctftime.org/team/104886>
 
 CTFtime is great because it lets you find upcoming events <https://ctftime.org/event/list/upcoming> as well as provides a leaderboard for the best teams around the world.
 
-Now when you sign up for CTFs you can get the team points on the leaderboard. 
+Now when you sign up for CTFs you can get the team points on the leaderboard.
 
 ---
 [//]: # (66,565,activities/page_565)
 # What You Will Learn
 There are a wide variety of skills required to succeed in a CTF competition.
 
-This course will attempt to teach you everything you need to know to start and take on any competition. 
+This course will attempt to teach you everything you need to know to start and take on any competition.
 
 First, we will start with how to use linux and linux command line tools. Then after a brief introduction to python scripting, we will launch into CTF specific topics.
 
 Forensics is comprised of host-based and network forensics and we will go into the basics of that. Cryptography will be brief and will go over basic problems and how to solve them. We will also go into the basics of web exploitation and how some of those challenges work.
 
-This is a beginner course, so we will not be getting into Reverse Engineering or Binary Exploitation at all. This is meant to prepare you for the picoCTF competition where you will have to figure out how to use the skills and resources you learned in this course to solve problems as you go. 
+This is a beginner course, so we will not be getting into Reverse Engineering or Binary Exploitation at all. This is meant to prepare you for the picoCTF competition where you will have to figure out how to use the skills and resources you learned in this course to solve problems as you go.
 
 ---
 [//]: # (84,812,activities/page_812)
@@ -265,7 +265,7 @@ If you can stick with and complete this course, you will be armed with the basel
 ---
 [//]: # (84,813,activities/page_813)
 # Hacker Attitude
-Read this: <http://www.catb.org/~esr/faqs/hacker-howto.html#what_is> 
+Read this: <http://www.catb.org/~esr/faqs/hacker-howto.html#what_is>
 
 It isn't perfect, but it will do for now until I write a new one.?The biggest problem with this is that the author, while once a famous hacker and important member of the open source movement, is a total asshole. None of the content is bad, but we are in the process of trying to write something to replace all of his content in this curriculum.
 
@@ -281,12 +281,12 @@ While there is a lot in there that is very interesting, the most important part 
 
 5. Attitude is no substitute for competence.
 
-These 5 statements provide a reasonable framework for how you should approach learning this material. It should be fun, we shouldn't be wasting your time, there should be multiple ways for you to succeed, and we are measuring success by your ability at the end. 
+These 5 statements provide a reasonable framework for how you should approach learning this material. It should be fun, we shouldn't be wasting your time, there should be multiple ways for you to succeed, and we are measuring success by your ability at the end.
 
 ---
 [//]: # (84,814,activities/page_814)
 # Hacker Ethic
-From the same site as the Hacker How-To comes this brief description of the hacker ethic. Again, I am in the process of writing something else, but for now this is good enough.?  
+From the same site as the Hacker How-To comes this brief description of the hacker ethic. Again, I am in the process of writing something else, but for now this is good enough.?
 
 Read it: [http://www.catb.org/jargon/html/H/hacker-ethic.html](http://www.catb.org/jargon/html/H/hacker-ethic.html)
 
@@ -303,7 +303,7 @@ The Wikipedia article is pretty good so read it:?[https://en.wikipedia.org/wiki/
 
 They come out to six key beliefs:
 
-1. Access to computers?and anything which might teach you something about the way the world works?should be unlimited and total. Always yield to the Hands-On Imperative!  
+1. Access to computers?and anything which might teach you something about the way the world works?should be unlimited and total. Always yield to the Hands-On Imperative!
 2. All information should be free (Often a topic of debate, he means free as in speech, rather than free as in beer)?
 3. ?Mistrust authority?promote decentralization
 4. ?Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.
@@ -315,15 +315,15 @@ They come out to six key beliefs:
 # RTFM
 One of the key parts of this mindset is sharing knowledge with others. A great quote on the subject is 'There is?nothing noble?in?being superior?to your fellow man; true nobility is?being superior?to your former self.' ?Not to mention, the more you give back to the community, the greater the value you provide. If you're just starting off, you might not think you have anything to provide, but in fact, you're looking at the world with a different perspective than someone who has done it for years. For example, you can provide feedback on when training makes no sense or isn't as effective as it could be, and help make it easier for the next person to go through it. This site is a work in progress and the more feedback we receive the better it will be. ?
 
-With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should ?Read the F-ing Manual? or ?RTFM?. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started. 
+With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should ?Read the F-ing Manual? or ?RTFM?. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started.
 
 # Man-Pages
 The most common "manual" you will come across in this course and your travels through hackerdom are the man-pages that accompany every single aspect of the Unix operating system, and they are a great resource for people who have spent years learning how to understand them. Right now, you don?t have the knowledge to be expected to understand how they work, and that is fine. There is no pressure to know anything, but there is pressure to learn.?
 
 The comic web site Xkcd is a nerd cultural treasure and you will see it referenced constantly. Read [this comic](https://xkcd.com/1692/)
 
-# Alt-Text 
-You might be thinking to yourself... what is alt-text? Funny you ask that. Depending on your current browser, figure out how to view the web page's source code for <https://xkcd.com/1692/>. This might require some Googling. What you are looking at is hypertext markup language or HTML for short. HTML is the language that websites are made of. (If you already knew that, good for you, I promise that the rest of the course gets significantly more in depth.) You will learn more later, but for now, look at the code and find where the main picture is stored in the webpage. Now do you understand what alt-text means? 
+# Alt-Text
+You might be thinking to yourself... what is alt-text? Funny you ask that. Depending on your current browser, figure out how to view the web page's source code for <https://xkcd.com/1692/>. This might require some Googling. What you are looking at is hypertext markup language or HTML for short. HTML is the language that websites are made of. (If you already knew that, good for you, I promise that the rest of the course gets significantly more in depth.) You will learn more later, but for now, look at the code and find where the main picture is stored in the webpage. Now do you understand what alt-text means?
 
 # In Defense of RTFM
 RTFM gets a bad rap for good reason, because it is usually used as a put down on someone who doesn't know much about a subject... with that said, once you have the knowledge to understand a topic, if you are using that software, you should read the manual. Even if you don't understand the manual, if you are going to ask a question, you might as well reference that you know the manual exists and that what you are asking is referenced, you just need clarification. If you ask questions effectively you will find you understand your initial question and the topic much better than if you had someone explain the answer to just your specific question.
@@ -334,7 +334,7 @@ There are very very few questions you are going to ask that Google can't answer.
 ---
 [//]: # (84,816,activities/assign_816)
 # Questions
-We expect you to be constantly coming across words, phrases, and entire concepts that you have never seen before and are totally lost in. When you have to get things done, you'll have to learn more about it and one of the best ways to get those holes in your knowledge filled is to ask questions. 
+We expect you to be constantly coming across words, phrases, and entire concepts that you have never seen before and are totally lost in. When you have to get things done, you'll have to learn more about it and one of the best ways to get those holes in your knowledge filled is to ask questions.
 
 Here are some guidelines for asking questions.
 
@@ -353,13 +353,13 @@ We already told you what RTFM stood for, so now we're gonna have you do it.?
 Visit this [man-page](https://linux.die.net/man/1/bash) and write down the first three things you don?t understand.?(I don't expect you to make it past the Name, "bash - GNU Bourne-Again SHell", there is so much to unpack in just that).
 
  Then Google one of them and figure out what it is. Submit a sentence or two explaining the thing you didn?t know.?For the love of everything, don?t read any further once you are done with that. Remember Rule 3 of the Hacker Attitude, ?Boredom and Drudgery are evil.? If you're not getting anything out of something at any point in this course, don't do it, and leave us feedback that we are wasting your time. We mean that. You won't hurt our feelings.
- 
+
 ---
 [//]: # (84,817,activities/page_817)
 # Learning
 Read this, it is a wonderful intro to the psychology of learning and where you are as a student <https://azeria-labs.com/the-process-of-mastering-a-skill/>.
 
-We all want to better at learning... but how do we do that? 
+We all want to better at learning... but how do we do that?
 
 
 Relevant Comic: <https://xkcd.com/1053/>
@@ -369,15 +369,15 @@ The most important thing to realize while you are on this journey is that you wi
 ---
 [//]: # (84,818,activities/assign_818)
 # Brainwashing and Learning
-## Brainwashing 
+## Brainwashing
 
-As we said before, hacking is a mindset, not a skillset. Sure you'll pick up plenty of useful skills along the way, but the primary benefit of the hacker mentality is being able to look at the world, see a problem you've never approached before, and figure out how to solve it. We are trying to cultivate that mindset, and yes, we are going to try to subtly brainwash you. We're not sorry about it. Genuine interest and drive are the two best indicators of success in this field, and we want to encourage it as much as we possibly can. How do we teach that? How do we measure that? We don't know. If we were pretentious losers we might say we're trying to hack your brain into becoming a hacker. But we're not. So lets call it brainwashing. Are you okay with being brainwashed?* 
- 
- 
- 
- 
- 
-* Note: This probably is not legally binding. 
+As we said before, hacking is a mindset, not a skillset. Sure you'll pick up plenty of useful skills along the way, but the primary benefit of the hacker mentality is being able to look at the world, see a problem you've never approached before, and figure out how to solve it. We are trying to cultivate that mindset, and yes, we are going to try to subtly brainwash you. We're not sorry about it. Genuine interest and drive are the two best indicators of success in this field, and we want to encourage it as much as we possibly can. How do we teach that? How do we measure that? We don't know. If we were pretentious losers we might say we're trying to hack your brain into becoming a hacker. But we're not. So lets call it brainwashing. Are you okay with being brainwashed?*
+
+
+
+
+
+* Note: This probably is not legally binding.
 
 
 ## Continuous Learning
@@ -395,24 +395,24 @@ Learning this stuff isn't easy. The content is difficult, the scope of what ther
 
 We will do our absolute best to help you keep these lists short. There will be section in the Slack for random questions, from ELI5 style to "Make me a tutorial", or you can always just private message it.
 
-## Goals 
+## Goals
 
 "Complete this course, as defined as finishing all the content that applies to me, before____________"
 
-With most of the goal already defined for you, what you need to focus on is the timeline you want to set for yourself. 
+With most of the goal already defined for you, what you need to focus on is the timeline you want to set for yourself.
 
 Answer these questions:
 
-1. How much time a week do you want to spend working on this? 
+1. How much time a week do you want to spend working on this?
 2. How much time a week do you think you will actually have to work on this?
 3. When will you complete this course?
 
-Submit your answers to these questions.  
+Submit your answers to these questions.
 
 ---
 [//]: # (72,627,activities/page_627)
 # Canonical Documents (I/P)
-<https://github.com/pwning/docs/blob/master/suggestions-for-running-a-ctf.markdown> 
+<https://github.com/pwning/docs/blob/master/suggestions-for-running-a-ctf.markdown>
 
 ## Flag Format
 
@@ -501,13 +501,13 @@ File Forensics
 * How do these ones and zeros work? <https://learn.sparkfun.com/tutorials/binary>
 * Also hey, what is hex? <https://learn.sparkfun.com/tutorials/hexadecimal>
 
-   1. You should have a hex editor in your VM. 
+   1. You should have a hex editor in your VM.
    2. Download our logo and view it in the Hex Editor.
-   3. What is a magic number? What is the magic number of our logo? 
+   3. What is a magic number? What is the magic number of our logo?
 
 File formats (and networking protocols, and all sorts of other things on the internet) are defined in documents known as RFCS. Read through the .png format RFC and find where the magic number is defined. Nobody has this content memorized, but when they deep dive into a format or protocol, the RFC has the answers. <https://tools.ietf.org/html/rfc2083>
 
-Any time you need to deal with a file format, google will provide most of the answers. If you need to dig deeper than that, go to the RFC. 
+Any time you need to deal with a file format, google will provide most of the answers. If you need to dig deeper than that, go to the RFC.
 
 * Also, hey, what is ascii? This is ascii. <https://learn.sparkfun.com/tutorials/ascii>
 
@@ -527,8 +527,8 @@ Any time you need to deal with a file format, google will provide most of the an
 * Read this <https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l01/lec.html>
 * Do the HW other than problem 9. <https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l01/hw/hw.pdf>
 1. Submit pictures of the HW.
-2. Use this link to help create the jar file <https://github.com/macagua/example.java.helloworld>. Then make your own hello world gifar using the information in this Stackoverflow answer. <https://security.stackexchange.com/questions/116819/beside-gifar-are-there-any-other-known-polyglot-files>. 
-3. While you are learning about polyglot files, you should learn about POC || GTFO. <https://hackaday.com/2017/08/14/bibles-you-should-read-poc-gtfo/>. They are very entertaining, though highly advanced. Download <https://www.alchemistowl.org/pocorgtfo/pocorgtfo07.pdf> and go read Chapter 6. It will open your mind to what is possible, and like all good pieces of education, will mostly serve to teach you how little you know. 
+2. Use this link to help create the jar file <https://github.com/macagua/example.java.helloworld>. Then make your own hello world gifar using the information in this Stackoverflow answer. <https://security.stackexchange.com/questions/116819/beside-gifar-are-there-any-other-known-polyglot-files>.
+3. While you are learning about polyglot files, you should learn about POC || GTFO. <https://hackaday.com/2017/08/14/bibles-you-should-read-poc-gtfo/>. They are very entertaining, though highly advanced. Download <https://www.alchemistowl.org/pocorgtfo/pocorgtfo07.pdf> and go read Chapter 6. It will open your mind to what is possible, and like all good pieces of education, will mostly serve to teach you how little you know.
 
 
 
@@ -538,33 +538,33 @@ Any time you need to deal with a file format, google will provide most of the an
 # File Carving 1
 Follow this walkthrough: <https://github.com/HackThisSite/CTF-Writeups/tree/master/2017/EasyCTF/Zooooooom>
 
-Submit a screenshot of your solution. 
+Submit a screenshot of your solution.
 
 ---
 [//]: # (67,575,activities/assign_575)
 # File Carving 2
 Follow this walkthrough: <https://github.com/ctfs/write-ups-2015/tree/master/csaw-finals-ctf-2015/forensic/mandiant>
 
-Submit a screenshot of your solution. 
+Submit a screenshot of your solution.
 
 ---
 [//]: # (67,576,activities/assign_576)
 # File Carving 3
 Follow this walkthrough: <https://blog.stalkr.net/2010/05/defcon-18-ctf-quals-writeup-forensics.html>
 
-Submit a screenshot of your solution. 
+Submit a screenshot of your solution.
 
 ---
 [//]: # (67,577,activities/assign_577)
 # File Carving 4
 Follow this walkthrough: <https://medium.com/@the.bilal.rizwan/intigriti-ctf-writeup-737009900a42>
 
-Submit a screenshot of your solution. 
+Submit a screenshot of your solution.
 
 ---
 [//]: # (67,579,activities/assign_579)
 # File Carving 5
-What files are contained inside of PoC || GTFO Volume 7? <https://www.alchemistowl.org/pocorgtfo/pocorgtfo07.pdf> 
+What files are contained inside of PoC || GTFO Volume 7? <https://www.alchemistowl.org/pocorgtfo/pocorgtfo07.pdf>
 
 Submit a screenshot of what you have found.
 
@@ -573,18 +573,18 @@ Submit a screenshot of what you have found.
 # File Metadata
 What is metadata in the real world? <https://ssd.eff.org/en/module/why-metadata-matters>
 
-Usually we are thinking about in the context of communications, but files contain metadata as well. When it was created, where, by who... sometimes it even will tell you the type of machine. 
+Usually we are thinking about in the context of communications, but files contain metadata as well. When it was created, where, by who... sometimes it even will tell you the type of machine.
 
 Read this: <https://ctf101.org/forensics/what-is-metadata/>
 
-Give me the GPS coords for this picture: <https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg>. I recommend this site: <http://exif.regex.info/>		
+Give me the GPS coords for this picture: <https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg>. I recommend this site: <http://exif.regex.info/>
 
 ---
 [//]: # (67,581,activities/assign_581)
 # File Metadata 2
-Follow this walkthrough: <https://github.com/ctfs/write-ups-2015/tree/master/insomni-hack-ctf-2015/forensic/zoom-in>		
+Follow this walkthrough: <https://github.com/ctfs/write-ups-2015/tree/master/insomni-hack-ctf-2015/forensic/zoom-in>
 
-Submit a screenshot of your solution.							
+Submit a screenshot of your solution.
 ---
 [//]: # (67,582,activities/assign_582)
 # Steganography 1
@@ -594,22 +594,22 @@ Steganography, or stego, challenges are among the most hated of all CTF challeng
 Read this: <https://ctf101.org/forensics/what-is-stegonagraphy/>
 
 
-Luckily, there are a few "standard" problems and tools that make solving those problems easier. 
+Luckily, there are a few "standard" problems and tools that make solving those problems easier.
 
 
-Complete this writeup and submit a screenshot of the answer: <https://github.com/krx/CTF-Writeups/blob/master/CSAW%2016%20Quals/for250%20-%20Watchword/jk_actual_writeup.md> 
+Complete this writeup and submit a screenshot of the answer: <https://github.com/krx/CTF-Writeups/blob/master/CSAW%2016%20Quals/for250%20-%20Watchword/jk_actual_writeup.md>
 
 I recommend you use this link to download Stegsolve <https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve>.
 
 
-I recommend you use this link to download Steghide <https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve>. Steghide is the defacto tool for password protected stego challenges, but don't forget to try steghide with no password. 
+I recommend you use this link to download Steghide <https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve>. Steghide is the defacto tool for password protected stego challenges, but don't forget to try steghide with no password.
 
 With these two tools you should be able to solve 90% of all stego problems. Even if these don't work, they can still identify weirdness and you can investigate further.
 
 ---
 [//]: # (67,583,activities/assign_583)
 # Steganography 2
-Complete this writeup and submit a screenshot of the answer: <https://github.com/ctfs/write-ups-2015/tree/master/pragyan-ctf-2015/stegano/what_you_see_is_what_you_get> 
+Complete this writeup and submit a screenshot of the answer: <https://github.com/ctfs/write-ups-2015/tree/master/pragyan-ctf-2015/stegano/what_you_see_is_what_you_get>
 
 
 ---
@@ -673,7 +673,7 @@ A packet capture is the recording of all information that goes across your netwo
 
 Wireshark is an amazing tool, install it in both your native Windows and your VM.
 
- 
+
 ---
 [//]: # (73,600,activities/page_600)
 # tShark
@@ -699,7 +699,7 @@ Now the important thing is how to read an RFC.
 
 1. Is this an official RFC? What RFC did it update?
 2. What does this RFC give guidance on how to do?
-3. What are the 5 families of response status codes?  
+3. What are the 5 families of response status codes?
 4. What is a GET request and what does it look like?
 5. What is a User-Agent?
 6. What RFC guides "cache-control" in a header?
@@ -720,31 +720,31 @@ Congratulations, you are, at this exact moment in time, the world's 2nd most kno
 ---
 [//]: # (73,601,activities/assign_601)
 # NetForensics 1
-Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/forensics/transfer-100> 
+Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/forensics/transfer-100>
 ---
 [//]: # (73,602,activities/assign_602)
 # NetForensics 2
-Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://medium.com/@marcellelee/ctf-challenge-walkthrough-network-traffic-analysis-rogue-user-f87ae923130> 
+Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://medium.com/@marcellelee/ctf-challenge-walkthrough-network-traffic-analysis-rogue-user-f87ae923130>
 ---
 [//]: # (73,603,activities/assign_603)
 # NetForensics 3
-Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://medium.com/@marcellelee/ctf-challenge-walkthrough-network-traffic-analysis-rogue-user-f87ae923130> 
+Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://medium.com/@marcellelee/ctf-challenge-walkthrough-network-traffic-analysis-rogue-user-f87ae923130>
 ---
 [//]: # (73,604,activities/assign_604)
 # NetForensics 4
-Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://blogs.tunelko.com/2013/09/01/asis-ctf-simple-pcap-spcap-writeup/> 
+Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://blogs.tunelko.com/2013/09/01/asis-ctf-simple-pcap-spcap-writeup/>
 ---
 [//]: # (73,605,activities/assign_605)
 # NetForensics 5
-Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://ctftime.org/writeup/10362> 
+Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://ctftime.org/writeup/10362>
 ---
 [//]: # (73,606,activities/assign_606)
 # NetForensics 6
-Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://github.com/ctfs/write-ups-2015/tree/master/ghost-in-the-shellcode-2015/forensics/cloudfs> 
+Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://github.com/ctfs/write-ups-2015/tree/master/ghost-in-the-shellcode-2015/forensics/cloudfs>
 ---
 [//]: # (73,607,activities/assign_607)
 # NetForensics 7
-Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://github.com/ctfs/write-ups-2015/tree/master/hack-dat-kiwi-ctf-2015/forensics/ssl-sniff-2> 
+Solve this forensics challenge using the write-up provided and submit a screenshot of your solution. <https://github.com/ctfs/write-ups-2015/tree/master/hack-dat-kiwi-ctf-2015/forensics/ssl-sniff-2>
 ---
 [//]: # (68,623,activities/page_623)
 # CTF Meta (I/P)
@@ -771,11 +771,11 @@ Classical Ciphers
 # Frequency Analysis
 Read this: <https://www.dcode.fr/frequency-analysis>
 
-Use the tool to determine the frequency of characters, bigrams, and trigrams of the text: 
+Use the tool to determine the frequency of characters, bigrams, and trigrams of the text:
 
 "Frequency analysis is the study of the distribution of the letters in a text. Analysis of frequencies help decrypting substitution-based ciphers using the fact that some letters apparitions are varying in a given language : in english, letters E, T or A are common while Z or Q are rare."
 
-Then use the tool to determine frequency of chars, bigrams, and trigrams of this text: 
+Then use the tool to determine frequency of chars, bigrams, and trigrams of this text:
 
 "Iuhtxhqfb dqdobvlv lv wkh vwxgb ri wkh glvwulexwlrq ri wkh ohwwhuv lq d whaw. Dqdobvlv ri iuhtxhqflhv khos ghfubswlqj vxevwlwxwlrq-edvhg flskhuv xvlqj wkh idfw wkdw vrph ohwwhuv dssdulwlrqv duh ydublqj lq d jlyhq odqjxdjh : lq hqjolvk, ohwwhuv H, W ru D duh frpprq zkloh C ru T duh uduh."
 
@@ -787,7 +787,7 @@ Read this: <https://planetcalc.com/8047/>
 
 Then decrypt this: "Iuhtxhqfb dqdobvlv lv wkh vwxgb ri wkh glvwulexwlrq ri wkh ohwwhuv lq d whaw. Dqdobvlv ri iuhtxhqflhv khos ghfubswlqj vxevwlwxwlrq-edvhg flskhuv xvlqj wkh idfw wkdw vrph ohwwhuv dssdulwlrqv duh ydublqj lq d jlyhq odqjxdjh : lq hqjolvk, ohwwhuv H, W ru D duh frpprq zkloh C ru T duh uduh."
 
-Most automated cryptography tools use this sort of technique behind the scenes. 
+Most automated cryptography tools use this sort of technique behind the scenes.
 
 Another example is the chi-squared statistic: <http://practicalcryptography.com/cryptanalysis/text-characterisation/chi-squared-statistic/>
 
@@ -811,7 +811,7 @@ Read this: <https://www.dcode.fr/index-coincidence>
 ---
 [//]: # (68,613,activities/assign_613)
 # Caesar Ciphers and Substitution
-## Caesar 
+## Caesar
 
 The most common, and most famous, of all ciphers.
 
@@ -821,7 +821,7 @@ Solve using <https://www.dcode.fr/caesar-cipher>
 
 0. How does a Caesar cipher work?
 1. "wklv lv d vwdqgdug fdhvdu"
-2.  "guvf vf n ebg 13 pynffvp" 
+2.  "guvf vf n ebg 13 pynffvp"
 3.  What is a ROT13 cipher?
 
 
@@ -836,9 +836,9 @@ Solve using <https://www.dcode.fr/monoalphabetic-substitution>
 JDS TACG JSWDGCHIS CU JB AGAVPMS JDS XNSHISGWCSU BX VSJJSNU AGZ XCGZ JDS TBUJ VCFSVP QCENATU.
 JDS FGBOG YVACGJSLJ AJJAWF TAFSU CJ YBUUCQVS JB ZSZIWS UBTS VSJJSNU BX JDS AVYDAQSJ KCA JDS FGBOVSZES BN JDS YNSVCTCGANP EISUU BX WSNJACG YBNJCBGU BX JDS YVACG JSLJ."
 2. "JDS TACG JSWDGCHIS CU JB AGAVPMS JDS XNSHISGWCSU BX VSJJSNU AGZ XCGZ JDS TBUJ VCFSVP QCENATU."
-3. Why is it harder for it to solve shorter text? Or put better, why is it easier to solve with longer text? Think frequencies. Fix the last cipher manually to get the correct answer. 
+3. Why is it harder for it to solve shorter text? Or put better, why is it easier to solve with longer text? Think frequencies. Fix the last cipher manually to get the correct answer.
 4. Solve this, with the knowledge that the word "substitution" is in the plaintext. "VCZNKOV: GSV NLHG XLNNLM ZOKSZYVGH FHVW ULI HFYHGRGFGRLMH ZIV"
-Don't forget to use frequency analysis. 
+Don't forget to use frequency analysis.
 
 
 ---
@@ -849,21 +849,21 @@ Read this: <https://www.boxentriq.com/code-breaking/vigenere-cipher>
 Solve using <https://www.dcode.fr/vigenere-cipher>
 
 1. What is a vigenere cipher? Why is it harder to solve than a Caesar cipher? Use the word "keyspace" in your answer.
-2. "cs rrmq sw y cxyxhybh tskcxipo ggzlcb xfkx gc iycc ry hcmvwzx zogyewc yj yvp rri qzeaow"		
+2. "cs rrmq sw y cxyxhybh tskcxipo ggzlcb xfkx gc iycc ry hcmvwzx zogyewc yj yvp rri qzeaow"
 3. "csrrmqswycxyxhybhtskcxipoggzlcbxfkxgclybhcbfcmescimpwnkgcc	"
 4. "24hr5gBwyv4hrefnif34gApjDfRmei2iPD7V"
-   * This text was encrypted with an alphabet of a-z,0-9 and has the string "1337" in the file		
+   * This text was encrypted with an alphabet of a-z,0-9 and has the string "1337" in the file
 5. Why is that last ciphertext so much harder for an automated solver?
 
 Most flags in competitions for all challenges, not just crypto will be obfuscated in the same way to prevent someone from bruteforcing.
 
-6. "ms5yr 32e ud0s 5rdw1yq dg2e6 gnqdvrsobb dy7upnx, u81g k2b brz!" 
+6. "ms5yr 32e ud0s 5rdw1yq dg2e6 gnqdvrsobb dy7upnx, u81g k2b brz!"
    * This file was encrypted with a dictionary word. Use the dictionary solver.
-7. Why are wordlists useful for cracking ciphers? 
+7. Why are wordlists useful for cracking ciphers?
 ---
 [//]: # (68,615,activities/assign_615)
 # "Fun" Ciphers
-The good (and bad) thing about ciphers is that really anything can be used to convey information. This means you will come across all sorts of wild challenges. When you come across them, pay attention to hints and use google to try to identify what they are and where to find an online solver. If you can't find a solver you'll have to do it manually, or write your own. 
+The good (and bad) thing about ciphers is that really anything can be used to convey information. This means you will come across all sorts of wild challenges. When you come across them, pay attention to hints and use google to try to identify what they are and where to find an online solver. If you can't find a solver you'll have to do it manually, or write your own.
 
 Especially in a competition, doing it manually is faster than writing your own.
 
@@ -882,7 +882,7 @@ Modern Cryptography
 ---
 [//]: # (68,621,activities/assign_621)
 # Modern Crypto
-Cryptography has come a long long way since the time of Caesar. Now, just about everything we do relies on math. Math, it turns out, is very hard to beat if it is done properly. Math can tell you that it is provably impossible for an attacker to decrypt something earlier than the heat death of the sun. That is pretty awesome. If you find yourself trying to beat math, you're probably attacking the wrong part of the problem. Learn about encryption below. 
+Cryptography has come a long long way since the time of Caesar. Now, just about everything we do relies on math. Math, it turns out, is very hard to beat if it is done properly. Math can tell you that it is provably impossible for an attacker to decrypt something earlier than the heat death of the sun. That is pretty awesome. If you find yourself trying to beat math, you're probably attacking the wrong part of the problem. Learn about encryption below.
 
 0. Read this: <https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/lec.html>
 1. What is symmetric encryption?
@@ -903,7 +903,7 @@ Alright, now that you have an idea of what encryption is, read this <https://dan
 # Passwords
 Read this: <https://ssd.eff.org/en/module/creating-strong-passwords>
 
-Passwords are a normal part of life for us. But when you see them in a Capture the Flag, usually something fishy is going on. Remember what we said earlier about you not being able to beat math? When it comes to passwords, you won't beat math. If the password is short, or in a dictionary, you will break it. If it is not, you never will. 
+Passwords are a normal part of life for us. But when you see them in a Capture the Flag, usually something fishy is going on. Remember what we said earlier about you not being able to beat math? When it comes to passwords, you won't beat math. If the password is short, or in a dictionary, you will break it. If it is not, you never will.
 
 1. Read this: <http://www.passwordanalytics.com/theory/passwords/>
 2. Read Passwords 101 and submit one example each of the three ways you authenticate yourself.
@@ -933,28 +933,28 @@ Tasks:
 Read this: <https://ctf101.org/cryptography/what-is-xor/>
 
 99.9% of the time you see an XOR problem in a CTF, you can solve it with something named xortool. There are also websites online that do the same thing, but will fail on larger texts.
-				
+
 Follow this writeup and submit a screenshot of your solution: <http://mslc.ctf.su/wp/hack-lu-ctf-2011-simplexor-200/>
 
-Follow this writeup and submit a screenshot of your solution: <https://github.com/AetherEternity/ctf-writeups/tree/master/hackyou2017/Decrypt>	
+Follow this writeup and submit a screenshot of your solution: <https://github.com/AetherEternity/ctf-writeups/tree/master/hackyou2017/Decrypt>
 
-					
+
 ---
 [//]: # (68,617,activities/assign_617)
 # RSA
 RSA is one of the most common modern cryptosystems, known for it's public and private key encryption. If you see public and private keys, there is a strong chance that it is an RSA problem, or at least RSA derived.
 
 Read this: <https://ctf101.org/cryptography/what-is-rsa/>
-				
+
 Follow this writeup and submit your solution: <https://www.hacktoday.io/t/hack-the-box-weak-rsa-challenge/2271>.
 
-Follow this writeup and submit your solution: <https://qy.sg/x-ctf-fact0r!z3-and-fact0r!z3_aga!n-crypto/> 
+Follow this writeup and submit your solution: <https://qy.sg/x-ctf-fact0r!z3-and-fact0r!z3_aga!n-crypto/>
 ---
 [//]: # (68,622,activities/page_622)
 # Things You Shouldn't Try to Do
-Remember what we said earlier about how math will win, every time? 
+Remember what we said earlier about how math will win, every time?
 
-The corollary to the rule that you cannot beat math is "Never roll your own crypto". <https://www.vice.com/en_us/article/wnx8nq/why-you-dont-roll-your-own-crypto>. Anybody can write their own crypto libraries, but it probably sucks and is susceptible to attacks that were known in 1942. So when you see a CTF challenge with a "custom encryption library", know that whoever wrote that library implemented it wrong.  In order to solve that challenge, you will need to know a great deal more about crypto than this course will try to teach you. If you want to become very very good at crypto, do the Matasano CryptoPals challenges. <https://cryptopals.com/> and spend the rest of your days reading academic papers. Otherwise, just move on with your life. 
+The corollary to the rule that you cannot beat math is "Never roll your own crypto". <https://www.vice.com/en_us/article/wnx8nq/why-you-dont-roll-your-own-crypto>. Anybody can write their own crypto libraries, but it probably sucks and is susceptible to attacks that were known in 1942. So when you see a CTF challenge with a "custom encryption library", know that whoever wrote that library implemented it wrong.  In order to solve that challenge, you will need to know a great deal more about crypto than this course will try to teach you. If you want to become very very good at crypto, do the Matasano CryptoPals challenges. <https://cryptopals.com/> and spend the rest of your days reading academic papers. Otherwise, just move on with your life.
 
 So moving on, if implemented properly (and the assumption for all standard libraries is that they are), the attacker will not beat math. It doesn't matter if you spin up a cloud server or build a facility in Utah, you're not going to beat math.  Anytime you find yourself trying to do any of these things, assume that you have gone wrong somewhere along the way.
 
@@ -962,7 +962,7 @@ So moving on, if implemented properly (and the assumption for all standard libra
 1. Reverse a hash
    * If nothing comes up when you google for it, move on. This is not what you are supposed to solve.
 2. Create a hash collision
-    * Possible for MD5 and SHA1 in various ways. Read this for more info: <https://github.com/corkami/collisions>  
+    * Possible for MD5 and SHA1 in various ways. Read this for more info: <https://github.com/corkami/collisions>
 3. Crack a password that is longer than 8 characters
    * The math just isn't there. You are missing something.
    * That something might just be a wordlist gathered from all words on a website/server/description
@@ -985,19 +985,19 @@ Before we go over hacking websites, first you should know how the internet works
 3. For your response, submit 5 questions that you think would do a good job of assessing someone's knowledge.
 ---
 [//]: # (69,631,activities/assign_631)
-# How Website (I/P) 
-## How do websites work? 
+# How Website (I/P)
+## How do websites work?
 
 Read and do all of this: <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web>
 
-##How do web apps work? 
+##How do web apps work?
 
 <https://www.lifewire.com/what-is-a-web-application-3486637>
 
 1. What is a GET request?
 2. What is a POST request?
 
-* Learn about common error codes! 
+* Learn about common error codes!
 <https://www.digitalocean.com/community/tutorials/how-to-troubleshoot-common-http-error-codes>
 
 3. What do codes 200-299 mean?
@@ -1023,8 +1023,8 @@ I know someone on the internet is going to be upset I am recommending Chrome for
    * <https://developers.google.com/web/tools/chrome-devtools/dom#appendix>
    * <https://developers.google.com/web/tools/chrome-devtools/dom>
 * Read about Cookies
- 
- 
+
+
  * <https://computer.howstuffworks.com/cookie.htmhttps://developers.google.com/web/tools/chrome-devtools/storage/cookies>
 * Install a Cookie Editor <https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en>
 ---
@@ -1079,7 +1079,7 @@ Read this: <https://ctf101.org/web-exploitation/cross-site-scripting/what-is-cro
 
 1. What is Cross Site Scripting or XSS?
 2. How does it work?
-3. Why is the acronym XSS and not CSS? 
+3. Why is the acronym XSS and not CSS?
 
 
 ---
@@ -1095,7 +1095,7 @@ Read this: <https://ctf101.org/web-exploitation/server-side-request-forgery/what
 ---
 [//]: # (70,639,activities/page_639)
 # You Won't Learn That Here (I/P)
-I don't believe this is a beginner topic! You should learn C and assembly before trying to do this stuff. Check out our course once I am done making it. 
+I don't believe this is a beginner topic! You should learn C and assembly before trying to do this stuff. Check out our course once I am done making it.
 
 There are plenty of pwning and RE challenges in CTFs, but they are hard and will be in the Advanced CTFs course.
 
@@ -1108,17 +1108,17 @@ Here is some old stuff on it: <https://drive.google.com/file/d/0B0F__fXm3TCqbXU3
 
 For RE I think this is the best resource: <https://microcorruption.com/>
 
-For BinEx I really like this: <https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/> 
+For BinEx I really like this: <https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/>
 ---
 [//]: # (74,640,activities/page_640)
 # Compete and Learn
-Register for the 2018 picoCTF! 
+Register for the 2018 picoCTF!
 
-<https://2018game.picoctf.com/> 
+<https://2018game.picoctf.com/>
 
-This competition runs year round. With the knowledge you have from this course you should be able to crush it! 
+This competition runs year round. With the knowledge you have from this course you should be able to crush it!
 
-Keep us informed of your progress.  
+Keep us informed of your progress.
 
-I might do something where I have you submit screenshots of your score every 5 challenges you solve, and then have you do writeups of n challenges. 
+I might do something where I have you submit screenshots of your score every 5 challenges you solve, and then have you do writeups of n challenges.
 ---

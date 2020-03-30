@@ -4,6 +4,7 @@
 You must register for the site before your progress can be tracked.
 
 Click here to register: <https://navy.hoppersroppers.org/login/signup.php?> 
+
 ---
 [//]: # (76,711,activities/page_711)
 # Secure Yourself Now
@@ -21,6 +22,7 @@ I'd like to think you don't already have malware on your computer but if you are
 
 I know this stuff is obvious, but it's easy to be complacent when we get home. We know what best practices are, so do them.  
 
+
 ---
 [//]: # (76,712,activities/page_712)
 # Computer Related Health
@@ -35,6 +37,7 @@ You probably spend a ton of time in front of a computer at work, but now that yo
 * Are you used to your eyes hurting after too long on the computer? This is mostly from the blue light. There's a ton of research you can read to prove it, or you can download this and it will change your life. <https://justgetflux.com/>
    * Windows has this option by default now, so check for that before downloading flux.
 * It is also an option to get blue light filtering glasses, they should be pretty cheap (>$30). I swear by mine, but hey, whatever, it keeps my eyes from hurting when I am about to spend 12 hours scrolling packet captures.
+
 ---
 [//]: # (76,713,activities/page_713)
 # General Wellness
@@ -68,6 +71,7 @@ You probably spend a ton of time in front of a computer at work, but now that yo
   * <https://www.nimh.nih.gov/health/topics/suicide-prevention/index.shtml>
 
 There is a group named the Mental Health Hackers who are pretty cool and worth a look  <https://twitter.com/hackershealth>.
+
 ---
 [//]: # (76,714,activities/page_714)
 # Questions
@@ -84,6 +88,7 @@ If you answered yes to any of these questions, visit <https://suicidepreventionl
 If you don't want to talk to a stranger, my name is Dennis, text or call me at 914-299-7537, email me, or message me on here. As an important note, I am not in your chain of command, so my interpretation is that I am not required to report any conversations I have. If anyone disagrees, let me know. 
 
 It's okay to not be okay, talk to someone.
+
 ---
 [//]: # (76,715,activities/page_715)
 # Why?
@@ -94,6 +99,7 @@ Well, hopefully your end goal of all this is that you become a better person and
 If you're going to be doing anything in this world, might as well take care of yourself first. Learning security comes far after you and your well-being. 
 
 Now, on to the show! 
+
 ---
 [//]: # (77,717,activities/page_717)
 # Letter from the Author
@@ -108,6 +114,7 @@ Security is the shield of the modern world, and we need good people on the wall.
 Hack the planet
 
 -Dennis
+
 ---
 [//]: # (77,718,activities/page_718)
 # Why Security?
@@ -118,6 +125,7 @@ This course is meant to give you, someone new to the security field, and informa
 While I have tried to do everything in my ability to make this course self-guided, there are hundreds of places where a questioning attitude will identify clear shortfalls in the content. Some of these are intentional, most of them are not. Your questions and feedback will guide the development of this course so that it can become the best resource possible.
 
 Surrounding this site is a community to help you and provide guidance as you move along. This community grows with each student who signs up, and our mentors will be there every step of the way to answer questions, explain difficult concepts, and talk about just about anything to help you along the way. Make sure to take full advantage of the many ways we provide to message other mentors so that we can all be part of this together.
+
 ---
 [//]: # (77,720,activities/page_720)
 # Hopper's ...
@@ -133,6 +141,7 @@ This quote comes from an interview in the July 1986 CHIP?s Ahoy Magazine, the De
 Read this: [http://www.doncio.navy.mil/chips/ArticleDetails.aspx?id=3563](http://www.doncio.navy.mil/chips/ArticleDetails.aspx?id=3563)
 
 
+
 ---
 [//]: # (77,721,activities/page_721)
 # ... ROPpers
@@ -141,6 +150,7 @@ While there was a chance you knew what Hopper's meant, it is very unlikely that 
 Don't worry; none of that should have meant anything to you. That would have made zero sense to me when I was sitting where you are sitting. 2 years into my journey, I would have understood about half of it. Today, I still have no idea what a W or X technique is because I copied that definition from Wikipedia. 
 
 While many other sites that attempt to teach this material assume you already know a great deal of knowledge, we take a different approach to make this challenging subject as approachable as possible. For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to do stuff, but very quickly they realize that there is no way for them to learn everything. They?re not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. By managing your high expectations of yourself, providing constant feedback on your progress, and bringing you into the community, this is designed to minimize dropout rate while providing the best first hundred hours of a cyber security education possible.
+
 
 ---
 [//]: # (77,722,activities/page_722)
@@ -166,6 +176,7 @@ Nothing in this course is spoonfed, and while we try to give you good resources,
 
 ## Content
 This curriculum was created based on inputs from members of the Boat School's Cyber Security Team and various guides scattered throughout the internet on how to break into information security. We put this curriculum together by aggregating all of the guides and tutorials we could find, took what we thought was important and added our own commentary. To say that this is built on the backs of a hundred other people's work would be an understatement, and we am forever grateful that we are part of a community which has created so many amazing resources. All attempts to cite source material have been made, if there is anything we have not properly attributed, let us know. Despite having been in the works for the last four years, this is the first iteration of the curriculum and it should change drastically as we see what does and doesn't work, and the only way we will know is feedback.
+
 ---
 [//]: # (77,723,activities/page_723)
 # Legal
@@ -187,6 +198,7 @@ It should also be mentioned that copyright law is also a good way to get in trou
 
 ## Classification
 Absolutely nothing here is classified, in any way, whatsoever. Nothing is derived from classified information. 
+
 
 ---
 [//]: # (77,724,activities/page_724)
@@ -210,6 +222,7 @@ Create a "professional" twitter account! Remember, this twitter will be able to 
 
 Follow @HoppersRoppers on twitter so we can follow you. Again, if you don't want to do Twitter yet, just skip it. It is mostly just a giant waste of time, but it is interesting and you learn a ton.
 
+
 ---
 [//]: # (77,725,activities/page_725)
 # The Team
@@ -221,12 +234,14 @@ When you sign up for this site, you automatically become a member of our not-at-
 
 The primary type of security competitions are CTFs, or Capture the Flags. This is a great resource to learn about CTFs. <https://ctfd.io/whats-a-ctf/>. All of the training here is built around the idea of preparing you for success in the security field, and there is no better measure of ability, grit, and the hacker mentality than playing in a competition. Every CTF requires you to use what you already know to identify what you will need to learn on the spot to solve the problem. As you are now a member of our team, we will let you know when competitions are occuring and we hope to see you there if you have the time. Even if you are new and don't think you have anything to contribute, you will learn more picking someone's brain as you shoulder-surf them (or watch them on Twitch) than you possibly could trying to learn by yourself.
 
+
 ---
 [//]: # (78,728,activities/page_728)
 # This Shit is Hard
 Doing cool things with computers is hard (have I said that before), and yes there is an aspect that requires technical knowledge, but mostly, it just takes time. Doing cool things with computers is less of a technical challenge and more of an attitude and a willingness to work hard and teach yourself what you need to know in order to succeed in whatever you are trying to do. Our curriculum here is meant to give you the basic tools you will need to understand the challenges you face, but solving them is going to be on you. We'll be honest, this isn't easy. This isn't something that will take you a month or two to get the hang of. One of the primary curses of doing cool shit with computers is that each time you learn something, you immediately realize a new pile of things that you do not know. There's nothing wrong with not knowing things, and no one could ever expect you to. Even "experts" will only know a small slice of the greater field that is doing cool things with computers. Expecting anyone to be good at everything is ridiculous, but it is even more ridiculous for anyone to think a beginner should know everything... or really, anything. There's a lot of acronyms, slang, in-jokes, and domain specific knowledge. One of the promises we will make to you is that we will not ever put in an acronym, slang, or in-joke without explaining it.
 
 If you can stick with and complete this course, you will be armed with the baseline knowledge and attitude you need to be able to learn anything. Probably the most important skill you will learn is how to use all of your resources effectively, whether that is your classmates, teachers, reference pages, or Google. Mostly, Google. It will take a year or two before you get comfortable and stop feeling totally lost every day, but then you'll just start working on harder problems and you'll wind up more confused than you could imagine being now. Being good at computering is a long term process of reinforcing and building on the basic knowledge we will teach you in this course, and it will never end until you decide the computers have won. Don't let the computers win, and keep learning everything you can.
+
 ---
 [//]: # (78,729,activities/page_729)
 # Hacker Attitude
@@ -247,6 +262,7 @@ While there is a lot in there that is very interesting, the most important part 
 5. Attitude is no substitute for competence.
 
 These 5 statements provide a reasonable framework for how you should approach learning this material. It should be fun, we shouldn't be wasting your time, there should be multiple ways for you to succeed, and we are measuring success by your ability at the end. 
+
 ---
 [//]: # (78,730,activities/page_730)
 # Hacker Ethic
@@ -273,6 +289,7 @@ They come out to six key beliefs:
 4. ?Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.
 5. You can create art and beauty on a computer. The concept of "hack value" is doing something that is worth doing because of the "playful cleverness" required.?
 6. ?Computers can change your life for the better
+
 ---
 [//]: # (78,732,activities/page_732)
 # RTFM
@@ -293,6 +310,7 @@ RTFM gets a bad rap for good reason, because it is usually used as a put down on
 
 # Google
 There are very very few questions you are going to ask that Google can't answer. But for right now, you probably don't even know what you should be googling for. Luckily, you have people here who can help you. One of the best questions you can ask people for is for search terms on a subject. That way they don't have to spend time explaining it, and you get all the benefits of doing the research yourself. You might already know some cool google tricks to get better results, but don't worry... we will teach you all of them until you are wise in the ways of Google Fu.
+
 
 ---
 [//]: # (78,731,activities/assign_731)
@@ -316,6 +334,7 @@ We already told you what RTFM stood for, so now we're gonna have you do it.?
 Visit this [man-page](https://linux.die.net/man/1/bash) and write down the first three things you don?t understand.?(I don't expect you to make it past the Name, "bash - GNU Bourne-Again SHell", there is so much to unpack in just that).
 
  Then Google one of them and figure out what it is. Submit a sentence or two explaining the thing you didn?t know.?For the love of everything, don?t read any further once you are done with that. Remember Rule 3 of the Hacker Attitude, ?Boredom and Drudgery are evil.? If you're not getting anything out of something at any point in this course, don't do it, and leave us feedback that we are wasting your time. We mean that. You won't hurt our feelings.
+
 ---
 [//]: # (78,733,activities/page_733)
 # Learning
@@ -327,6 +346,7 @@ We all want to better at learning... but how do we do that?
 Relevant Comic: <https://xkcd.com/1053/>
 
 The most important thing to realize while you are on this journey is that you will never know everything, because nobody knows everything. All you can do is keep working at things and eventually, you will start understanding more because you have a strong foundation to build on. We are here to help you build that foundation.
+
 
 ---
 [//]: # (78,734,activities/assign_734)
@@ -371,10 +391,12 @@ Answer these questions:
 
 Submit your answers to these questions.  
 
+
 ---
 [//]: # (79,669,activities/assign_669)
 # Validate this Section
 If you already have a virtual machine set up for yourself at your house and you are very confident in you linux command line abilities, submit a statement why you don't need to do this before moving on to the Programming section.
+
 ---
 [//]: # (79,670,activities/assign_670)
 # Virtualization
@@ -388,10 +410,12 @@ Read [https://www.redhat.com/en/topics/virtualization](https://www.redhat.com/en
 
 Write up a few sentences on the primary benefits of running a virtualized environment inside of your Windows machine.
 
+
 ---
 [//]: # (79,780,activities/label_780)
 # Your First Virtual Machine
 Your First Virtual Machine
+
 ---
 [//]: # (79,672,activities/assign_672)
 # Install VMWare
@@ -410,6 +434,7 @@ Notes:
 1. There are Virtualization Based Security measures on Windows that when enabled, will not allow you to run VMs. Watch this video to learn more <https://www.linkedin.com/learning/microsoft-cybersecurity-stack-advanced-identity-and-endpoint-protection/what-is-virtualization-based-security>. You won't understand a lot of it, but it is interesting and will explain why you will not be able to run a Virtual Machine on top of it. 
 2. There are also some problems with Hyper-V. Read this article for tips on how to kill two bird with one stone. <https://finsterbt.com/switch-between-hyper-v-and-virtualbox-on-windows-10/>
 3. Always know what you are disabling or doing before you run random commands off of the internet. In this case, you are disabling a few high level defensive measures that Windows provides for you, notably Credential Guard, Device Guard, and sandbox execution. This isn't terrible, but you should try to remember to turn Hyper-V back on when you are done using your VM because it makes you safer.
+
 ---
 [//]: # (79,673,activities/assign_673)
 # Install Ubuntu
@@ -430,6 +455,7 @@ We always try to link to the source of things, even dank memes. It's a weird thi
 
 When you're done, submit a screenshot of you running the Linux VM.
 
+
 ---
 [//]: # (79,674,activities/assign_674)
 # Install VMWare Tools
@@ -440,10 +466,12 @@ If you are using VBox, <https://www.dedoimedo.com/computers/virtualbox-guest-add
 You need this for a lot of critical usability things, and it doesn't come pre-installed. You have most likely already seen prompts telling you to do this. Do it. I'll be honest, this can be kinda difficult sometimes, but you gotta figure your own way through this. Again, if you have any trouble, and this takes more than a half hour to figure out, call someone over or message us and we will help you out. There is no shame, I've had VMs before that I gave up trying to install VMWare tools and just sucked it up for a week. You'll be on this VM for a while, so you need to get it installed. 
 
 When complete, submit a screenshot that shows it installed.
+
 ---
 [//]: # (79,781,activities/label_781)
 # Intro to Linux
 Intro to Linux
+
 ---
 [//]: # (79,678,activities/assign_678)
 # Linux Journey Command Line
@@ -451,16 +479,19 @@ Linux Journey is an amazing site that has the best guides on how to use Linux ou
 
 When working through all of these classes, do all actions listed on the page in your own browser and play around to see how they work. 
 [https://linuxjourney.com](https://linuxjourney.com)
+
 ---
 [//]: # (79,679,activities/assign_679)
 # Linux Journey Text-Fu
 Complete the class located at this link and submit a screenshot of the completion confirmation when you are done.
 
 [https://linuxjourney.com](https://linuxjourney.com)
+
 ---
 [//]: # (79,681,activities/assign_681)
 # *** Netcat, Telnet, and SSH (I/P) *** 
 I don't have this built yet, but I should 
+
 ---
 [//]: # (79,683,activities/page_683)
 # Man Pages
@@ -468,6 +499,7 @@ Read this. [https://www.cs.mcgill.ca/~guide/help/man.html](https://www.cs.mcgill
 Remember, if the man page doesn't help, googling the command and the word "usage" will usually get you where you need to be. 
 
 You are going to this for your next challenge! 
+
 ---
 [//]: # (79,684,activities/page_684)
 # Over the Wire Bandit
@@ -486,10 +518,12 @@ Whenever you finish lessons, 1, 5, 10 let us know in chat! When you finish 13, l
 Good luck!!!! We are not going to let you end your journey here!!!
 
 Complete [http://overthewire.org/wargames/bandit/](http://overthewire.org/wargames/bandit/).
+
 ---
 [//]: # (80,687,activities/assign_687)
 # Validate this Section
 If you already are confident in your ability to write python scripts (or any other scripting language), submit a statement why you don't need to do this before moving on to the CTF section.
+
 ---
 [//]: # (80,688,activities/assign_688)
 # Programming Languages
@@ -508,6 +542,7 @@ This is important. Try to really understand the breadth of what programming lang
   * <https://norvig.com/21-days.html>
    1. In your own words, describe what a program is.
    2. In your own words describe what a programming language is.
+
 ---
 [//]: # (80,689,activities/assign_689)
 # Python
@@ -523,6 +558,7 @@ Keep us updated in chat on your progress, we will be reaching out to you too. Wh
       * <https://www.codecademy.com/learn/python>
 
 So you know a language now, right? Congratulations! The thing to remember is that all skills, if not used, will slowly atrophy. My recommendation is to constantly challenge yourself to maintain your skill level so when you have to write a program, you can whip something up immediately without having to relearn the syntax... or you can just ignore it completely and when the need arises, spend a half hour fumbling until you remember enough to get it working. Both of those are completely valid ways to maintain proficiency in a language. This course won't teach you any more languages, but if you continue in this pipeline you will learn C and some low level assembly.
+
 ---
 [//]: # (80,705,activities/assign_705)
 # GitHub
@@ -546,6 +582,7 @@ Github is an amazing website build around an old tool named 'git'. Git is used f
 GitHub Student is an incredible offer that gives college students a starter pack of basically everything they could ever need to get started with any aspect of computing, from text editors to cloud hosting and more. With this you can make websites, rent cloud servers, and get a ton of other really cool stuff that can teach you a ton. You will use various things that are part of the Github student pack throughout later in your journey which will help you save money. If you aren't a student, don't worry too much, it's all pretty cheap.
 
 Apply for this incredible gift pack: <https://education.github.com/pack>. It gets approved pretty quickly!
+
 ---
 [//]: # (80,690,activities/assign_690)
 # Python from the Terminal
@@ -572,5 +609,6 @@ Apply for this incredible gift pack: <https://education.github.com/pack>. It get
 
 
 Programming and scripting are different, but share most of the same principles, and these principles will be shared between all languages. Once you can program well in one language, you can learn any language, it just will take a bit to learn.
+
 
 ---
