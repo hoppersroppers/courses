@@ -1,28 +1,9 @@
-[//]: # (C:\Users\devey\Downloads\backup-moodle2-course-7-practical_skills-20200327-1642-nu-nf\moodle_backup.xml)
-[//]: # (75,641,activities/page_641)
-# ** -- Enrollment Instructions -- ** 
-Yes... Enrolment is spelled wrong. I have been informed by our distinguished British brethren that this the way they spell the word. This is an open source web app and I guess the developers are Brits. As an organization uniquely proud of America, it pains me not to create a fork specifically to fix it. Maybe someday I will, but for now... it is spelled enrol here. 
+[//]: # (C:\Users\devey\Downloads\1\backup-moodle2-course-7-practical_skills-20200330-0958-nu-nf~\moodle_backup.xml)
+[//]: # (75,868,activities/page_868)
+# Site Registration
+You must register for the site before your progress can be tracked.
 
-First off, while you can view the course as a guest, you do need to register for the site in order to enroll. If you're not registered yet, click <https://navy.hoppersroppers.org/login/signup.php?> to signup. 
-
-Enrollment in the course after site registration is not automatic! Unfortunately, it is not particularly intuitive, so I made this walkthrough. 
-
-1. Using this image, click on the top right gear shaped button.
-<img src="https://github.com/hoppersroppers/hoppersroppers.github.io/raw/master/_layouts/enrol.PNG" alt="enrol" width="1000">
-
-
-
-2. This opens a drop down, Then click 'Enrol me in this course'.
-
-3. Then navigate down and enter the password "learnfromhome". (It is not a good password, and it is all lowercase, no spaces. Threat modeling. We'll talk about it more later)
-<img src="https://raw.githubusercontent.com/hoppersroppers/hoppersroppers.github.io/master/_layouts/enrolme.JPG" alt="enrol" width="1000">
-
-
-4. You can verify you are enrolled as you will now see 'Your Progress' in the top right corner. 
-<img src="https://github.com/hoppersroppers/hoppersroppers.github.io/raw/master/_layouts/enrol4.PNG" alt="enrol" width="1000">
-
-Alright, now you are ready to go! 
-
+Click here to register: <https://navy.hoppersroppers.org/login/signup.php?> 
 ---
 [//]: # (76,711,activities/page_711)
 # Secure Yourself Now
@@ -34,7 +15,7 @@ You're working from home, off your personal computer, so first, congratulations 
 
 Your first assignment is to start using a password manager.  Read this <https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/> to learn about password managers, and then install one, I  recommend <https://lastpass.com/>. There's plenty of other password managers out there, but I've been using this one forever and that is the only reason I recommend it. Convince your friends and family to use password managers. If you don't want to do this now, skip it, I make sure you do it later in the course. 
 
-Your second task, if you do not already have one installed, is to install an ad-blocking extension. For Chrome, I recommend uBlock Origin: <https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en>. I don't use Firefox, but it's a good browser, especially for the more privacy conscious. I also recommend installing Chrome (or Firefox) and ad-blockers on as many computers of friends and family that you do tech support for. If you don't want to do this now, skip it, I make sure you do it later in the course. 
+Your second task, if you do not already have one installed, is to install an ad-blocking extension. Ad-blockers do what they say they do, making your web experience significantly better, but also block trackers and lessen the chance of getting malware laden ads.  For Chrome, I recommend uBlock Origin: <https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en>. I don't use Firefox, but it's a good browser, especially for the more privacy conscious. I also recommend installing Chrome (or Firefox) and ad-blockers on as many computers of friends and family that you do tech support for. If you don't want to do this now, skip it, I make sure you do it later in the course. 
 
 I'd like to think you don't already have malware on your computer but if you are working off of a shared family computer, there's a decent chance if you haven't checked recently. First, ensure that Windows Defender is enabled. If it isn't, turn it on. After you've done that, turn on automatic updates and ensure your computer is completely updated. If it isn't, update now. Once again, do this on as many computers as you are responsible for. You do it at work, do it home. If you're not on Windows, good luck not downloading malware you 1337 hardo. You'll probably be fine.
 
@@ -57,13 +38,13 @@ You probably spend a ton of time in front of a computer at work, but now that yo
 ---
 [//]: # (76,713,activities/page_713)
 # General Wellness
-
 #### Hydrate Constantly
-   * My life motto is "Stay Happy and Stay Hydrated", and it is inscribed in my class ring... so yeah, I take hydration seriously.
-   * Read this: <https://www.webmd.com/food-recipes/features/quest-for-hydration#1>
+   * My life motto is "Stay Happy and Stay Hydrated", and it is inscribed in my class ring... so yeah, I take hydration seriously
+   * You should be going to the bathroom every 2-4 hours
+   * Caffeine, and especially drinks like coffee and energy drinks dehydrate you 
 
 #### Sleep
-   * Everyone loves bragging about being a hardo and sleeping four hours a night for months on end... guess what? It's not just stupid, it's actively hurting you in a variety of ways.
+   * Everyone loves bragging about being a hardo and sleeping four hours a night for months on end... guess what? It's not just stupid, it's actively hurting you in a variety of ways
     * <https://www.nhlbi.nih.gov/health-topics/sleep-deprivation-and-deficiency>
 
 #### Nutrition
@@ -129,48 +110,19 @@ Hack the planet
 -Dennis
 ---
 [//]: # (77,718,activities/page_718)
-# Why Security
-This course is meant to give you the skills and more importantly, the mindset required to be successful in this line of work. If you already are successful, time to get better. 
+# Why Security?
+Computer security is the shield of the modern age. Without the constant battle on the frontlines between the people who want to see technology used for good and the people who want to use it for their own gain, or worse, to limit the rights and freedoms of others, the progress that occurs in the real world because of technology would be dramatically slowed. Security allows trust in technology, which leads to adoption, which leads to progress in one direction, or another. The more people able to help out with that fight, the faster we can move as a society, and less things will get broken and less people will be hurt on the way. That?s why this site exists, and hopefully, if you?re here for the right reasons, you?ll be able to jump into the fight with the tools you need to succeed.
 
-The only way to be good at anything in this field is to become comfortable looking at problems you have never seen before and then finding a way to solve what you are up against. This curriculum is not meant to turn you into a guru, but rather it is to provide you with a solid base of knowledge and mental models relating to security, as well as build your comfort level installing new programs, following tutorials for things you have never heard of before, and using the Linux operating system. If you leave this course with nothing other than an understanding of the hacker mentality, I have been successful by some measure. However, my goal is to help guide you through the first few steps of your journey into this world and to help you find your path afterwards as you develop even more advanced skills and continue your constant growth.
+This course is meant to give you, someone new to the security field, and information technology in general, the skills and more importantly, the mindset required to be successful in this line of work. The only way to be good at anything in this field is to become comfortable looking at problems you have never seen before and then finding a way to solve what you are up against. This curriculum is not meant to turn you into a guru, but rather it is to provide you with a solid base of knowledge and mental models relating to security, as well as build your comfort level installing new programs, following tutorials for things you have never heard of before, and using the Linux operating system. If you leave this course with nothing other than an understanding of the hacker mentality, I have been successful by some measure. However, my goal is to help guide you through the first few steps of your journey into this world and to help you find your path afterwards as you develop even more advanced skills and continue your constant growth.
 
 While I have tried to do everything in my ability to make this course self-guided, there are hundreds of places where a questioning attitude will identify clear shortfalls in the content. Some of these are intentional, most of them are not. Your questions and feedback will guide the development of this course so that it can become the best resource possible.
 
-Surrounding this site is a community to help you and provide guidance as you move along.  This community grows with each student who signs up, and our mentors will be there every step of the way to answer questions, explain difficult concepts, and talk about just about anything to help you along the way. Make sure to take full advantage of the many ways we provide to message other mentors so that we can all be part of this together.
----
-[//]: # (77,719,activities/page_719)
-# !! Enrollment Instructions !!
-This already was in the first section of the course, but the UI is not intuitive so a lot of people are having trouble enrolling themselves. Follow this to get yourself registered for the course.
-
-Yes... Enrolment is spelled wrong. I have been informed by our distinguished British brethren that this the way they spell the word. This is an open source web app and I guess the developers are Brits. As an organization uniquely proud of America, it pains me not to create a fork specifically to fix it. Maybe someday I will, but for now... it is spelled enrol here. 
-
-First off, while you can view the course as a guest, you do need to register for the site in order to enroll. If you're not registered yet, click <https://navy.hoppersroppers.org/login/signup.php?> to signup. 
-
-Enrollment in the course after site registration is not automatic! Unfortunately, it is not particularly intuitive, so I made this walkthrough. 
-
-1. Using this image, click on the top right gear shaped button.
-<img src="https://github.com/hoppersroppers/hoppersroppers.github.io/raw/master/_layouts/enrol.PNG" alt="enrol" width="1000">
-
-
-
-2. This opens a drop down, Then click 'Enrol me in this course'.
-
-3. Then navigate down and enter the password "learnfromhome". (It is not a good password, and it is all lowercase, no spaces. Threat modeling. We'll talk about it more later)
-<img src="https://raw.githubusercontent.com/hoppersroppers/hoppersroppers.github.io/master/_layouts/enrolme.JPG" alt="enrol" width="1000">
-
-
-4. You can verify you are enrolled as you will now see 'Your Progress' in the top right corner. 
-<img src="https://github.com/hoppersroppers/hoppersroppers.github.io/raw/master/_layouts/enrol4.PNG" alt="enrol" width="1000">
-
-Alright, now you are ready to go! 
-
+Surrounding this site is a community to help you and provide guidance as you move along. This community grows with each student who signs up, and our mentors will be there every step of the way to answer questions, explain difficult concepts, and talk about just about anything to help you along the way. Make sure to take full advantage of the many ways we provide to message other mentors so that we can all be part of this together.
 ---
 [//]: # (77,720,activities/page_720)
 # Hopper's ...
-# Hopper's 
-Our team has gone by many names, but one of our favorite's is Hopper's Roppers. I know you know who she is. 
+We named out team after Grace Hopper because she is our favorite person in Navy computing history. You probably know who she is. 
 
-To learn more about her, read this: [http://www.biography.com/people/grace-hopper-21406809](http://www.biography.com/people/grace-hopper-21406809)
 
 Have you ever heard the quote, ?It's easier to ask forgiveness than it is to get permission.?? That was her. 
 
@@ -184,20 +136,15 @@ Read this: [http://www.doncio.navy.mil/chips/ArticleDetails.aspx?id=3563](http:/
 ---
 [//]: # (77,721,activities/page_721)
 # ... ROPpers
-# Roppers
-
 While there was a chance you knew what Hopper's meant, it is very unlikely that you have had any idea what Roppers meant, mostly because it is a word we made up to define a group of people who ROP. And if you have never heard of ROP, or Return Oriented Programming before, and.... that is not just okay, that is expected, because why on earth would you have known about an obscure programming topic before this exact moment in time. To quote Wikipedia, "Return-oriented programming (ROP) is a computer security exploit technique that allows an attacker to execute code in the presence of security defenses such as non-executable memory (W xor X technique) and code signing by chaining together carefully chosen machine instruction sequences to get control of the stack..."
 
 Don't worry; none of that should have meant anything to you. That would have made zero sense to me when I was sitting where you are sitting. 2 years into my journey, I would have understood about half of it. Today, I still have no idea what a W or X technique is because I copied that definition from Wikipedia. 
 
-While many other sites that attempt to teach this material assume you already know a great deal of knowledge, we take a different approach to make this challenging subject as approachable as possible. For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to do stuff, but very quickly they realize that there is no way for them to learn everything. They?re not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. By managing new your high expectations of yourself, providing constant feedback on your progress, and bringing you into the community, this is designed to minimize dropout rate while providing the best first hundred hours of a cyber security education possible.
-
+While many other sites that attempt to teach this material assume you already know a great deal of knowledge, we take a different approach to make this challenging subject as approachable as possible. For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to do stuff, but very quickly they realize that there is no way for them to learn everything. They?re not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. By managing your high expectations of yourself, providing constant feedback on your progress, and bringing you into the community, this is designed to minimize dropout rate while providing the best first hundred hours of a cyber security education possible.
 
 ---
 [//]: # (77,722,activities/page_722)
 # Core Tenets
-## Core Tenets
-
 ![alt text](https://news.yale.edu/sites/default/files/styles/horizontal_image/public/d6_files/YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg?itok=4HL3ETlO "img3")
 
 This site is designed around a series of ideas that we think will make your experience as a learner as good as possible.
@@ -218,12 +165,12 @@ All you need to know right now is that ROP is an advanced exploitation technique
 Nothing in this course is spoonfed, and while we try to give you good resources, there are multiple parts in the course where we tell you to swing by yourself and go find out how to do something. We do this when we know there are plenty of other high quality resources out there for you to learn from and we want you to become comfortable being given no direction other than a couple searchterms and having to rely on your own knowledge and problem solving skills.
 
 ## Content
-This curriculum was created based on inputs from members of the Naval Academy's Cyber Security Team and various guides scattered throughout the internet on how to break into information security. We put this curriculum together by aggregating all of the guides and tutorials we could find, took what we thought was important and added our own commentary. To say that this is built on the backs of a hundred other people's work would be an understatement, and we am forever grateful that we are part of a community which has created so many amazing resources. All attempts to cite source material have been made, if there is anything we have not properly attributed, let us know. Despite having been in the works for the last four years, this is the first iteration of the curriculum and it should change drastically as we see what does and doesn't work, and the only way we will know is feedback.
+This curriculum was created based on inputs from members of the Boat School's Cyber Security Team and various guides scattered throughout the internet on how to break into information security. We put this curriculum together by aggregating all of the guides and tutorials we could find, took what we thought was important and added our own commentary. To say that this is built on the backs of a hundred other people's work would be an understatement, and we am forever grateful that we are part of a community which has created so many amazing resources. All attempts to cite source material have been made, if there is anything we have not properly attributed, let us know. Despite having been in the works for the last four years, this is the first iteration of the curriculum and it should change drastically as we see what does and doesn't work, and the only way we will know is feedback.
 ---
 [//]: # (77,723,activities/page_723)
 # Legal
 ## Community Guidelines
-Our community guidelines are available here:<https://www.hoppersroppers.org/guidelines.html>. Please read them over.
+Our community guidelines are available here: <https://www.hoppersroppers.org/guidelines.html>. Please read them over.
 
 ## Legal Stuff
 Unsurprisingly, in this course you will learn some things that could be used to do bad things. You might not think they're bad things at the time, and they might seem like funny pranks, but the laws against hacking are very vague. Even more importantly, you probably have a security clearance, and having a pile of felonies you have to admit to is not a great look and will complicate your paperwork.
@@ -283,7 +230,9 @@ If you can stick with and complete this course, you will be armed with the basel
 ---
 [//]: # (78,729,activities/page_729)
 # Hacker Attitude
-Read this post: [http://www.catb.org/~esr/faqs/hacker-howto.html](http://www.catb.org/~esr/faqs/hacker-howto.html) It isn't perfect, but it will do for now until I write a new one.?The biggest problem with this is that the author, while once a famous hacker and important member of the open source movement, is a total asshole. None of the content is bad, but we are in the process of trying to write something to replace all of his content in this curriculum.
+Read this: <http://www.catb.org/~esr/faqs/hacker-howto.html#what_is> 
+
+It isn't perfect, but it will do for now until I write a new one.?The biggest problem with this is that the author, while once a famous hacker and important member of the open source movement, is a total asshole. None of the content is bad, but we are in the process of trying to write something to replace all of his content in this curriculum.
 
 While there is a lot in there that is very interesting, the most important part is the hacker attitude.
 
@@ -325,8 +274,31 @@ They come out to six key beliefs:
 5. You can create art and beauty on a computer. The concept of "hack value" is doing something that is worth doing because of the "playful cleverness" required.?
 6. ?Computers can change your life for the better
 ---
+[//]: # (78,732,activities/page_732)
+# RTFM
+One of the key parts of this mindset is sharing knowledge with others. A great quote on the subject is 'There is?nothing noble?in?being superior?to your fellow man; true nobility is?being superior?to your former self.' ?Not to mention, the more you give back to the community, the greater the value you provide. If you're just starting off, you might not think you have anything to provide, but in fact, you're looking at the world with a different perspective than someone who has done it for years. For example, you can provide feedback on when training makes no sense or isn't as effective as it could be, and help make it easier for the next person to go through it. This site is a work in progress and the more feedback we receive the better it will be. ?
+
+With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should ?Read the F-ing Manual? or ?RTFM?. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started. 
+
+# Man-Pages
+The most common "manual" you will come across in this course and your travels through hackerdom are the man-pages that accompany every single aspect of the Unix operating system, and they are a great resource for people who have spent years learning how to understand them. Right now, you don?t have the knowledge to be expected to understand how they work, and that is fine. There is no pressure to know anything, but there is pressure to learn.?
+
+The comic web site Xkcd is a nerd cultural treasure and you will see it referenced constantly. Read [this comic](https://xkcd.com/1692/)
+
+# Alt-Text 
+You might be thinking to yourself... what is alt-text? Funny you ask that. Depending on your current browser, figure out how to view the web page's source code for <https://xkcd.com/1692/>. This might require some Googling. What you are looking at is hypertext markup language or HTML for short. HTML is the language that websites are made of. (If you already knew that, good for you, I promise that the rest of the course gets significantly more in depth.) You will learn more later, but for now, look at the code and find where the main picture is stored in the webpage. Now do you understand what alt-text means? 
+
+# In Defense of RTFM
+RTFM gets a bad rap for good reason, because it is usually used as a put down on someone who doesn't know much about a subject... with that said, once you have the knowledge to understand a topic, if you are using that software, you should read the manual. Even if you don't understand the manual, if you are going to ask a question, you might as well reference that you know the manual exists and that what you are asking is referenced, you just need clarification. If you ask questions effectively you will find you understand your initial question and the topic much better than if you had someone explain the answer to just your specific question.
+
+# Google
+There are very very few questions you are going to ask that Google can't answer. But for right now, you probably don't even know what you should be googling for. Luckily, you have people here who can help you. One of the best questions you can ask people for is for search terms on a subject. That way they don't have to spend time explaining it, and you get all the benefits of doing the research yourself. You might already know some cool google tricks to get better results, but don't worry... we will teach you all of them until you are wise in the ways of Google Fu.
+
+---
 [//]: # (78,731,activities/assign_731)
 # Questions
+We expect you to be constantly coming across words, phrases, and entire concepts that you have never seen before and are totally lost in. When you have to get things done, you'll have to learn more about it and one of the best ways to get those holes in your knowledge filled is to ask questions. 
+
 Here are some guidelines for asking questions.
 
 * There is no such thing as a bad question, especially on this site
@@ -341,46 +313,18 @@ If you're in person, just ask. It's faster than Googling and you'll get more out
 
 We already told you what RTFM stood for, so now we're gonna have you do it.?
 
-Visit this [man-page](https://linux.die.net/man/1/bash) and write down the first three things you don?t understand.?Then google one of them and figure out what it is. Submit a sentence or two explaining the thing you didn?t know.?For the love of everything, don?t read any further once you are done with that. Remember Rule 3 of the Hacker Attitude, ?Boredom and Drudgery are evil.? If you're not getting anything out of something at any point in this course, don't do it, and leave us feedback that we are wasting your time. We mean that. You won't hurt our feelings.
----
-[//]: # (78,732,activities/page_732)
-# RTFM
-One of the key parts of this mindset is sharing knowledge with others. A great quote on the subject is 'There is?nothing noble?in?being superior?to your fellow man; true nobility is?being superior?to your former self.' ?Not to mention, the more you give back to the community, the greater the value you provide. If you're just starting off, you might not think you have anything to provide, but in fact, you're looking at the world with a different perspective than someone who has done it for years. For example, you can provide feedback on when training makes no sense or isn't as effective as it could be, and help make it easier for the next person to go through it. This site is a work in progress and the more feedback we receive the better it will be. ?
+Visit this [man-page](https://linux.die.net/man/1/bash) and write down the first three things you don?t understand.?(I don't expect you to make it past the Name, "bash - GNU Bourne-Again SHell", there is so much to unpack in just that).
 
-With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should ?Read the F-ing Manual? or ?RTFM?. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started. The most common "manual" you will come across in this course and your travels through hackerdom are the man-pages that accompany every single aspect of the Unix operating system, and they are a great resource for people who have spent years learning how to understand them. Right now, you don?t have the knowledge to be expected to understand how they work, and that is fine. There is no pressure to know anything, but there is pressure to learn.?
-
-The comic web site Xkcd is a nerd cultural treasure and you will see it referenced constantly. Remember, you don?t have to get them all, when you are not sure, there is <http://www.explainxkcd.com>. Read [this comic](https://xkcd.com/1692/)
-
-You might be thinking to yourself... what is alt-text? Funny you ask that. Depending on your current browser, figure out how to view the web page's source code for <https://xkcd.com/1692/>. This might require some Googling. What you are looking at is hypertext markup language or HTML for short. HTML is the language that websites are made of. (If you already knew that, good for you, I promise that the rest of the course gets significantly more in depth.) You will learn more later, but for now, look at the code and find where the main picture is stored in the webpage. Now do you understand what alt-text means? 
-
-# In Defense of RTFM
-RTFM gets a bad rap for good reason, because it is usually used as a put down on someone who doesn't know much about a subject... with that said, once you have the knowledge to understand a topic, if you are using that software, you should read the manual. Even if you don't understand the manual, if you are going to ask a question, you might as well reference that you know the manual exists and that what you are asking is referenced, you just need clarification. If you ask questions effectively you will find you understand your initial question and the topic much better than if you had someone explain the answer to just your specific question.
-
-# Google
-There are very very few questions you are going to ask that Google can't answer. But for right now, you probably don't even know what you should be googling for. Luckily, you have people here who can help you. One of the best questions you can ask people for is for search terms on a subject. That way they don't have to spend time explaining it, and you get all the benefits of doing the research yourself. You might already know some cool google tricks to get better results, but don't worry... we will teach you all of them until you are wise in the ways of Google Fu.
-
-For now, start using the " " operator to return search results that only contain exact matches. 
+ Then Google one of them and figure out what it is. Submit a sentence or two explaining the thing you didn?t know.?For the love of everything, don?t read any further once you are done with that. Remember Rule 3 of the Hacker Attitude, ?Boredom and Drudgery are evil.? If you're not getting anything out of something at any point in this course, don't do it, and leave us feedback that we are wasting your time. We mean that. You won't hurt our feelings.
 ---
 [//]: # (78,733,activities/page_733)
 # Learning
-Read this, it is a wonderful intro to the psychology of learning and where you are as a student<https://azeria-labs.com/the-process-of-mastering-a-skill/>.
+Read this, it is a wonderful intro to the psychology of learning and where you are as a student <https://azeria-labs.com/the-process-of-mastering-a-skill/>.
 
-We all want to better at learning... but how do we do that? First, what is learning, and how do we do that better?
+We all want to better at learning... but how do we do that? 
 
-The defacto course to learn this is: <https://www.coursera.org/learn/learning-how-to-learn>.
 
-It was made by Dr. Barbara Oakley who has also written the definitive book on the subject. It is a free course, so take it if you want to. It should take about 17 hours to complete and will teach you things you will carry forward for the rest of your life.
-
-Or, you can read this : <https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/> Reddit post which contains notes from the course.
-
-Now, will you retain the information from this sheet of notes as well as if you had learned from the 17 hour course? No. Learning is complicated as hell and that course is designed to be just about perfect for how to learn. But reading something in a half hour is definitely easier for you right now to get an idea of what to do to be more effective as a learner. At some point in the future you should take the entire course, but I don't want to break up the flow of this course tooo badly.
-
-## Ten Thousand Hours and Deep Work
-You might have heard of the 10,000 hours thing or Deep Work. Here are some good references to read to help you understand some of the science (and art) behind getting good at hard things.
-
-From the same person as the article on the psychology of mastery comes this piece: <https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/>
-
-Relevant XKCD: <https://xkcd.com/1053/>
+Relevant Comic: <https://xkcd.com/1053/>
 
 The most important thing to realize while you are on this journey is that you will never know everything, because nobody knows everything. All you can do is keep working at things and eventually, you will start understanding more because you have a strong foundation to build on. We are here to help you build that foundation.
 
@@ -415,7 +359,7 @@ We will do our absolute best to help you keep these lists short. There will be s
 
 ## Goals 
 
-"Complete this course, as defined as finishing all the content that applies to me, before (_a_date_you_define)"
+"Complete this course, as defined as finishing all the content that applies to me, before____________"
 
 With most of the goal already defined for you, what you need to focus on is the timeline you want to set for yourself. 
 
@@ -423,8 +367,7 @@ Answer these questions:
 
 1. How much time a week do you want to spend working on this? 
 2. How much time a week do you think you will actually have to work on this?
-3. How many weeks do you think you will not have any time to work?
-4. When will you complete this course?
+3. When will you complete this course?
 
 Submit your answers to these questions.  
 
@@ -436,7 +379,6 @@ If you already have a virtual machine set up for yourself at your house and you 
 [//]: # (79,670,activities/assign_670)
 # Virtualization
 # Building Your Own Lab
-## Introduction
 Building your own lab is important for a lot of reasons, but most importantly it is fun and teaches you a bunch of valuable information. In this section we will do some work securing our daily lives and install a virtual machine for us to work on. What you will be making is uniquely yours and will be something that you will work on and refine for the rest of your time doing the computers. This is your new workbench/hangout spot, so take pride in what you are making and make it yours.
 
 ## Virtualization
@@ -447,8 +389,10 @@ Read [https://www.redhat.com/en/topics/virtualization](https://www.redhat.com/en
 Write up a few sentences on the primary benefits of running a virtualized environment inside of your Windows machine.
 
 ---
-[//]: # (79,671,activities/folder_671)
-# Installation
+[//]: # (79,780,activities/label_780)
+# Your First Virtual Machine
+Your First Virtual Machine
+---
 [//]: # (79,672,activities/assign_672)
 # Install VMWare
 Install free virtualization software to run your virtual machine in! 
@@ -497,8 +441,10 @@ You need this for a lot of critical usability things, and it doesn't come pre-in
 
 When complete, submit a screenshot that shows it installed.
 ---
-[//]: # (79,676,activities/folder_676)
+[//]: # (79,781,activities/label_781)
 # Intro to Linux
+Intro to Linux
+---
 [//]: # (79,678,activities/assign_678)
 # Linux Journey Command Line
 Linux Journey is an amazing site that has the best guides on how to use Linux out there. Complete the class located at this link and submit a screenshot of the completion confirmation when you are done.
