@@ -1,42 +1,12 @@
-[//]: # (C:\Users\devey\Downloads\backup-moodle2-course-2-intro._to_security-20200327-1659-nu-nf\moodle_backup.xml)
-[//]: # (1,195,activities/page_195)
-# Work in Progress!
-Hello! If you are reading this and haven't made an account yet, any edits you recomend or typos you catch can be reported via GitHub at <https://github.com/hoppersroppers/courses/edit/master/navySec.md>.
+[//]: # (C:\Users\devey\Downloads\backup-moodle2-course-2-intro._to_security-20200401-1611-nu-nf\moodle_backup.xml)
+[//]: # (1,871,activities/page_871)
+# Site Registration
+You must register for the site before your progress can be tracked.
 
-The course content and repository are not 1 to 1 as I copy content between the two, but I will make all efforts to have them match up.
-
-If you want to talk about any of this or help out in any other way, join our slack community at <https://launchpass.com/hoppersroppers>.
----
-[//]: # (1,196,activities/page_196)
-# ** -- Enrollment Instructions -- ** 
-Yes... Enrolment is spelled wrong. I have been informed by our distinguished British brethren that this the way they spell the word. This is an open source web app and I guess the developers are Brits. As an organization uniquely proud of America, it pains me not to create a fork specifically to fix it. Maybe someday I will, but for now... it is spelled enrol here. 
-
-First off, while you can view the course as a guest, you do need to register for the site in order to enroll. If you're not registered yet, click <https://navy.hoppersroppers.org/login/signup.php?> to signup. 
-
-Enrollment in the course after site registration is not automatic! Unfortunately, it is not particularly intuitive, so I made this walkthrough. 
-
-1. Using this image, click on the top right gear shaped button.
-<img src="https://github.com/hoppersroppers/hoppersroppers.github.io/raw/master/_layouts/enrol.PNG" alt="enrol" width="1000">
-
-
-
-2. This opens a drop down, Then click 'Enrol me in this course'.
-
-3. Then navigate down and enter the password "learnfromhome". (It is not a good password, and it is all lowercase, no spaces. Threat modeling. We'll talk about it more later)
-<img src="https://raw.githubusercontent.com/hoppersroppers/hoppersroppers.github.io/master/_layouts/enrolme.JPG" alt="enrol" width="1000">
-
-
-4. You can verify you are enrolled as you will now see 'Your Progress' in the top right corner. 
-<img src="https://github.com/hoppersroppers/hoppersroppers.github.io/raw/master/_layouts/enrol4.PNG" alt="enrol" width="1000">
-
-Alright, now you are ready to go! 
+Click here to register: <https://navy.hoppersroppers.org/login/signup.php?> 
 
 ---
-[//]: # (1,372,activities/forum_372)
-# Announcements
-General news and announcements
----
-[//]: # (17,755,activities/page_755)
+[//]: # (17,844,activities/page_844)
 # Secure Yourself Now
 You signed up for this course to improve yourself, to learn how to secure yourself online, and to help others. That's what this section is dedicated to. If you finish this section and don't do anything else, your participation in this course will be a success in my eyes. Maybe not in your chain of command's but that's a completely different story. 
 
@@ -46,14 +16,15 @@ You're working from home, off your personal computer, so first, congratulations 
 
 Your first assignment is to start using a password manager.  Read this <https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/> to learn about password managers, and then install one, I  recommend <https://lastpass.com/>. There's plenty of other password managers out there, but I've been using this one forever and that is the only reason I recommend it. Convince your friends and family to use password managers. If you don't want to do this now, skip it, I make sure you do it later in the course. 
 
-Your second task, if you do not already have one installed, is to install an ad-blocking extension. For Chrome, I recommend uBlock Origin: <https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en>. I don't use Firefox, but it's a good browser, especially for the more privacy conscious. I also recommend installing Chrome (or Firefox) and ad-blockers on as many computers of friends and family that you do tech support for. If you don't want to do this now, skip it, I make sure you do it later in the course. 
+Your second task, if you do not already have one installed, is to install an ad-blocking extension. Ad-blockers do what they say they do, making your web experience significantly better, but also block trackers and lessen the chance of getting malware laden ads.  For Chrome, I recommend uBlock Origin: <https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en>. I don't use Firefox, but it has an ad-blocker built in which makes it the best choice for the privacy and security conscious. I also recommend installing Chrome and ad-blockers (or Firefox) on as many computers of friends and family that you do tech support for. If you don't want to do this now, skip it, I make sure you do it later in the course. 
 
 I'd like to think you don't already have malware on your computer but if you are working off of a shared family computer, there's a decent chance if you haven't checked recently. First, ensure that Windows Defender is enabled. If it isn't, turn it on. After you've done that, turn on automatic updates and ensure your computer is completely updated. If it isn't, update now. Once again, do this on as many computers as you are responsible for. You do it at work, do it home. If you're not on Windows, good luck not downloading malware you 1337 hardo. You'll probably be fine.
 
 I know this stuff is obvious, but it's easy to be complacent when we get home. We know what best practices are, so do them.  
 
+
 ---
-[//]: # (17,756,activities/page_756)
+[//]: # (17,845,activities/page_845)
 # Computer Related Health
 You probably spend a ton of time in front of a computer at work, but now that you're at home, your setup might not be what it was. If you're going to be working through this course, competing in our CTF, or binging Netflix, these are a few changes you can constantly put into practice that will make you a happier and healthier person.
 
@@ -66,16 +37,22 @@ You probably spend a ton of time in front of a computer at work, but now that yo
 * Are you used to your eyes hurting after too long on the computer? This is mostly from the blue light. There's a ton of research you can read to prove it, or you can download this and it will change your life. <https://justgetflux.com/>
    * Windows has this option by default now, so check for that before downloading flux.
 * It is also an option to get blue light filtering glasses, they should be pretty cheap (>$30). I swear by mine, but hey, whatever, it keeps my eyes from hurting when I am about to spend 12 hours scrolling packet captures.
+
 ---
-[//]: # (17,757,activities/page_757)
+[//]: # (17,846,activities/page_846)
 # General Wellness
+#### Coronavirus
+   * You are likely working from home right now and should be practicing social distancing
+   * For a great unofficial guide, check out <https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/>
+   * For the official .gov website, visit: <https://www.coronavirus.gov/>
 
 #### Hydrate Constantly
-   * My life motto is "Stay Happy and Stay Hydrated", and it is inscribed in my class ring... so yeah, I take hydration seriously.
-   * Read this: <https://www.webmd.com/food-recipes/features/quest-for-hydration#1>
+   * My life motto is "Stay Happy and Stay Hydrated", and it is inscribed in my class ring... so yeah, I take hydration seriously
+   * You should be going to the bathroom every 2-4 hours
+   * Caffeine, and especially drinks like coffee and energy drinks dehydrate you 
 
 #### Sleep
-   * Everyone loves bragging about being a hardo and sleeping four hours a night for months on end... guess what? It's not just stupid, it's actively hurting you in a variety of ways.
+   * Everyone loves bragging about being a hardo and sleeping four hours a night for months on end... guess what? It's not just stupid, it's actively hurting you in a variety of ways
     * <https://www.nhlbi.nih.gov/health-topics/sleep-deprivation-and-deficiency>
 
 #### Nutrition
@@ -99,8 +76,9 @@ You probably spend a ton of time in front of a computer at work, but now that yo
   * <https://www.nimh.nih.gov/health/topics/suicide-prevention/index.shtml>
 
 There is a group named the Mental Health Hackers who are pretty cool and worth a look  <https://twitter.com/hackershealth>.
+
 ---
-[//]: # (17,758,activities/page_758)
+[//]: # (17,847,activities/page_847)
 # Questions
 Alright, you probably didn't expect this line of questioning in this course, and yet, here we are. Serious business time, three quick questions.
 
@@ -115,8 +93,9 @@ If you answered yes to any of these questions, visit <https://suicidepreventionl
 If you don't want to talk to a stranger, my name is Dennis, text or call me at 914-299-7537, email me, or message me on here. As an important note, I am not in your chain of command, so my interpretation is that I am not required to report any conversations I have. If anyone disagrees, let me know. 
 
 It's okay to not be okay, talk to someone.
+
 ---
-[//]: # (17,759,activities/page_759)
+[//]: # (17,848,activities/page_848)
 # Why?
 You thought you were here to learn how to get better at computers so what is all this? 
 
@@ -125,8 +104,9 @@ Well, hopefully your end goal of all this is that you become a better person and
 If you're going to be doing anything in this world, might as well take care of yourself first. Learning security comes far after you and your well-being. 
 
 Now, on to the show! 
+
 ---
-[//]: # (3,761,activities/page_761)
+[//]: # (3,850,activities/page_850)
 # Letter from the Author
 ## Dedication
 This training is dedicated to the memories of [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz), [Bassel Khartabil](https://en.wikipedia.org/wiki/Bassel_Khartabil) and those named on the [National Cryptologic Memorial](https://www.nsa.gov/about/cryptologic-heritage/cryptologic-memorial/cryptologic-memorial-list.shtml).
@@ -139,50 +119,23 @@ Security is the shield of the modern world, and we need good people on the wall.
 Hack the planet
 
 -Dennis
----
-[//]: # (3,762,activities/page_762)
-# Why Security
-This course is meant to give you the skills and more importantly, the mindset required to be successful in this line of work. If you already are successful, time to get better. 
 
-The only way to be good at anything in this field is to become comfortable looking at problems you have never seen before and then finding a way to solve what you are up against. This curriculum is not meant to turn you into a guru, but rather it is to provide you with a solid base of knowledge and mental models relating to security, as well as build your comfort level installing new programs, following tutorials for things you have never heard of before, and using the Linux operating system. If you leave this course with nothing other than an understanding of the hacker mentality, I have been successful by some measure. However, my goal is to help guide you through the first few steps of your journey into this world and to help you find your path afterwards as you develop even more advanced skills and continue your constant growth.
+---
+[//]: # (3,851,activities/page_851)
+# Why Security?
+Computer security is the shield of the modern age. Without the constant battle on the frontlines between the people who want to see technology used for good and the people who want to use it for their own gain, or worse, to limit the rights and freedoms of others, the progress that occurs in the real world because of technology would be dramatically slowed. Security allows trust in technology, which leads to adoption, which leads to progress in one direction, or another. The more people able to help out with that fight, the faster we can move as a society, and less things will get broken and less people will be hurt on the way. That?s why this site exists, and hopefully, if you?re here for the right reasons, you?ll be able to jump into the fight with the tools you need to succeed.
+
+This course is designed to give you the mindset and fundamental skills necessary to be successful in the information security field. If you already have some experience - great! But we do not to assume any prior knowledge of security or even information technology in general. At the end of this, you may not be a guru (hint: nobody knows everything), but you should have the mental models and base knowledge to use the Linux operating system, install new programs, and be equipped to find and understand the information you need to learn even more.
 
 While I have tried to do everything in my ability to make this course self-guided, there are hundreds of places where a questioning attitude will identify clear shortfalls in the content. Some of these are intentional, most of them are not. Your questions and feedback will guide the development of this course so that it can become the best resource possible.
 
-Surrounding this site is a community to help you and provide guidance as you move along.  This community grows with each student who signs up, and our mentors will be there every step of the way to answer questions, explain difficult concepts, and talk about just about anything to help you along the way. Make sure to take full advantage of the many ways we provide to message other mentors so that we can all be part of this together.
----
-[//]: # (3,763,activities/page_763)
-# !! Enrollment Instructions !!
-This already was in the first section of the course, but the UI is not intuitive so a lot of people are having trouble enrolling themselves. Follow this to get yourself registered for the course.
-
-Yes... Enrolment is spelled wrong. I have been informed by our distinguished British brethren that this the way they spell the word. This is an open source web app and I guess the developers are Brits. As an organization uniquely proud of America, it pains me not to create a fork specifically to fix it. Maybe someday I will, but for now... it is spelled enrol here. 
-
-First off, while you can view the course as a guest, you do need to register for the site in order to enroll. If you're not registered yet, click <https://navy.hoppersroppers.org/login/signup.php?> to signup. 
-
-Enrollment in the course after site registration is not automatic! Unfortunately, it is not particularly intuitive, so I made this walkthrough. 
-
-1. Using this image, click on the top right gear shaped button.
-<img src="https://github.com/hoppersroppers/hoppersroppers.github.io/raw/master/_layouts/enrol.PNG" alt="enrol" width="1000">
-
-
-
-2. This opens a drop down, Then click 'Enrol me in this course'.
-
-3. Then navigate down and enter the password "learnfromhome". (It is not a good password, and it is all lowercase, no spaces. Threat modeling. We'll talk about it more later)
-<img src="https://raw.githubusercontent.com/hoppersroppers/hoppersroppers.github.io/master/_layouts/enrolme.JPG" alt="enrol" width="1000">
-
-
-4. You can verify you are enrolled as you will now see 'Your Progress' in the top right corner. 
-<img src="https://github.com/hoppersroppers/hoppersroppers.github.io/raw/master/_layouts/enrol4.PNG" alt="enrol" width="1000">
-
-Alright, now you are ready to go! 
+Surrounding this site is a community to help you and provide guidance as you move along. This community grows with each student who signs up, and our mentors will be there every step of the way to answer questions, explain difficult concepts, and talk about just about anything to help you along the way. Make sure to take full advantage of the many ways we provide to message other mentors so that we can all be part of this together.
 
 ---
-[//]: # (3,764,activities/page_764)
+[//]: # (3,852,activities/page_852)
 # Hopper's ...
-# Hopper's 
-Our team has gone by many names, but one of our favorite's is Hopper's Roppers. I know you know who she is. 
+We named out team after Grace Hopper because she is our favorite person in Navy computing history. You probably know who she is. 
 
-To learn more about her, read this: [http://www.biography.com/people/grace-hopper-21406809](http://www.biography.com/people/grace-hopper-21406809)
 
 Have you ever heard the quote, ?It's easier to ask forgiveness than it is to get permission.?? That was her. 
 
@@ -193,23 +146,20 @@ This quote comes from an interview in the July 1986 CHIP?s Ahoy Magazine, the De
 Read this: [http://www.doncio.navy.mil/chips/ArticleDetails.aspx?id=3563](http://www.doncio.navy.mil/chips/ArticleDetails.aspx?id=3563)
 
 
----
-[//]: # (3,765,activities/page_765)
-# ... ROPpers
-# Roppers
 
+---
+[//]: # (3,853,activities/page_853)
+# ... ROPpers
 While there was a chance you knew what Hopper's meant, it is very unlikely that you have had any idea what Roppers meant, mostly because it is a word we made up to define a group of people who ROP. And if you have never heard of ROP, or Return Oriented Programming before, and.... that is not just okay, that is expected, because why on earth would you have known about an obscure programming topic before this exact moment in time. To quote Wikipedia, "Return-oriented programming (ROP) is a computer security exploit technique that allows an attacker to execute code in the presence of security defenses such as non-executable memory (W xor X technique) and code signing by chaining together carefully chosen machine instruction sequences to get control of the stack..."
 
-Don't worry; none of that should have meant anything to you. That would have made zero sense to me when I was sitting where you are sitting. 2 years into my journey, I would have understood about half of it. Today, I still have no idea what a W or X technique is because I copied that definition from Wikipedia. 
+Don't worry; none of that should have meant anything to you. That would have made zero sense to me when I was sitting where you are sitting. Two years into my journey, I would have understood about half of it. Now at least I know what all the words mean, but I rely on friends who know more than me if I have questions.
 
-While many other sites that attempt to teach this material assume you already know a great deal of knowledge, we take a different approach to make this challenging subject as approachable as possible. For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to do stuff, but very quickly they realize that there is no way for them to learn everything. They?re not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. By managing new your high expectations of yourself, providing constant feedback on your progress, and bringing you into the community, this is designed to minimize dropout rate while providing the best first hundred hours of a cyber security education possible.
+While many other sites that attempt to teach this material assume you already know a great deal of knowledge, we take a different approach to make this challenging subject as approachable as possible. For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to do stuff, but very quickly they realize that there is no way for them to learn everything. They?re not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. By managing your high expectations of yourself, providing constant feedback on your progress, and bringing you into the community, this is designed to minimize dropout rate while providing the best first hundred hours of a cyber security education possible.
 
 
 ---
-[//]: # (3,766,activities/page_766)
+[//]: # (3,854,activities/page_854)
 # Core Tenets
-## Core Tenets
-
 ![alt text](https://news.yale.edu/sites/default/files/styles/horizontal_image/public/d6_files/YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg?itok=4HL3ETlO "img3")
 
 This site is designed around a series of ideas that we think will make your experience as a learner as good as possible.
@@ -230,12 +180,13 @@ All you need to know right now is that ROP is an advanced exploitation technique
 Nothing in this course is spoonfed, and while we try to give you good resources, there are multiple parts in the course where we tell you to swing by yourself and go find out how to do something. We do this when we know there are plenty of other high quality resources out there for you to learn from and we want you to become comfortable being given no direction other than a couple searchterms and having to rely on your own knowledge and problem solving skills.
 
 ## Content
-This curriculum was created based on inputs from members of the Naval Academy's Cyber Security Team and various guides scattered throughout the internet on how to break into information security. We put this curriculum together by aggregating all of the guides and tutorials we could find, took what we thought was important and added our own commentary. To say that this is built on the backs of a hundred other people's work would be an understatement, and we am forever grateful that we are part of a community which has created so many amazing resources. All attempts to cite source material have been made, if there is anything we have not properly attributed, let us know. Despite having been in the works for the last four years, this is the first iteration of the curriculum and it should change drastically as we see what does and doesn't work, and the only way we will know is feedback.
+This curriculum was created based on inputs from members of the Boat School's Cyber Security Team and various guides scattered throughout the internet on how to break into information security. We put this curriculum together by aggregating all of the guides and tutorials we could find, took what we thought was important and added our own commentary. To say that this is built on the backs of a hundred other people's work would be an understatement, and we am forever grateful that we are part of a community which has created so many amazing resources. All attempts to cite source material have been made, if there is anything we have not properly attributed, let us know. Despite having been in the works for the last four years, this is the first iteration of the curriculum and it should change drastically as we see what does and doesn't work, and the only way we will know is feedback.
+
 ---
-[//]: # (3,767,activities/page_767)
+[//]: # (3,855,activities/page_855)
 # Legal
 ## Community Guidelines
-Our community guidelines are available here:<https://www.hoppersroppers.org/guidelines.html>. Please read them over.
+Our community guidelines are available here: <https://www.hoppersroppers.org/guidelines.html>. Please read them over.
 
 ## Legal Stuff
 Unsurprisingly, in this course you will learn some things that could be used to do bad things. You might not think they're bad things at the time, and they might seem like funny pranks, but the laws against hacking are very vague. Even more importantly, you probably have a security clearance, and having a pile of felonies you have to admit to is not a great look and will complicate your paperwork.
@@ -253,8 +204,9 @@ It should also be mentioned that copyright law is also a good way to get in trou
 ## Classification
 Absolutely nothing here is classified, in any way, whatsoever. Nothing is derived from classified information. 
 
+
 ---
-[//]: # (3,768,activities/page_768)
+[//]: # (3,856,activities/page_856)
 # Join Us
 ## Slack
 Instant group messaging has been a cultural staple of the internet community since its inception, as it is truly one of the most important functions that global interconnectedness can serve. 
@@ -275,8 +227,9 @@ Create a "professional" twitter account! Remember, this twitter will be able to 
 
 Follow @HoppersRoppers on twitter so we can follow you. Again, if you don't want to do Twitter yet, just skip it. It is mostly just a giant waste of time, but it is interesting and you learn a ton.
 
+
 ---
-[//]: # (3,769,activities/page_769)
+[//]: # (3,857,activities/page_857)
 # The Team
 ## The 'Competitive' Team
 
@@ -286,16 +239,20 @@ When you sign up for this site, you automatically become a member of our not-at-
 
 The primary type of security competitions are CTFs, or Capture the Flags. This is a great resource to learn about CTFs. <https://ctfd.io/whats-a-ctf/>. All of the training here is built around the idea of preparing you for success in the security field, and there is no better measure of ability, grit, and the hacker mentality than playing in a competition. Every CTF requires you to use what you already know to identify what you will need to learn on the spot to solve the problem. As you are now a member of our team, we will let you know when competitions are occuring and we hope to see you there if you have the time. Even if you are new and don't think you have anything to contribute, you will learn more picking someone's brain as you shoulder-surf them (or watch them on Twitch) than you possibly could trying to learn by yourself.
 
+
 ---
-[//]: # (4,772,activities/page_772)
-# This Shit is Hard
+[//]: # (4,860,activities/page_860)
+# This Stuff is Hard
 Doing cool things with computers is hard (have I said that before), and yes there is an aspect that requires technical knowledge, but mostly, it just takes time. Doing cool things with computers is less of a technical challenge and more of an attitude and a willingness to work hard and teach yourself what you need to know in order to succeed in whatever you are trying to do. Our curriculum here is meant to give you the basic tools you will need to understand the challenges you face, but solving them is going to be on you. We'll be honest, this isn't easy. This isn't something that will take you a month or two to get the hang of. One of the primary curses of doing cool shit with computers is that each time you learn something, you immediately realize a new pile of things that you do not know. There's nothing wrong with not knowing things, and no one could ever expect you to. Even "experts" will only know a small slice of the greater field that is doing cool things with computers. Expecting anyone to be good at everything is ridiculous, but it is even more ridiculous for anyone to think a beginner should know everything... or really, anything. There's a lot of acronyms, slang, in-jokes, and domain specific knowledge. One of the promises we will make to you is that we will not ever put in an acronym, slang, or in-joke without explaining it.
 
 If you can stick with and complete this course, you will be armed with the baseline knowledge and attitude you need to be able to learn anything. Probably the most important skill you will learn is how to use all of your resources effectively, whether that is your classmates, teachers, reference pages, or Google. Mostly, Google. It will take a year or two before you get comfortable and stop feeling totally lost every day, but then you'll just start working on harder problems and you'll wind up more confused than you could imagine being now. Being good at computering is a long term process of reinforcing and building on the basic knowledge we will teach you in this course, and it will never end until you decide the computers have won. Don't let the computers win, and keep learning everything you can.
+
 ---
-[//]: # (4,773,activities/page_773)
+[//]: # (4,861,activities/page_861)
 # Hacker Attitude
-Read this post: [http://www.catb.org/~esr/faqs/hacker-howto.html](http://www.catb.org/~esr/faqs/hacker-howto.html) It isn't perfect, but it will do for now until I write a new one.?The biggest problem with this is that the author, while once a famous hacker and important member of the open source movement, is a total asshole. None of the content is bad, but we are in the process of trying to write something to replace all of his content in this curriculum.
+Read this: <http://www.catb.org/~esr/faqs/hacker-howto.html#what_is> 
+
+It isn't perfect, but it will do for now until I write a new one.?The biggest problem with this is that the author, while once a famous hacker and important member of the open source movement, is a total asshole. None of the content is bad, but we are in the process of trying to write something to replace all of his content in this curriculum.
 
 While there is a lot in there that is very interesting, the most important part is the hacker attitude.
 
@@ -310,8 +267,9 @@ While there is a lot in there that is very interesting, the most important part 
 5. Attitude is no substitute for competence.
 
 These 5 statements provide a reasonable framework for how you should approach learning this material. It should be fun, we shouldn't be wasting your time, there should be multiple ways for you to succeed, and we are measuring success by your ability at the end. 
+
 ---
-[//]: # (4,774,activities/page_774)
+[//]: # (4,862,activities/page_862)
 # Hacker Ethic
 From the same site as the Hacker How-To comes this brief description of the hacker ethic. Again, I am in the process of writing something else, but for now this is good enough.?  
 
@@ -336,9 +294,34 @@ They come out to six key beliefs:
 4. ?Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.
 5. You can create art and beauty on a computer. The concept of "hack value" is doing something that is worth doing because of the "playful cleverness" required.?
 6. ?Computers can change your life for the better
+
 ---
-[//]: # (4,775,activities/assign_775)
+[//]: # (4,863,activities/page_863)
+# RTFM
+One of the key parts of this mindset is sharing knowledge with others. A great quote on the subject is 'There is?nothing noble?in?being superior?to your fellow man; true nobility is?being superior?to your former self.' ?Not to mention, the more you give back to the community, the greater the value you provide. If you're just starting off, you might not think you have anything to provide, but in fact, you're looking at the world with a different perspective than someone who has done it for years. For example, you can provide feedback on when training makes no sense or isn't as effective as it could be, and help make it easier for the next person to go through it. This site is a work in progress and the more feedback we receive the better it will be. ?
+
+With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should ?Read the F-ing Manual? or ?RTFM?. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started. 
+
+# Man-Pages
+The most common "manual" you will come across in this course and your travels through hackerdom are the man-pages that accompany every single aspect of the Unix operating system, and they are a great resource for people who have spent years learning how to understand them. Right now, you don?t have the knowledge to be expected to understand how they work, and that is fine. There is no pressure to know anything, but there is pressure to learn.?
+
+The comic web site Xkcd is a nerd cultural treasure and you will see it referenced constantly. Read [this comic](https://xkcd.com/1692/)
+
+# Alt-Text 
+You might be thinking to yourself... what is alt-text? Funny you ask that. Depending on your current browser, figure out how to view the web page's source code for <https://xkcd.com/1692/>. This might require some Googling. What you are looking at is hypertext markup language or HTML for short. HTML is the language that websites are made of. (If you already knew that, good for you, I promise that the rest of the course gets significantly more in depth.) You will learn more later, but for now, look at the code and find where the main picture is stored in the webpage. Now do you understand what alt-text means? 
+
+# In Defense of RTFM
+RTFM gets a bad rap for good reason, because it is usually used as a put down on someone who doesn't know much about a subject... with that said, once you have the knowledge to understand a topic, if you are using that software, you should read the manual. Even if you don't understand the manual, if you are going to ask a question, you might as well reference that you know the manual exists and that what you are asking is referenced, you just need clarification. If you ask questions effectively you will find you understand your initial question and the topic much better than if you had someone explain the answer to just your specific question.
+
+# Google
+There are very very few questions you are going to ask that Google can't answer. But for right now, you probably don't even know what you should be googling for. Luckily, you have people here who can help you. One of the best questions you can ask people for is for search terms on a subject. That way they don't have to spend time explaining it, and you get all the benefits of doing the research yourself. You might already know some cool google tricks to get better results, but don't worry... we will teach you all of them until you are wise in the ways of Google Fu.
+
+
+---
+[//]: # (4,864,activities/assign_864)
 # Questions
+We expect you to be constantly coming across words, phrases, and entire concepts that you have never seen before and are totally lost in. When you have to get things done, you'll have to learn more about it and one of the best ways to get those holes in your knowledge filled is to ask questions. 
+
 Here are some guidelines for asking questions.
 
 * There is no such thing as a bad question, especially on this site
@@ -353,51 +336,25 @@ If you're in person, just ask. It's faster than Googling and you'll get more out
 
 We already told you what RTFM stood for, so now we're gonna have you do it.?
 
-Visit this [man-page](https://linux.die.net/man/1/bash) and write down the first three things you don?t understand.?Then google one of them and figure out what it is. Submit a sentence or two explaining the thing you didn?t know.?For the love of everything, don?t read any further once you are done with that. Remember Rule 3 of the Hacker Attitude, ?Boredom and Drudgery are evil.? If you're not getting anything out of something at any point in this course, don't do it, and leave us feedback that we are wasting your time. We mean that. You won't hurt our feelings.
+Visit this [man-page](https://linux.die.net/man/1/bash) and write down the first three things you don?t understand.?(I don't expect you to make it past the Name, "bash - GNU Bourne-Again SHell", there is so much to unpack in just that).
+
+ Then Google one of them and figure out what it is. Submit a sentence or two explaining the thing you didn?t know.??For the love of everything, don?t read any further once you are done with that. Remember Rule 3 of the Hacker Attitude, ?Boredom and Drudgery are evil.? If you're not getting anything out of something at any point in this course, don't do it, and leave us feedback that we are wasting your time. We mean that. You won't hurt our feelings.
+
 ---
-[//]: # (4,776,activities/page_776)
-# RTFM
-One of the key parts of this mindset is sharing knowledge with others. A great quote on the subject is 'There is?nothing noble?in?being superior?to your fellow man; true nobility is?being superior?to your former self.' ?Not to mention, the more you give back to the community, the greater the value you provide. If you're just starting off, you might not think you have anything to provide, but in fact, you're looking at the world with a different perspective than someone who has done it for years. For example, you can provide feedback on when training makes no sense or isn't as effective as it could be, and help make it easier for the next person to go through it. This site is a work in progress and the more feedback we receive the better it will be. ?
-
-With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should ?Read the F-ing Manual? or ?RTFM?. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started. The most common "manual" you will come across in this course and your travels through hackerdom are the man-pages that accompany every single aspect of the Unix operating system, and they are a great resource for people who have spent years learning how to understand them. Right now, you don?t have the knowledge to be expected to understand how they work, and that is fine. There is no pressure to know anything, but there is pressure to learn.?
-
-The comic web site Xkcd is a nerd cultural treasure and you will see it referenced constantly. Remember, you don?t have to get them all, when you are not sure, there is <http://www.explainxkcd.com>. Read [this comic](https://xkcd.com/1692/)
-
-You might be thinking to yourself... what is alt-text? Funny you ask that. Depending on your current browser, figure out how to view the web page's source code for <https://xkcd.com/1692/>. This might require some Googling. What you are looking at is hypertext markup language or HTML for short. HTML is the language that websites are made of. (If you already knew that, good for you, I promise that the rest of the course gets significantly more in depth.) You will learn more later, but for now, look at the code and find where the main picture is stored in the webpage. Now do you understand what alt-text means? 
-
-# In Defense of RTFM
-RTFM gets a bad rap for good reason, because it is usually used as a put down on someone who doesn't know much about a subject... with that said, once you have the knowledge to understand a topic, if you are using that software, you should read the manual. Even if you don't understand the manual, if you are going to ask a question, you might as well reference that you know the manual exists and that what you are asking is referenced, you just need clarification. If you ask questions effectively you will find you understand your initial question and the topic much better than if you had someone explain the answer to just your specific question.
-
-# Google
-There are very very few questions you are going to ask that Google can't answer. But for right now, you probably don't even know what you should be googling for. Luckily, you have people here who can help you. One of the best questions you can ask people for is for search terms on a subject. That way they don't have to spend time explaining it, and you get all the benefits of doing the research yourself. You might already know some cool google tricks to get better results, but don't worry... we will teach you all of them until you are wise in the ways of Google Fu.
-
-For now, start using the " " operator to return search results that only contain exact matches. 
----
-[//]: # (4,777,activities/page_777)
+[//]: # (4,865,activities/page_865)
 # Learning
-Read this, it is a wonderful intro to the psychology of learning and where you are as a student<https://azeria-labs.com/the-process-of-mastering-a-skill/>.
+Read this, it is a wonderful intro to the psychology of learning and where you are as a student <https://azeria-labs.com/the-process-of-mastering-a-skill/>.
 
-We all want to better at learning... but how do we do that? First, what is learning, and how do we do that better?
+We all want to better at learning... but how do we do that? 
 
-The defacto course to learn this is: <https://www.coursera.org/learn/learning-how-to-learn>.
 
-It was made by Dr. Barbara Oakley who has also written the definitive book on the subject. It is a free course, so take it if you want to. It should take about 17 hours to complete and will teach you things you will carry forward for the rest of your life.
-
-Or, you can read this : <https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/> Reddit post which contains notes from the course.
-
-Now, will you retain the information from this sheet of notes as well as if you had learned from the 17 hour course? No. Learning is complicated as hell and that course is designed to be just about perfect for how to learn. But reading something in a half hour is definitely easier for you right now to get an idea of what to do to be more effective as a learner. At some point in the future you should take the entire course, but I don't want to break up the flow of this course tooo badly.
-
-## Ten Thousand Hours and Deep Work
-You might have heard of the 10,000 hours thing or Deep Work. Here are some good references to read to help you understand some of the science (and art) behind getting good at hard things.
-
-From the same person as the article on the psychology of mastery comes this piece: <https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/>
-
-Relevant XKCD: <https://xkcd.com/1053/>
+Relevant Comic: <https://xkcd.com/1053/>
 
 The most important thing to realize while you are on this journey is that you will never know everything, because nobody knows everything. All you can do is keep working at things and eventually, you will start understanding more because you have a strong foundation to build on. We are here to help you build that foundation.
 
+
 ---
-[//]: # (4,778,activities/assign_778)
+[//]: # (4,866,activities/assign_866)
 # Brainwashing and Learning
 ## Brainwashing 
 
@@ -427,7 +384,7 @@ We will do our absolute best to help you keep these lists short. There will be s
 
 ## Goals 
 
-"Complete this course, as defined as finishing all the content that applies to me, before (_a_date_you_define)"
+"Complete this course, as defined as finishing all the content that applies to me, before____________"
 
 With most of the goal already defined for you, what you need to focus on is the timeline you want to set for yourself. 
 
@@ -435,14 +392,17 @@ Answer these questions:
 
 1. How much time a week do you want to spend working on this? 
 2. How much time a week do you think you will actually have to work on this?
-3. How many weeks do you think you will not have any time to work?
-4. When will you complete this course?
+3. When will you complete this course?
 
 Submit your answers to these questions.  
 
+
 ---
-[//]: # (7,50,activities/folder_50)
+[//]: # (7,788,activities/label_788)
 # Risk
+Risk
+
+---
 [//]: # (7,51,activities/assign_51)
 # Introduction
 Read this: <https://web.archive.org/web/20170704130416/https://www.usna.edu/CyberDept/sy110/lec/risk/lec.html>
@@ -453,10 +413,10 @@ This link goes to part of a school's intro to cyber course. While that seems a l
 2. Write a few sentences on what makes the risk management tradeoff difficult.
 3. What is the risk equation? 
 4. Describe the risk management process
-5. What are the four principles of ORM?
-6. What are the three levels of ORM?
+
 
 As an important legal note, we are not affiliated with that school, we just went there at one point. 
+
 ---
 [//]: # (7,52,activities/assign_52)
 # Second Equation
@@ -470,14 +430,13 @@ So let's work through it again. Answer these questions in the submission box bel
 3. How do we define asset value?
 4. What is the value added of the the second risk equation?
 5. Ignoring the equations, how do you define risk?
+
 ---
 [//]: # (7,53,activities/page_53)
 # Risk Modeling
 ## Threat Modeling 
 
 Read this: [https://arstechnica.com/information-technology/2017/07/how-i-learned-to-stop-worrying-mostly-and-love-my-threat-model/](https://arstechnica.com/information-technology/2017/07/how-i-learned-to-stop-worrying-mostly-and-love-my-threat-model/)
-
-Then read this: [https://docs.google.com/presentation/d/1A-0bggHr8fk0_UJhm251-GfyYShU0II3KNRDt9-uzjU/edit#slide=id.gcbf708df7_3_112](https://docs.google.com/presentation/d/1A-0bggHr8fk0_UJhm251-GfyYShU0II3KNRDt9-uzjU/edit#slide=id.gcbf708df7_3_112)
 
 Use this page to help assess what your risks are: [https://ssd.eff.org/en/module/assessing-your-risks](https://ssd.eff.org/en/module/assessing-your-risks)
 
@@ -498,6 +457,7 @@ What do you want to protect? Who do you want to protect it from? How likely is i
 12. What would it take for a hostile entity to capture what you just wrote down, depending on where you did it. Is it on a piece of paper, a local word document, a google doc? All of those require very different attacks.
 
 One important note is that you might not have anything worth a targeted attack personally, but you have access to other things that might be interesting to other people. For example, your contact lists can be used to identify other, more important targets. Even more dangerous, someone could use your account to send phishes to your contacts. A @navy.mil address is going to have a significantly higher click rate than some random @gmail. You also have access to your network, so someone could use you to pivot to a network you have access to.
+
 ---
 [//]: # (7,54,activities/assign_54)
 # Risk Assessment
@@ -514,9 +474,13 @@ Tasks:
 6. Write a few sentences on how to use the framework to drive decision making.
 
 You probably don't know much right now technically, but technical knowledge is meant to inform your decision making processes, and you can usually get along fairly well on a good mix of common sense and procedure.?Remember, frameworks are just frameworks, and are only as good as the person doing the assessment.
+
 ---
-[//]: # (7,59,activities/folder_59)
+[//]: # (7,789,activities/label_789)
 # Security Principles
+Security Principles
+
+---
 [//]: # (7,55,activities/assign_55)
 # CIA Triad
 No, not that CIA. 
@@ -527,6 +491,7 @@ CIA is a very important fundamental concept, make sure that you know it.
 
 Task: For each pillar, submit the word, the definition, and a way that it applies to your email account.
  
+
 ---
 [//]: # (7,56,activities/assign_56)
 # Saltzer and Schroeder
@@ -541,6 +506,7 @@ Tasks:
 
 You're going to see these guy's names a lot, the paper where they introduced these ideas is widely regarded as the most cited paper in security. I am not having you read the paper they originally introduced them in as it is quite long, but if you are super interested you can read part A of this <http://web.mit.edu/Saltzer/www/publications/protection/Basic.html>. (Not B, it's super boring.)
 
+
 ---
 [//]: # (7,58,activities/assign_58)
 # Immutable Laws
@@ -552,9 +518,13 @@ If you don't understand what any the laws mean, try to google around to figure i
 
 1. Submit the names and a short explanation of each of the 10 original laws. 
 
+
 ---
-[//]: # (7,60,activities/folder_60)
+[//]: # (7,790,activities/label_790)
 # Threats
+Threats
+
+---
 [//]: # (7,61,activities/assign_61)
 # Cyber Killchain
 So how has security adapted to face all these threats? Basically, the most modern idea is the idea of defense in depth, making it so the bad guys have to beat layer after layer of security in order to get in, and then back out. The go-to model is the cyber killchain by Lockheed Martin, and while it gets a ton of crap, it is honestly a very good way of looking at it.
@@ -571,6 +541,7 @@ Write a sentence describing each and provide three examples. If you can't think 
 5. Installation
 6. Command and Control
 7. Actions on Objectives
+
 ---
 [//]: # (7,62,activities/assign_62)
 # Post-Exploitation
@@ -590,6 +561,7 @@ Task:
 
 Describe a hypothetical attack on a user via email, using your current understanding, from recon all the way through all the post exploitation possibilities. It is fine if you don't have the technical understanding, we are just trying to make sure you have the concepts down. You are going to look back at this scenario later in the course and do it again, once you have more technical concepts down. 
 
+
 ---
 [//]: # (7,63,activities/assign_63)
 # Pyramid of Pain
@@ -604,6 +576,7 @@ Tasks:
 1. For each level of the pyramid of pain, describe it in your own words, and provide the primary strength and weakness of each.
 2. You might realize that tools and the first T in TTPs (Tools) are both on there. The primary difference is that tools is removing the adversary's ability to use a tool, while Tools is identifying the behavior caused by various tools that accomplish the same thing. Write a few sentences on what behavioral detection means and how it could work in some fancy startup. 
 3. Write a few sentences on how you could use the items in the pyramid of pain to identify a threat group. 
+
 ---
 [//]: # (7,64,activities/assign_64)
 # Diamond Model
@@ -620,6 +593,7 @@ Tasks:
 3. What is a threat group/activity group? (You may need Google)
 4. Write a few sentences on how you can use these pieces of information to build an identity for an activity group.
 5. Write about what the benefits are of creating a named threat/activity group
+
 ---
 [//]: # (7,65,activities/page_65)
 # Advanced Persistent Threats
@@ -634,6 +608,7 @@ Read this: [https://www.secureworks.com/blog/advanced-persistent-threats-apt-a](
 You may have heard of other Advanced Persistent Threats (APT) by now, but here is the report that got it all started. It was the first report that publically named and provided TTPs (Tools, Techniques, and Procedures) and Indicators of Compromise (IOC), as well as identities of a threat group. Now everyone does it, but this is what got the ball rolling in threat intelligence. Google what TTPs and IOCs are.
 
 Read this: [https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf)
+
 ---
 [//]: # (7,66,activities/assign_66)
 # Malware
@@ -664,9 +639,13 @@ For each of the following types of malware/tools, write one sentence about what 
 * Potentially unwanted programs(PUP)/ Browser "Helpers"/Shareware
 * Also describe what a crypter is and what FUD means in this context.  (Hint: Use the google search operator " " for this. Ex. "malware crypter" & "FUD malware")
 
+
 ---
-[//]: # (7,67,activities/folder_67)
+[//]: # (7,791,activities/label_791)
 # How it Works
+How it Works
+
+---
 [//]: # (7,68,activities/assign_68)
 # Architecture 
 This is a very short section that we will make longer in the future, but for now, it'll do.
@@ -685,6 +664,7 @@ For each of these items, define what they are and how they relate to security. G
 * Server
 * Web Application
 * Domain Controller
+
 ---
 [//]: # (7,69,activities/assign_69)
 # Domains of Attack
@@ -708,6 +688,7 @@ Tasks:
 1. For each of the domains of attack, describe in a few sentences what they are and how you can be attacked through them.
 2. Describe what "attack surface" means to you.
 3. Describe how you would minimize attack surface.
+
 ---
 [//]: # (7,70,activities/assign_70)
 # Mechanisms of Attack
@@ -731,6 +712,7 @@ List of Attack Mechanisms:
 Task: 
 
 For each attack mechanism, describe in two sentences what the thing being attacked is and how they generally work. This is going to take some research, but shouldn't take all that long. You can click to expand to learn more about each type of attack. 
+
 ---
 [//]: # (7,71,activities/assign_71)
 # Methods of Attack 
@@ -757,6 +739,7 @@ Tasks:
 4. Same with Privilege Escalation, Defense Evasion, Credential Access, Discovery, Lateral Movement, Collection, Exfiltration, Command and Control.... this requires more work... but really just read it and ignore the things that don't make sense. It's good practice. 
 
 Skip Pre-Attack for now. (https://attack.mitre.org/pre-attack/index.php/Main_Page) It requires its own stuff, lot of work to do.
+
 ---
 [//]: # (7,72,activities/assign_72)
 # Penetration Testing
@@ -773,6 +756,7 @@ Task:
 In your own words, describe what happened. Don't worry about getting it wrong for now, we'll teach you how to do this eventually. In addition, write out whatever questions you have about this and we'll answer them.
 
 You will be doing this for a few more scenarios, the point of writing out how this happened is so we can help you if you misunderstand things, as well as answer your questions.
+
 ---
 [//]: # (7,73,activities/assign_73)
 # Advanced Pen Test
@@ -787,6 +771,7 @@ Task:
 In your own words, describe what happened so that you, a year ago, could understand.  You'll learn how to do this too... probably not with a zero day though ;)
 
 In addition, ask questions!!!
+
 ---
 [//]: # (7,57,activities/assign_57)
 # Principles in the Real World
@@ -794,6 +779,7 @@ Read this: [https://www.cs.cornell.edu/courses/cs513/2005fa/NL02.Lampson.pdf](ht
 
 Task: 
 1. In a few sentences, describe how security principles wind up working in real life.
+
 ---
 [//]: # (7,74,activities/assign_74)
 # Wireless Attack
@@ -809,6 +795,7 @@ In your own words, describe what happened so that you, a year ago, could underst
 
 Ask questions as well!!
 
+
 ---
 [//]: # (7,75,activities/assign_75)
 # Web App Attack
@@ -823,9 +810,13 @@ Task:
 In your own words, describe what happened so that you, a year ago, could understand. This one is hard, but fun.
 
 Again, ask questions!
+
 ---
-[//]: # (8,91,activities/folder_91)
-# Malware
+[//]: # (8,792,activities/label_792)
+# Hacked!
+Hacked!
+
+---
 [//]: # (8,82,activities/page_82)
 # Already Hacked
 As we went over earlier, if a sufficiently advanced attacker wants to get into your stuff specifically, they will.
@@ -843,6 +834,7 @@ The most common way to get malware on your computer is to already have malware o
 Remember the term indicators of compromise (IOC) from before?. There are a ton that can be used, some approaches more technical than others. Common non-techical indicators include constant pop ups, home page redirection, search engine redirection, the classic pile of toolbars, and the computer being slow and the fans working way too hard. Technical indicators include extra processes running, network requests, and things saved in places they shouldn't be. Looking for these technical indicators is called "Threat Hunting". It deserves its own section, but we will briefly go over a few ways you can identify the bad things on your computer.
 
 [https://blog.malwarebytes.com/101/2016/05/how-to-tell-if-youre-infected-with-malware/](https://blog.malwarebytes.com/101/2016/05/how-to-tell-if-youre-infected-with-malware/)
+
 ---
 [//]: # (8,83,activities/page_83)
 # Anti-Virus
@@ -860,6 +852,7 @@ Task:
 1. Download Malwarebytes and run it. [https://www.malwarebytes.com/mwb-download/](https://www.malwarebytes.com/mwb-download/)
 2. Install Windows Defender, because it is built into your computer and really, really good. If it is installed, make sure it is running.
 3. Uninstall Malwarebytes. You don't need it around all the time, just whenever you get on a new computer and once every couple months.
+
 
 ---
 [//]: # (8,84,activities/assign_84)
@@ -886,6 +879,7 @@ Now we are going to complete this little tutorial so that you can learn all abou
 I know it is a lot of work but it is great stuff and I should create deliverables, I will eventually.
 
 For now, when you are done, explain a hypothetical hunt process using these tools. No more than 2 or 3 sentences.
+
 ---
 [//]: # (8,85,activities/assign_85)
 # Network Hunting
@@ -901,6 +895,7 @@ Tasks:
 3. Look at the Glasswire alerts. 
 4. Choose one of the alerts for something that isn't a webbrowser and identify the stream in Wireshark.
 5. Submit a screenshot of the data from Wireshark.
+
 ---
 [//]: # (8,86,activities/assign_86)
 # You got Tricked
@@ -936,6 +931,7 @@ Tasks:
 6. Read this: <https://www.digitalcitizen.life/uac-why-you-should-never-turn-it-off>. 
 7. Turn UAC all the way up. Write what is UAC and why it protects you from malware.
 8. How does malware bypass UAC, other than getting a human to enter the password? (Hint: Mitre Attack) There are a few answers, google around.
+
 ---
 [//]: # (8,87,activities/page_87)
 # Outdated Extensions and Permissions
@@ -952,6 +948,7 @@ Tasks:
 3. Check FB for addons
 4. Check Twitter for addons
 5. Check any other sites you can think of for addons.
+
 
 ---
 [//]: # (8,88,activities/assign_88)
@@ -974,6 +971,7 @@ Tasks:
 2. Write a few sentences on how the RSA hack enabled all the other ownage.
 3. Write a few sentences on how the Bit9 hack enabled other ownage.
 4. Write a few sentences on how NotPetya was done.
+
 ---
 [//]: # (8,89,activities/page_89)
 # Malware Removal
@@ -1008,6 +1006,7 @@ If you removed the malware, but you keep getting new malware a week or two later
      * Same shit, stop going on sketchy porn sites and downloading things.
 * It could be persistent and just sleeps for a week upon install
      * Reinstall your OS
+
 ---
 [//]: # (8,90,activities/assign_90)
 # Taylor Swift's Guide to Securing Your Computer
@@ -1024,9 +1023,13 @@ Task:
 5. Install Disconnect Chrome Extension
 6.  Install Ghostery Chrome Extension
 
+
 ---
-[//]: # (8,92,activities/folder_92)
+[//]: # (8,793,activities/label_793)
 # Passwords
+Passwords
+
+---
 [//]: # (8,108,activities/assign_108)
 # Passwords
 # You used a shitty password 
@@ -1043,10 +1046,11 @@ Tasks:
 5. Read Pass-Phrase and describe how pass phrases balance being a good password and a strong password.
 6. Read Cracking and explain which technique an attacker would use to attack a password that they knew to be 6 random alpha numeric characters
 7. Read Cracking and explain which technique an attacker would use to attack a password that they knew to be three random words added together.
-8. Read this and follow interesting links: <https://www.usna.edu/CyberDept/sy110/lec/cryptHashPswd/lec.html>
+8. Read this and follow interesting links: <https://web.archive.org/web/20170704130144/https://www.usna.edu/CyberDept/sy110/lec/cryptHashPswd/lec.html>
 9. <https://xkcd.com/936/>
 
 Here is a brief experiment for you to try. Try to make a rough guess how many web sites you use on a regular basis use your primary email as their account recovery address. Now, try to think about which of those sites are the most important to you that they remain secure; social media, banking, other email accounts. Now think of the sketchy sites you reuse the same password on. If those sketchy sites are breached, and the attacker gets your password, they can try it against your email. If they get your email, they can use it to take your other accounts. This is called "password stuffing".
+
 ---
 [//]: # (8,109,activities/assign_109)
 # Password Manager
@@ -1065,6 +1069,7 @@ What password has 2^44 bits of entropy?
 8. Never use this new email for anything else ever again other than 
 9. Complete the LastPass Security challenge
  
+
 ---
 [//]: # (8,110,activities/assign_110)
 # Multi-Factor Authentication
@@ -1080,7 +1085,7 @@ Tasks:
 8. From a risk perspective, do you really need multifactor on your github?
 9. Remove multifactor from your Github
 10. Put multifactor on whatever other accounts you think deserve that level of protection. <https://twofactorauth.org/>
-11. Read this: <https://www.yubico.com/why-yubico/how-yubikey-works>
+11. Read this: <https://web.archive.org/web/20180422212245/https://www.yubico.com/why-yubico/how-yubikey-works/>
 
 You could probably get a couple, and then set it up with <https://landing.google.com/advancedprotection/>. Google's Advanced Protection is the best you can get right now, but you probably don't need it. My philosophy is I can't properly tell people to do things for their security if I don't do it myself and understand the pain points. For the record, I don't use it. Too inconvenient when I'm on a ship and can't log in to things. 
 
@@ -1091,6 +1096,7 @@ b) intercept of text messages <https://www.theguardian.com/technology/2016/apr/1
 However, those things are not in your threat model unless you are famous or have cryptocurrency wallets.
 
 Another note: Just because you have 2 factor doesn't mean you can't get phished for it!
+
 ---
 [//]: # (8,111,activities/assign_111)
 # Security Questions and Account Resets
@@ -1115,6 +1121,7 @@ Tasks:
 Combining the ideas of salting and hashing, now learn how you are going to make secure security questions! First, as a rule, don't use uppercase letters, spaces, or punctuation ever in your security questions. Why? Nothing about security, it just makes them easier to remember. Then if we take a hashing algorithm, like MD5, and a unique salt, such as ?salty17?, we can use the function MD5(_answer_to_question_ + ?salty17?). This will create a very very hard to figure out security question that you can easily use anywhere. 
 
 Or, if you are on a computer with your password manager, just write that shit down in your secure notes for a site. If they get your lastpass account you are screwed anyway, so don't worry about it.
+
 ---
 [//]: # (8,112,activities/page_112)
 # More Password Stuff
@@ -1140,9 +1147,13 @@ Routers, Internet of Things devices, and web applications are common victims of 
 If you have the ability to change the password, change the password. If you don't change the defaults, you are begging to get added to a botnet, or worse. 
 
 If you ever install an application and it has a default password, change that shit.
+
 ---
-[//]: # (8,93,activities/folder_93)
+[//]: # (8,794,activities/label_794)
 # Networks
+Networks
+
+---
 [//]: # (8,98,activities/page_98)
 # Hostile Networks Intro
 # Hostile Networks
@@ -1165,6 +1176,7 @@ First, let's get into threat modeling... If you are doing something so 'fun' tha
 So while we mostly care about circumventing censorship, we will also teach as if you had to care about bad guys getting your IP address. 
 
 It's a good thing to know.
+
 ---
 [//]: # (8,99,activities/page_99)
 # Protect Your IP
@@ -1190,6 +1202,7 @@ Tasks:
 * How much information do they have about you now?
 
 Adding an extra hop works, but it needs to be done intelligently, and certainly not through a sketchy website which provides it for free. Don't use free proxies, because if the product is free.... you are the product.
+
 ---
 [//]: # (8,100,activities/assign_100)
 # IP Protections
@@ -1225,6 +1238,7 @@ Remember honey tokens? Or just malware. That calls home real nice. There's also 
    * Hack their Router
    * Court orders to ISPs
    * Threaten to give it to police so they can go get a court order
+
 ---
 [//]: # (8,102,activities/assign_102)
 # Man in the Middle
@@ -1234,7 +1248,7 @@ The general idea is that if Computer A tries to communicate with Computer C, but
 
 Once again, the academy's piece on this is pretty damn good. Of course, we'll be going into this deeper later and you will do it yourself, but it's a good speed intro.
 
-<https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/lec.html>
+<https://web.archive.org/web/20170704130114/https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/lec.html>
 
 Questions:
 
@@ -1258,17 +1272,18 @@ Tasks:
 * Download Signal on your Phone. 
 * Ensure HTTPS Everywhere is installed
 
+
 ---
 [//]: # (8,101,activities/assign_101)
 # Encryption
 Tasks:
 
-0. Read this: <https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/lec.html>
+0. You've already read this, but use it to answer the HW. <https://web.archive.org/web/20170704130139/https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/lec.html>
 1. What is symmetric encryption?
-2. Do the HW: <https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/hw/hw.pdf>
-3 Read this: <https://www.usna.edu/CyberDept/sy110/lec/cryptAsymmEnc/lec.html>
+2. Do the HW: <https://web.archive.org/web/20170704130139/https://www.usna.edu/CyberDept/sy110//lec/cryptSymmEnc/hw/hw.pdf>
+3. Read this: <https://web.archive.org/web/20170704130139/https://www.usna.edu/CyberDept/sy110/lec/cryptAsymmEnc/lec.html>
 4. What is asymmetric encryption?
-5. Do the HW: <https://www.usna.edu/CyberDept/sy110/lec/cryptAsymmEnc/hw/hw.pdf>
+5. Do the HW: <https://web.archive.org/web/20170704130139/https://www.usna.edu/CyberDept/sy110/lec/cryptAsymmEnc/hw/hw.pdf>
 
 Read this: <https://ssd.eff.org/en/module/what-encryption>
 Random note, that link goes to the Electronic Frontier Foundation's website, they are basically the people who maintain internet freedom and digital rights for the rest of us. Good folks.
@@ -1278,9 +1293,13 @@ Now here is a slightly more technical primer on how real world cryptography work
 Read this: <https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp>
 
 Alright, now that you have an idea of what encryption is, read this <https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/> and explain the differences between the ideas explained.
+
 ---
-[//]: # (8,94,activities/folder_94)
+[//]: # (8,795,activities/label_795)
 # Real World
+Real World
+
+---
 [//]: # (8,103,activities/assign_103)
 # OPSEC
 # OPSEC is king
@@ -1292,9 +1311,10 @@ If someone has found you in real life, the game is over. There are all sorts of 
 Tasks:
 
 1. Submit what is the OPSEC Purple Dragon
-2. Check out the fingerprinter at Panopticlick: [https://panopticlick.eff.org/tracker](https://panopticlick.eff.org/tracker)
+2. Check out the fingerprinter at Panopticlick: [https://panopticlick.eff.org](https://panopticlick.eff.org)
 3. Read this: [https://gizmodo.com/5901430/these-breasts-nailed-anonymous-hacker-in-fbi-case](https://gizmodo.com/5901430/these-breasts-nailed-anonymous-hacker-in-fbi-case)
-4. Give me the GPS coords for this picture: [https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg](https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg) . I recommend this site: [http://exif.regex.info/](http://exif.regex.info/)
+4. Give me the GPS coords for this picture: [https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg](https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg) . I recommend this site: <http://exif.regex.info/exif.cgi>
+
 ---
 [//]: # (8,104,activities/page_104)
 # Compartmentalization
@@ -1313,8 +1333,9 @@ Tasks:
 If you have the time, these are all highly recommended, if not, add them to your 'Read At Some Point' tab in the Learning Sheet:
 
 * Hacker OPSEC talk: <https://www.youtube.com/watch?v=9XaYdCdwiWU>
-* Dulles' 73 Rules: <http://www.oss.net/dynamaster/file_archive/100102/0a947a77d762061cc87ec541c2d2dcc7/2010-01-02%20Dulles%20on%20Tradecraft%20via%20Srodes.pdf>
+* Dulles' 73 Rules: <https://web.archive.org/web/20171009145459/http://www.oss.net/dynamaster/file_archive/100102/0a947a77d762061cc87ec541c2d2dcc7/2010-01-02%20Dulles%20on%20Tradecraft%20via%20Srodes.pdf>
 * Moscow Rules: <https://en.wikipedia.org/wiki/The_Moscow_rules>
+
 ---
 [//]: # (8,105,activities/page_105)
 # Physical Attacks
@@ -1386,6 +1407,7 @@ Lockpicking and other security bypass techniques are very popular in the communi
 Read this: <https://www.art-of-lockpicking.com/how-to-pick-a-lock-guide/>. 
 At some point we will figure out getting lockpicks to participants so that they can practice. 
 	   
+
 ---
 [//]: # (8,106,activities/assign_106)
 # Linux Password Reset
@@ -1397,6 +1419,7 @@ This one is generally known as a Grub Bootloader attack.
 Here is a starting point. <https://itsfoss.com/how-to-hack-ubuntu-password/>
 
 Write a couple sentences about what you learned from this. 
+
 ---
 [//]: # (8,107,activities/assign_107)
 # Windows Password Reset
@@ -1413,6 +1436,7 @@ One interesting note is that you might have to boot into safe mode for the stick
 This link will bring you to the actual way to do this. <https://www.top-password.com/knowledge/reset-windows-10-password.html>
 
 Write a couple sentences about what you learned from this. 
+
 
 
 ---

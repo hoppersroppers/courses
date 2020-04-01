@@ -1,22 +1,22 @@
-[//]: # (C:\Users\devey\Downloads\1\backup-moodle2-course-7-practical_skills-20200330-0958-nu-nf~\moodle_backup.xml)
+[//]: # (C:\Users\devey\Downloads\backup-moodle2-course-7-practical_skills-20200401-1610-nu-nf\moodle_backup.xml)
 [//]: # (75,868,activities/page_868)
 # Site Registration
 You must register for the site before your progress can be tracked.
 
-Click here to register: <https://navy.hoppersroppers.org/login/signup.php?> 
+Click here to register: <https://navy.hoppersroppers.org/login/signup.php?>
 
 ---
 [//]: # (76,711,activities/page_711)
 # Secure Yourself Now
-You signed up for this course to improve yourself, to learn how to secure yourself online, and to help others. That's what this section is dedicated to. If you finish this section and don't do anything else, your participation in this course will be a success in my eyes. Maybe not in your chain of command's but that's a completely different story. 
+You signed up for this course to improve yourself, to learn how to secure yourself online, and to help others. That's what this section is dedicated to. If you finish this section and don't do anything else, your participation in this course will be a success in my eyes. Maybe not in your chain of command's but that's a completely different story.
 
-Of course, I would prefer you to continue in the course, but I'm glad you are here, and I hope you stick around. 
+Of course, I would prefer you to continue in the course, but I'm glad you are here, and I hope you stick around.
 
 You're working from home, off your personal computer, so first, congratulations on all the bandwidth. You are all security professionals, so I know I don't have to drive this point home too hard, but the computers that you defend and maintain at work are significantly more secure than the one you are accessing this course from. You know everything I am about to tell you, but I'm going to tell you it again.
 
-Your first assignment is to start using a password manager.  Read this <https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/> to learn about password managers, and then install one, I  recommend <https://lastpass.com/>. There's plenty of other password managers out there, but I've been using this one forever and that is the only reason I recommend it. Convince your friends and family to use password managers. If you don't want to do this now, skip it, I make sure you do it later in the course. 
+Your first assignment is to start using a password manager.  Read this <https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/> to learn about password managers, and then install one, I  recommend <https://lastpass.com/>. There's plenty of other password managers out there, but I've been using this one forever and that is the only reason I recommend it. Convince your friends and family to use password managers. If you don't want to do this now, skip it, I make sure you do it later in the course.
 
-Your second task, if you do not already have one installed, is to install an ad-blocking extension. Ad-blockers do what they say they do, making your web experience significantly better, but also block trackers and lessen the chance of getting malware laden ads.  For Chrome, I recommend uBlock Origin: <https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en>. I don't use Firefox, but it's a good browser, especially for the more privacy conscious. I also recommend installing Chrome (or Firefox) and ad-blockers on as many computers of friends and family that you do tech support for. If you don't want to do this now, skip it, I make sure you do it later in the course. 
+Your second task, if you do not already have one installed, is to install an ad-blocking extension. Ad-blockers do what they say they do, making your web experience significantly better, but also block trackers and lessen the chance of getting malware laden ads.  For Chrome, I recommend uBlock Origin: <https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en>. I don't use Firefox, but it has an ad-blocker built in which makes it the best choice for the privacy and security conscious. I also recommend installing Chrome and ad-blockers (or Firefox) on as many computers of friends and family that you do tech support for. If you don't want to do this now, skip it, I make sure you do it later in the course.
 
 I'd like to think you don't already have malware on your computer but if you are working off of a shared family computer, there's a decent chance if you haven't checked recently. First, ensure that Windows Defender is enabled. If it isn't, turn it on. After you've done that, turn on automatic updates and ensure your computer is completely updated. If it isn't, update now. Once again, do this on as many computers as you are responsible for. You do it at work, do it home. If you're not on Windows, good luck not downloading malware you 1337 hardo. You'll probably be fine.
 
@@ -30,7 +30,7 @@ You probably spend a ton of time in front of a computer at work, but now that yo
 
 ## Ergonomics
 * Read this: <https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169>
-1. Now fix your setup so that everything aligns properly. This is an investment. If you have a laptop, find a keyboard and mouse and set the laptop up on top of books to get it to the right height when you are sitting down. Try to avoid having a laptop on your lap, get it on a table and sit in a chair. 
+1. Now fix your setup so that everything aligns properly. This is an investment. If you have a laptop, find a keyboard and mouse and set the laptop up on top of books to get it to the right height when you are sitting down. Try to avoid having a laptop on your lap, get it on a table and sit in a chair.
 
 ## Blue Light and Brightness
 * Drop the brightness on your computer as far as you can. Just trust me.
@@ -41,32 +41,37 @@ You probably spend a ton of time in front of a computer at work, but now that yo
 ---
 [//]: # (76,713,activities/page_713)
 # General Wellness
+#### Coronavirus
+   * You are likely working from home right now and should be practicing social distancing
+   * For a great unofficial guide, check out <https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/>
+   * For the official .gov website, visit: <https://www.coronavirus.gov/>
+
 #### Hydrate Constantly
    * My life motto is "Stay Happy and Stay Hydrated", and it is inscribed in my class ring... so yeah, I take hydration seriously
    * You should be going to the bathroom every 2-4 hours
-   * Caffeine, and especially drinks like coffee and energy drinks dehydrate you 
+   * Caffeine, and especially drinks like coffee and energy drinks dehydrate you
 
 #### Sleep
    * Everyone loves bragging about being a hardo and sleeping four hours a night for months on end... guess what? It's not just stupid, it's actively hurting you in a variety of ways
     * <https://www.nhlbi.nih.gov/health-topics/sleep-deprivation-and-deficiency>
 
 #### Nutrition
-   * I'm not going to make you read anything, just don't eat cheetos and hot pockets and drink Monsters as your only sustenance for the day. Order in some Chinese or Thai. Not every delivery meal has to be pizza. 
-   * Cook your own food every once in a while. Instant ramen doesn't count. Cooking is fun as hell. Do it. 
+   * I'm not going to make you read anything, just don't eat cheetos and hot pockets and drink Monsters as your only sustenance for the day. Order in some Chinese or Thai. Not every delivery meal has to be pizza.
+   * Cook your own food every once in a while. Instant ramen doesn't count. Cooking is fun as hell. Do it.
 
 #### Fitness
-   * Not going to beat this one to death. Getting your heart rate elevated for a few minutes a day is good for you, full stop. Do it. 
-   * Even if the PRT is cancelled you should still work out. 
-   * Looking for great resource for this, please recommend one if you have it. 
+   * Not going to beat this one to death. Getting your heart rate elevated for a few minutes a day is good for you, full stop. Do it.
+   * Even if the PRT is cancelled you should still work out.
+   * Looking for great resource for this, please recommend one if you have it.
 
 ####  Neurodiversity
    * Hackers are known for our neurodiversity, and our brains let us do amazing things, but sometimes they work in ways that don't always make the most sense to us and the people around us. Here are some resources to help understand what you or other people experience every day.
   * <https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd/index.shtml>
   * <https://www.helpguide.org/articles/add-adhd/adhd-attention-deficit-disorder-in-adults.htm>
-  * If you have questions about medication, talk to your command's doc to get a referral to Mental Health. It's a process but it's worth it. 
+  * If you have questions about medication, talk to your command's doc to get a referral to Mental Health. It's a process but it's worth it.
 
 #### Mental Health
-   * The more you know about these concerns and their symptoms, the better you can understand them. Additionally, everyone needs more general suicide prevention and depression training. It's not fun, but it is worth having all the resources you can. Read all of these. Help yourself or help your friends. 
+   * The more you know about these concerns and their symptoms, the better you can understand them. Additionally, everyone needs more general suicide prevention and depression training. It's not fun, but it is worth having all the resources you can. Read all of these. Help yourself or help your friends.
   * <https://www.nimh.nih.gov/health/topics/depression/index.shtml>
   * <https://www.nimh.nih.gov/health/topics/suicide-prevention/index.shtml>
 
@@ -79,26 +84,26 @@ Alright, you probably didn't expect this line of questioning in this course, and
 
 1. Have you wished you were dead or wished you could go to sleep and not wake up?
 
-2. Have you actually had any thoughts about killing yourself? If so, have you thought about how you might do this? 
+2. Have you actually had any thoughts about killing yourself? If so, have you thought about how you might do this?
 
 3. In the past three months, have you done anything, started to do anything, or prepared to do anything to end your life?
 
-If you answered yes to any of these questions, visit <https://suicidepreventionlifeline.org/> or call 1-800-273-8255. 
+If you answered yes to any of these questions, visit <https://suicidepreventionlifeline.org/> or call 1-800-273-8255.
 
-If you don't want to talk to a stranger, my name is Dennis, text or call me at 914-299-7537, email me, or message me on here. As an important note, I am not in your chain of command, so my interpretation is that I am not required to report any conversations I have. If anyone disagrees, let me know. 
+If you don't want to talk to a stranger, my name is Dennis, text or call me at 914-299-7537, email me, or message me on here. As an important note, I am not in your chain of command, so my interpretation is that I am not required to report any conversations I have. If anyone disagrees, let me know.
 
 It's okay to not be okay, talk to someone.
 
 ---
 [//]: # (76,715,activities/page_715)
 # Why?
-You thought you were here to learn how to get better at computers so what is all this? 
+You thought you were here to learn how to get better at computers so what is all this?
 
-Well, hopefully your end goal of all this is that you become a better person and have a better life. If you want to be good at computers just for the sake of being good at computers that counts for something too, but to me, all this technology is just a way for me to accomplish more than I could by myself. 
+Well, hopefully your end goal of all this is that you become a better person and have a better life. If you want to be good at computers just for the sake of being good at computers that counts for something too, but to me, all this technology is just a way for me to accomplish more than I could by myself.
 
-If you're going to be doing anything in this world, might as well take care of yourself first. Learning security comes far after you and your well-being. 
+If you're going to be doing anything in this world, might as well take care of yourself first. Learning security comes far after you and your well-being.
 
-Now, on to the show! 
+Now, on to the show!
 
 ---
 [//]: # (77,717,activities/page_717)
@@ -107,7 +112,7 @@ Now, on to the show!
 This training is dedicated to the memories of [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz), [Bassel Khartabil](https://en.wikipedia.org/wiki/Bassel_Khartabil) and those named on the [National Cryptologic Memorial](https://www.nsa.gov/about/cryptologic-heritage/cryptologic-memorial/cryptologic-memorial-list.shtml).
 
 ## Letter from the Author
-After a decade of teaching myself how to use computers and a few years training others, I went and made the site that I wish had existed when I got into the field back in middle school. 
+After a decade of teaching myself how to use computers and a few years training others, I went and made the site that I wish had existed when I got into the field back in middle school.
 
 Security is the shield of the modern world, and we need good people on the wall.  Thanks for being up there.
 
@@ -120,7 +125,7 @@ Hack the planet
 # Why Security?
 Computer security is the shield of the modern age. Without the constant battle on the frontlines between the people who want to see technology used for good and the people who want to use it for their own gain, or worse, to limit the rights and freedoms of others, the progress that occurs in the real world because of technology would be dramatically slowed. Security allows trust in technology, which leads to adoption, which leads to progress in one direction, or another. The more people able to help out with that fight, the faster we can move as a society, and less things will get broken and less people will be hurt on the way. That?s why this site exists, and hopefully, if you?re here for the right reasons, you?ll be able to jump into the fight with the tools you need to succeed.
 
-This course is meant to give you, someone new to the security field, and information technology in general, the skills and more importantly, the mindset required to be successful in this line of work. The only way to be good at anything in this field is to become comfortable looking at problems you have never seen before and then finding a way to solve what you are up against. This curriculum is not meant to turn you into a guru, but rather it is to provide you with a solid base of knowledge and mental models relating to security, as well as build your comfort level installing new programs, following tutorials for things you have never heard of before, and using the Linux operating system. If you leave this course with nothing other than an understanding of the hacker mentality, I have been successful by some measure. However, my goal is to help guide you through the first few steps of your journey into this world and to help you find your path afterwards as you develop even more advanced skills and continue your constant growth.
+This course is designed to give you the mindset and fundamental skills necessary to be successful in the information security field. If you already have some experience - great! But we do not to assume any prior knowledge of security or even information technology in general. At the end of this, you may not be a guru (hint: nobody knows everything), but you should have the mental models and base knowledge to use the Linux operating system, install new programs, and be equipped to find and understand the information you need to learn even more.
 
 While I have tried to do everything in my ability to make this course self-guided, there are hundreds of places where a questioning attitude will identify clear shortfalls in the content. Some of these are intentional, most of them are not. Your questions and feedback will guide the development of this course so that it can become the best resource possible.
 
@@ -129,10 +134,10 @@ Surrounding this site is a community to help you and provide guidance as you mov
 ---
 [//]: # (77,720,activities/page_720)
 # Hopper's ...
-We named out team after Grace Hopper because she is our favorite person in Navy computing history. You probably know who she is. 
+We named out team after Grace Hopper because she is our favorite person in Navy computing history. You probably know who she is.
 
 
-Have you ever heard the quote, ?It's easier to ask forgiveness than it is to get permission.?? That was her. 
+Have you ever heard the quote, ?It's easier to ask forgiveness than it is to get permission.?? That was her.
 
 ![alt text](https://i2.wp.com/hopperboulder.com/wp-content/uploads/2019/03/Grace1-2.jpg?w=704&ssl=1 "img1")
 
@@ -147,7 +152,7 @@ Read this: [http://www.doncio.navy.mil/chips/ArticleDetails.aspx?id=3563](http:/
 # ... ROPpers
 While there was a chance you knew what Hopper's meant, it is very unlikely that you have had any idea what Roppers meant, mostly because it is a word we made up to define a group of people who ROP. And if you have never heard of ROP, or Return Oriented Programming before, and.... that is not just okay, that is expected, because why on earth would you have known about an obscure programming topic before this exact moment in time. To quote Wikipedia, "Return-oriented programming (ROP) is a computer security exploit technique that allows an attacker to execute code in the presence of security defenses such as non-executable memory (W xor X technique) and code signing by chaining together carefully chosen machine instruction sequences to get control of the stack..."
 
-Don't worry; none of that should have meant anything to you. That would have made zero sense to me when I was sitting where you are sitting. 2 years into my journey, I would have understood about half of it. Today, I still have no idea what a W or X technique is because I copied that definition from Wikipedia. 
+Don't worry; none of that should have meant anything to you. That would have made zero sense to me when I was sitting where you are sitting. Two years into my journey, I would have understood about half of it. Now at least I know what all the words mean, but I rely on friends who know more than me if I have questions.
 
 While many other sites that attempt to teach this material assume you already know a great deal of knowledge, we take a different approach to make this challenging subject as approachable as possible. For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to do stuff, but very quickly they realize that there is no way for them to learn everything. They?re not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. By managing your high expectations of yourself, providing constant feedback on your progress, and bringing you into the community, this is designed to minimize dropout rate while providing the best first hundred hours of a cyber security education possible.
 
@@ -186,31 +191,31 @@ Our community guidelines are available here: <https://www.hoppersroppers.org/gui
 ## Legal Stuff
 Unsurprisingly, in this course you will learn some things that could be used to do bad things. You might not think they're bad things at the time, and they might seem like funny pranks, but the laws against hacking are very vague. Even more importantly, you probably have a security clearance, and having a pile of felonies you have to admit to is not a great look and will complicate your paperwork.
 
-In the US, the law that surrounds this stuff is the Computer Fraud and Abuse Act.
+In the US, the Computer Fraud and Abuse Act (CFAA) is the most important law concerning hacking to consider.
 
 Basically, all you need to know is that every computer is a protected computer and that it is a crime to intentionally access a computer or account without authorization or to exceed authorized access.
 
-Exceed authorized access is a real sticky subject, and it has led to a bunch of unfortunate prosecutions. 
+Exceed authorized access is a real sticky subject, and it has led to a bunch of unfortunate prosecutions.
 
 To stay on the safe side, only access computers you own, or have written consent to access. You're lucky, because we have an entire network of training computers you can do whatever you want on. A lot of people don't, and that's where they get in trouble while trying to learn.  
 
 It should also be mentioned that copyright law is also a good way to get in trouble, not to mention that if you see software to pirate on the internet, it is very unlikely that it doesn't contain malware. Just don't steal things, we can almost always get a copy of whatever you want, it just might take some paperwork and some emails.
 
 ## Classification
-Absolutely nothing here is classified, in any way, whatsoever. Nothing is derived from classified information. 
+Absolutely nothing here is classified, in any way, whatsoever. Nothing is derived from classified information.
 
 
 ---
 [//]: # (77,724,activities/page_724)
 # Join Us
 ## Slack
-Instant group messaging has been a cultural staple of the internet community since its inception, as it is truly one of the most important functions that global interconnectedness can serve. 
+Instant group messaging has been a cultural staple of the internet community since its inception, as it is truly one of the most important functions that global interconnectedness can serve.
 
 Slack has become the messaging platform of choice, allowing group collaboration and real time chat along with various plug-ins and file hosting integration. We use it for many of feedback, support, as a forum, and as our primary instant messaging channel. At some point we might migrate to a self-hosted server, but for now, Slack is the easiest to work with.
 
 Join our channel at <https://launchpass.com/hoppersroppers> and post a hello!
 
-If this is not working for you, it is because you have an ad-blocker installed. If you do, whitelist the site or open it in Incognito mode and enter your email. We'll learn all about ad-blockers and why that broke the site for you later. If you continue having problems, message us here or email us. 
+If this is not working for you, it is because you have an ad-blocker installed. If you do, whitelist the site or open it in Incognito mode and enter your email. We'll learn all about ad-blockers and why that broke the site for you later. If you continue having problems, message us here or email us.
 
 Choose a nickname, or what we call online, a "handle" for yourself. Don't worry about it too much, you will come up with something good eventually, and you are not stuck with whatever you start with. As a general rule, don't call yourself something like "Dark Shadow". Unless you want to. In that case, do that. I probably had a dozen or so before settling on my current one, 'deevnull'. I liked mine because it is a nerd joke (that will be explained about halfway through this course) and incorporates my last name.  Send me a message with a brief introduction to let me know you joined. We use Slack for just about everything from helping on problems, submitting feedback, or just talking about random things.
 
@@ -228,16 +233,16 @@ Follow @HoppersRoppers on twitter so we can follow you. Again, if you don't want
 # The Team
 ## The 'Competitive' Team
 
-This site is designed for getting you up to speed so you can confidently compete in security competitions. What this site is not is a series of competition problems for you to solve, which while seemingly the obvious way to teach this, winds up discouraging learners early by really kicking the crap out of them. We teach the basics, and the next course will be where you find yourself facing down challenges. Luckily, that is way easier of a course to make, because I just borrow them from old competitions. This course is to prepare you, not to get you experience in competition. It's a different approach philosophically, but it will pay off. 
+This site is designed for getting you up to speed so you can confidently compete in security competitions. What this site is not is a series of competition problems for you to solve, which while seemingly the obvious way to teach this, winds up discouraging learners early by really kicking the crap out of them. We teach the basics, and the next course will be where you find yourself facing down challenges. Luckily, that is way easier of a course to make, because I just borrow them from old competitions. This course is to prepare you, not to get you experience in competition. It's a different approach philosophically, but it will pay off.
 
-When you sign up for this site, you automatically become a member of our not-at-all competitive team, which also happens to be named Hopper's Roppers. This whole site is grown out of the training I made for my college security team who competed in various cyber security competitions. Now, Hopper's Roppers is a distributed team, open to anyone, but is especially meant to be a place for beginners to learn the ropes in and we will participate in any event we have the numbers for. You will not be ready to compete while you are still working your way through this course... the good news, is you don't need to be ready to compete to do it. All you have to do is sign up, know your brain is going to hurt and you probably won't understand anything, and be ready to learn. 
+When you sign up for this site, you automatically become a member of our not-at-all competitive team, which also happens to be named Hopper's Roppers. This whole site is grown out of the training I made for my college security team who competed in various cyber security competitions. Now, Hopper's Roppers is a distributed team, open to anyone, but is especially meant to be a place for beginners to learn the ropes in and we will participate in any event we have the numbers for. You will not be ready to compete while you are still working your way through this course... the good news, is you don't need to be ready to compete to do it. All you have to do is sign up, know your brain is going to hurt and you probably won't understand anything, and be ready to learn.
 
 The primary type of security competitions are CTFs, or Capture the Flags. This is a great resource to learn about CTFs. <https://ctfd.io/whats-a-ctf/>. All of the training here is built around the idea of preparing you for success in the security field, and there is no better measure of ability, grit, and the hacker mentality than playing in a competition. Every CTF requires you to use what you already know to identify what you will need to learn on the spot to solve the problem. As you are now a member of our team, we will let you know when competitions are occuring and we hope to see you there if you have the time. Even if you are new and don't think you have anything to contribute, you will learn more picking someone's brain as you shoulder-surf them (or watch them on Twitch) than you possibly could trying to learn by yourself.
 
 
 ---
 [//]: # (78,728,activities/page_728)
-# This Shit is Hard
+# This Stuff is Hard
 Doing cool things with computers is hard (have I said that before), and yes there is an aspect that requires technical knowledge, but mostly, it just takes time. Doing cool things with computers is less of a technical challenge and more of an attitude and a willingness to work hard and teach yourself what you need to know in order to succeed in whatever you are trying to do. Our curriculum here is meant to give you the basic tools you will need to understand the challenges you face, but solving them is going to be on you. We'll be honest, this isn't easy. This isn't something that will take you a month or two to get the hang of. One of the primary curses of doing cool shit with computers is that each time you learn something, you immediately realize a new pile of things that you do not know. There's nothing wrong with not knowing things, and no one could ever expect you to. Even "experts" will only know a small slice of the greater field that is doing cool things with computers. Expecting anyone to be good at everything is ridiculous, but it is even more ridiculous for anyone to think a beginner should know everything... or really, anything. There's a lot of acronyms, slang, in-jokes, and domain specific knowledge. One of the promises we will make to you is that we will not ever put in an acronym, slang, or in-joke without explaining it.
 
 If you can stick with and complete this course, you will be armed with the baseline knowledge and attitude you need to be able to learn anything. Probably the most important skill you will learn is how to use all of your resources effectively, whether that is your classmates, teachers, reference pages, or Google. Mostly, Google. It will take a year or two before you get comfortable and stop feeling totally lost every day, but then you'll just start working on harder problems and you'll wind up more confused than you could imagine being now. Being good at computering is a long term process of reinforcing and building on the basic knowledge we will teach you in this course, and it will never end until you decide the computers have won. Don't let the computers win, and keep learning everything you can.
@@ -245,7 +250,7 @@ If you can stick with and complete this course, you will be armed with the basel
 ---
 [//]: # (78,729,activities/page_729)
 # Hacker Attitude
-Read this: <http://www.catb.org/~esr/faqs/hacker-howto.html#what_is> 
+Read this: <http://www.catb.org/~esr/faqs/hacker-howto.html#what_is>
 
 It isn't perfect, but it will do for now until I write a new one.?The biggest problem with this is that the author, while once a famous hacker and important member of the open source movement, is a total asshole. None of the content is bad, but we are in the process of trying to write something to replace all of his content in this curriculum.
 
@@ -261,7 +266,7 @@ While there is a lot in there that is very interesting, the most important part 
 
 5. Attitude is no substitute for competence.
 
-These 5 statements provide a reasonable framework for how you should approach learning this material. It should be fun, we shouldn't be wasting your time, there should be multiple ways for you to succeed, and we are measuring success by your ability at the end. 
+These 5 statements provide a reasonable framework for how you should approach learning this material. It should be fun, we shouldn't be wasting your time, there should be multiple ways for you to succeed, and we are measuring success by your ability at the end.
 
 ---
 [//]: # (78,730,activities/page_730)
@@ -295,15 +300,15 @@ They come out to six key beliefs:
 # RTFM
 One of the key parts of this mindset is sharing knowledge with others. A great quote on the subject is 'There is?nothing noble?in?being superior?to your fellow man; true nobility is?being superior?to your former self.' ?Not to mention, the more you give back to the community, the greater the value you provide. If you're just starting off, you might not think you have anything to provide, but in fact, you're looking at the world with a different perspective than someone who has done it for years. For example, you can provide feedback on when training makes no sense or isn't as effective as it could be, and help make it easier for the next person to go through it. This site is a work in progress and the more feedback we receive the better it will be. ?
 
-With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should ?Read the F-ing Manual? or ?RTFM?. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started. 
+With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should ?Read the F-ing Manual? or ?RTFM?. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started.
 
 # Man-Pages
 The most common "manual" you will come across in this course and your travels through hackerdom are the man-pages that accompany every single aspect of the Unix operating system, and they are a great resource for people who have spent years learning how to understand them. Right now, you don?t have the knowledge to be expected to understand how they work, and that is fine. There is no pressure to know anything, but there is pressure to learn.?
 
 The comic web site Xkcd is a nerd cultural treasure and you will see it referenced constantly. Read [this comic](https://xkcd.com/1692/)
 
-# Alt-Text 
-You might be thinking to yourself... what is alt-text? Funny you ask that. Depending on your current browser, figure out how to view the web page's source code for <https://xkcd.com/1692/>. This might require some Googling. What you are looking at is hypertext markup language or HTML for short. HTML is the language that websites are made of. (If you already knew that, good for you, I promise that the rest of the course gets significantly more in depth.) You will learn more later, but for now, look at the code and find where the main picture is stored in the webpage. Now do you understand what alt-text means? 
+# Alt-Text
+You might be thinking to yourself... what is alt-text? Funny you ask that. Depending on your current browser, figure out how to view the web page's source code for <https://xkcd.com/1692/>. This might require some Googling. What you are looking at is hypertext markup language or HTML for short. HTML is the language that websites are made of. (If you already knew that, good for you, I promise that the rest of the course gets significantly more in depth.) You will learn more later, but for now, look at the code and find where the main picture is stored in the webpage. Now do you understand what alt-text means?
 
 # In Defense of RTFM
 RTFM gets a bad rap for good reason, because it is usually used as a put down on someone who doesn't know much about a subject... with that said, once you have the knowledge to understand a topic, if you are using that software, you should read the manual. Even if you don't understand the manual, if you are going to ask a question, you might as well reference that you know the manual exists and that what you are asking is referenced, you just need clarification. If you ask questions effectively you will find you understand your initial question and the topic much better than if you had someone explain the answer to just your specific question.
@@ -315,7 +320,7 @@ There are very very few questions you are going to ask that Google can't answer.
 ---
 [//]: # (78,731,activities/assign_731)
 # Questions
-We expect you to be constantly coming across words, phrases, and entire concepts that you have never seen before and are totally lost in. When you have to get things done, you'll have to learn more about it and one of the best ways to get those holes in your knowledge filled is to ask questions. 
+We expect you to be constantly coming across words, phrases, and entire concepts that you have never seen before and are totally lost in. When you have to get things done, you'll have to learn more about it and one of the best ways to get those holes in your knowledge filled is to ask questions.
 
 Here are some guidelines for asking questions.
 
@@ -340,7 +345,7 @@ Visit this [man-page](https://linux.die.net/man/1/bash) and write down the first
 # Learning
 Read this, it is a wonderful intro to the psychology of learning and where you are as a student <https://azeria-labs.com/the-process-of-mastering-a-skill/>.
 
-We all want to better at learning... but how do we do that? 
+We all want to better at learning... but how do we do that?
 
 
 Relevant Comic: <https://xkcd.com/1053/>
@@ -351,15 +356,15 @@ The most important thing to realize while you are on this journey is that you wi
 ---
 [//]: # (78,734,activities/assign_734)
 # Brainwashing and Learning
-## Brainwashing 
+## Brainwashing
 
-As we said before, hacking is a mindset, not a skillset. Sure you'll pick up plenty of useful skills along the way, but the primary benefit of the hacker mentality is being able to look at the world, see a problem you've never approached before, and figure out how to solve it. We are trying to cultivate that mindset, and yes, we are going to try to subtly brainwash you. We're not sorry about it. Genuine interest and drive are the two best indicators of success in this field, and we want to encourage it as much as we possibly can. How do we teach that? How do we measure that? We don't know. If we were pretentious losers we might say we're trying to hack your brain into becoming a hacker. But we're not. So lets call it brainwashing. Are you okay with being brainwashed?* 
- 
- 
- 
- 
- 
-* Note: This probably is not legally binding. 
+As we said before, hacking is a mindset, not a skillset. Sure you'll pick up plenty of useful skills along the way, but the primary benefit of the hacker mentality is being able to look at the world, see a problem you've never approached before, and figure out how to solve it. We are trying to cultivate that mindset, and yes, we are going to try to subtly brainwash you. We're not sorry about it. Genuine interest and drive are the two best indicators of success in this field, and we want to encourage it as much as we possibly can. How do we teach that? How do we measure that? We don't know. If we were pretentious losers we might say we're trying to hack your brain into becoming a hacker. But we're not. So lets call it brainwashing. Are you okay with being brainwashed?*
+
+
+
+
+
+* Note: This probably is not legally binding.
 
 
 ## Continuous Learning
@@ -377,15 +382,15 @@ Learning this stuff isn't easy. The content is difficult, the scope of what ther
 
 We will do our absolute best to help you keep these lists short. There will be section in the Slack for random questions, from ELI5 style to "Make me a tutorial", or you can always just private message it.
 
-## Goals 
+## Goals
 
 "Complete this course, as defined as finishing all the content that applies to me, before____________"
 
-With most of the goal already defined for you, what you need to focus on is the timeline you want to set for yourself. 
+With most of the goal already defined for you, what you need to focus on is the timeline you want to set for yourself.
 
 Answer these questions:
 
-1. How much time a week do you want to spend working on this? 
+1. How much time a week do you want to spend working on this?
 2. How much time a week do you think you will actually have to work on this?
 3. When will you complete this course?
 
@@ -419,9 +424,9 @@ Your First Virtual Machine
 ---
 [//]: # (79,672,activities/assign_672)
 # Install VMWare
-Install free virtualization software to run your virtual machine in! 
+Install free virtualization software to run your virtual machine in!
 
-I recommend VMWare Player, as that has been what I have always used, however there are many alternatives, primarily VirtualBox. One good thing about VirtualBox is that it is free on Macs. 
+I recommend VMWare Player, as that has been what I have always used, however there are many alternatives, primarily VirtualBox. One good thing about VirtualBox is that it is free on Macs.
 
 **NOTE: If you already have other VM software installed, use it. It will slightly change your experience, but everything that happens inside the VM will remain the same so it will not hurt your ability to learn.**
 
@@ -431,27 +436,27 @@ This should be fairly straightforward. When you are complete, submit a screensho
 
 Notes:
 
-1. There are Virtualization Based Security measures on Windows that when enabled, will not allow you to run VMs. Watch this video to learn more <https://www.linkedin.com/learning/microsoft-cybersecurity-stack-advanced-identity-and-endpoint-protection/what-is-virtualization-based-security>. You won't understand a lot of it, but it is interesting and will explain why you will not be able to run a Virtual Machine on top of it. 
+1. There are Virtualization Based Security measures on Windows that when enabled, will not allow you to run VMs. Watch this video to learn more <https://www.linkedin.com/learning/microsoft-cybersecurity-stack-advanced-identity-and-endpoint-protection/what-is-virtualization-based-security>. You won't understand a lot of it, but it is interesting and will explain why you will not be able to run a Virtual Machine on top of it.
 2. There are also some problems with Hyper-V. Read this article for tips on how to kill two bird with one stone. <https://finsterbt.com/switch-between-hyper-v-and-virtualbox-on-windows-10/>
 3. Always know what you are disabling or doing before you run random commands off of the internet. In this case, you are disabling a few high level defensive measures that Windows provides for you, notably Credential Guard, Device Guard, and sandbox execution. This isn't terrible, but you should try to remember to turn Hyper-V back on when you are done using your VM because it makes you safer.
 
 ---
 [//]: # (79,673,activities/assign_673)
 # Install Ubuntu
-Install the Linux operating system Ubuntu using your virtualization software of choice! If you already have a VM with a Linux image on it, you don't need to download a new one just for this course. It will not change any aspect of your experience and there is no need to waste time or space. 
+Install the Linux operating system Ubuntu using your virtualization software of choice! If you already have a VM with a Linux image on it, you don't need to download a new one just for this course. It will not change any aspect of your experience and there is no need to waste time or space.
 
 An image is what we refer to an Operating System when packaged into a format that can be run off of a disc, usually having a .iso extension. We can download .iso's and boot off of the disc, but it's generally easier to use a VM.
 
 [https://www.ubuntu.com/download/desktop](https://www.ubuntu.com/download/desktop)
 
-I could give you more information on what to do for this, but there are a ton of tutorials and youtube videos out there. Should be an easy google, and the information doesn't change too much. Let us know if you have any problems, but I recommend going step by step through a tutorial. This is your first challenge that we are telling you to figure it out yourself. 
+I could give you more information on what to do for this, but there are a ton of tutorials and youtube videos out there. Should be an easy google, and the information doesn't change too much. Let us know if you have any problems, but I recommend going step by step through a tutorial. This is your first challenge that we are telling you to figure it out yourself.
 
 ![alt text](https://i.imgur.com/H9fKKLN.jpg "flybitch")
 
 
-Source: [https://www.instagram.com/thesquarecomics/](https://www.instagram.com/thesquarecomics/) 
+Source: [https://www.instagram.com/thesquarecomics/](https://www.instagram.com/thesquarecomics/)
 
-We always try to link to the source of things, even dank memes. It's a weird thing to care about, but the internet makes it so easy to repost images without any way of crediting the author, and they're producing content so might as well throw them a follow. 
+We always try to link to the source of things, even dank memes. It's a weird thing to care about, but the internet makes it so easy to repost images without any way of crediting the author, and they're producing content so might as well throw them a follow.
 
 When you're done, submit a screenshot of you running the Linux VM.
 
@@ -463,7 +468,7 @@ Your VM might have automatically done this for you, or perhaps your guide had yo
 
 If you are using VBox, <https://www.dedoimedo.com/computers/virtualbox-guest-addons.html>
 
-You need this for a lot of critical usability things, and it doesn't come pre-installed. You have most likely already seen prompts telling you to do this. Do it. I'll be honest, this can be kinda difficult sometimes, but you gotta figure your own way through this. Again, if you have any trouble, and this takes more than a half hour to figure out, call someone over or message us and we will help you out. There is no shame, I've had VMs before that I gave up trying to install VMWare tools and just sucked it up for a week. You'll be on this VM for a while, so you need to get it installed. 
+You need this for a lot of critical usability things, and it doesn't come pre-installed. You have most likely already seen prompts telling you to do this. Do it. I'll be honest, this can be kinda difficult sometimes, but you gotta figure your own way through this. Again, if you have any trouble, and this takes more than a half hour to figure out, call someone over or message us and we will help you out. There is no shame, I've had VMs before that I gave up trying to install VMWare tools and just sucked it up for a week. You'll be on this VM for a while, so you need to get it installed.
 
 When complete, submit a screenshot that shows it installed.
 
@@ -477,7 +482,7 @@ Intro to Linux
 # Linux Journey Command Line
 Linux Journey is an amazing site that has the best guides on how to use Linux out there. Complete the class located at this link and submit a screenshot of the completion confirmation when you are done.
 
-When working through all of these classes, do all actions listed on the page in your own browser and play around to see how they work. 
+When working through all of these classes, do all actions listed on the page in your own browser and play around to see how they work.
 [https://linuxjourney.com](https://linuxjourney.com)
 
 ---
@@ -489,16 +494,16 @@ Complete the class located at this link and submit a screenshot of the completio
 
 ---
 [//]: # (79,681,activities/assign_681)
-# *** Netcat, Telnet, and SSH (I/P) *** 
-I don't have this built yet, but I should 
+# *** Netcat, Telnet, and SSH (I/P) ***
+I don't have this built yet, but I should
 
 ---
 [//]: # (79,683,activities/page_683)
 # Man Pages
 Read this. [https://www.cs.mcgill.ca/~guide/help/man.html](https://www.cs.mcgill.ca/~guide/help/man.html)
-Remember, if the man page doesn't help, googling the command and the word "usage" will usually get you where you need to be. 
+Remember, if the man page doesn't help, googling the command and the word "usage" will usually get you where you need to be.
 
-You are going to this for your next challenge! 
+You are going to this for your next challenge!
 
 ---
 [//]: # (79,684,activities/page_684)
@@ -511,7 +516,7 @@ This is a classic set of challenges that every member of our team has fought thr
 
 Let us know if you get stuck on any challenge for longer than a half hour, we will gladly point you in the right direction. And no cheating, as Hemingway once said, ?There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.? We like Hemingway. He  was a big fan of boats and adventures. We are too.
 
-While there are 25 Bandit levels, at this time we only expect you to be able to complete 1-13. They will be hard, but we know you can do them. The rest of the levels are saved for different places throughout the rest of the course. 
+While there are 25 Bandit levels, at this time we only expect you to be able to complete 1-13. They will be hard, but we know you can do them. The rest of the levels are saved for different places throughout the rest of the course.
 
 Whenever you finish lessons, 1, 5, 10 let us know in chat! When you finish 13, let everyone know in Slack! If you ever get stuck on anything for more than a half hour, message us through whatever format you want and we will help you out! Don't worry, I have no problems giving you very specific instructions to get to the next stage. If your googling keeps popping up Bandit walkthroughs instead of references, use the search operator -"bandit" to clean up the search results.
 
@@ -548,7 +553,7 @@ This is important. Try to really understand the breadth of what programming lang
 # Python
 There are hundreds of languages out there, but the language we are going to start with is Python. Python is a fairly simple and easy to learn language, but more importantly, is fast to write and allows advanced you to throw together scripts whenever you need them. There are a ton of great security references and plugins to the language and it allows you to accomplish just about anything you could need to do using just one language. In the future you will learn plenty other languages, but for right now, Python will suffice.
 
-This is going to take a while, but Codeacademy Python is the best way I've found to learn a first programming language. It is all done in an online editor and will let you progress with the appropriate hints. 
+This is going to take a while, but Codeacademy Python is the best way I've found to learn a first programming language. It is all done in an online editor and will let you progress with the appropriate hints.
 
 **NOTE: If you already know a programming language and don't need to re-learn what a tuple is, or are already learning Python using a different site or course, let us know. We can customize your experience here, there is no hard rule you have to use Code Academy.**
 
@@ -574,9 +579,9 @@ Github is an amazing website build around an old tool named 'git'. Git is used f
  0. Complete the Git First Day tutorials
 
  * <https://lab.github.com/githubtraining/paths/first-day-on-github>
-   
+
 1. Send us a link to your github.io site
-2. Send us a link to your first project. 
+2. Send us a link to your first project.
 
 ## Github Student (Students Only)
 GitHub Student is an incredible offer that gives college students a starter pack of basically everything they could ever need to get started with any aspect of computing, from text editors to cloud hosting and more. With this you can make websites, rent cloud servers, and get a ton of other really cool stuff that can teach you a ton. You will use various things that are part of the Github student pack throughout later in your journey which will help you save money. If you aren't a student, don't worry too much, it's all pretty cheap.
@@ -589,7 +594,7 @@ Apply for this incredible gift pack: <https://education.github.com/pack>. It get
  You are a big bad programmer now, but it has all been done in your browser! Time to learn how to do it from the terminal on your computer(s). This might require some googling..... don't worry, that is literally how programming works. You find something you need to do, and google how to do it. Then you forget how to do it, and you go and google it again the next time you do it. The next bit will help you set up your python environment in your OS's. Setting up environments is very time consuming, no matter what it is, but you will have to do this for basically every language, and every version of each language, so you will have to get good at it.
 
 
-## Windows 
+## Windows
 
 * <https://docs.python.org/3.3/using/windows.html>
 1. What is a path? You might have to google around to understand it. Hint: If you mess this up, things get interesting.
@@ -605,7 +610,7 @@ Apply for this incredible gift pack: <https://education.github.com/pack>. It get
 
 ## Pip and venv
 * Follow this tutorial. <https://docs.python-guide.org/dev/virtualenvs/>
-* If anything doesn't work, use this for a reference <https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/> 
+* If anything doesn't work, use this for a reference <https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/>
 
 
 Programming and scripting are different, but share most of the same principles, and these principles will be shared between all languages. Once you can program well in one language, you can learn any language, it just will take a bit to learn.
