@@ -5,6 +5,7 @@ You must register for the site before your progress can be tracked.
 
 Click here to register: <https://navy.hoppersroppers.org/login/signup.php?>
 ---
+
 [//]: # (54,796,activities/page_796)
 # Secure Yourself Now
 You signed up for this course to improve yourself, to learn how to secure yourself online, and to help others. That's what this section is dedicated to. If you finish this section and don't do anything else, your participation in this course will be a success in my eyes. Maybe not in your chain of command's but that's a completely different story.
@@ -22,6 +23,7 @@ I'd like to think you don't already have malware on your computer but if you are
 I know this stuff is obvious, but it's easy to be complacent when we get home. We know what best practices are, so do them.
 
 ---
+
 [//]: # (54,797,activities/page_797)
 # Computer Related Health
 You probably spend a ton of time in front of a computer at work, but now that you're at home, your setup might not be what it was. If you're going to be working through this course, competing in our CTF, or binging Netflix, these are a few changes you can constantly put into practice that will make you a happier and healthier person.
@@ -74,6 +76,7 @@ You probably spend a ton of time in front of a computer at work, but now that yo
 
 There is a group named the Mental Health Hackers who are pretty cool and worth a look  <https://twitter.com/hackershealth>.
 ---
+
 [//]: # (54,799,activities/page_799)
 # Questions
 Alright, you probably didn't expect this line of questioning in this course, and yet, here we are. Serious business time, three quick questions.
@@ -249,7 +252,7 @@ There are a wide variety of skills required to succeed in a CTF competition.
 
 This course will attempt to teach you everything you need to know to start and take on any competition.
 
-First, we will start with how to use linux and linux command line tools. Then after a brief introduction to python scripting, we will launch into CTF specific topics.
+First, we will start with how to use Linux and Linux command line tools. Then after a brief introduction to python scripting, we will launch into CTF specific topics.
 
 Forensics is comprised of host-based and network forensics and we will go into the basics of that. Cryptography will be brief and will go over basic problems and how to solve them. We will also go into the basics of web exploitation and how some of those challenges work.
 
@@ -411,34 +414,25 @@ Submit your answers to these questions.
 
 ---
 [//]: # (72,627,activities/page_627)
-# Canonical Documents (I/P)
-<https://github.com/pwning/docs/blob/master/suggestions-for-running-a-ctf.markdown>
+# Competitions
 
 ## Flag Format
 
-While the flag format seems like a small detail, annoying flag formats can turn an otherwise decent CTF challenge into a frustrating experience.
+Most of the time the flag format will be an ASCII string that you discover during the course of the problem.
+In the most common scenario it will look something like "The Flag is: this_is_the_flag", "ctfName{this_is_the_flag}"" or just "this_is_the_flag". Sometimes the organizers will use leetspeak so it will look like "ctfName{th15_15_th3_fl4g}"". Of course not all flags can follow these formats, so always be looking for anything out of place, especially during forensics challenges.
 
-Wherever possible, make the flag a simple ASCII string that competitors discover while solving the problem, and NOT a complex format like
+Most problems will specify the flag format, but if they do not, you must be on the lookout for any ambiguity.
+Always check for:
+* Capitalization
+* Character encoding
+* Trailing whitespace/newlines
+* Date/Time formats
+* Hex address formats (0x0042 vs 0042 vs 00000042)
 
-`<md5(name of target)>_<date of event>_<function address>`
+Sometimes the flag will require you to submit a hash of a variety of information that you have found. Be especially careful with these problems to verify what you are putting into your hashing algorithm, and that you are using the right algo.
 
-These formats are easy to accidentally under-specify! How should the name be capitalized? Does the date use slashes, dashes, or dots as separators? Does the date include the time, and in what time zone? How precise does the time need to be, seconds, milliseconds or microseconds? Is the function address in hex? Is it zero-padded to 8 or 16 digits? Does it start with "0x", or not?
+Very rarely is a flag able to be brute forced. As a result, even if the potential number of solutions is small, expect that there is a twist or mis-spelling that will require you to solve the problem. Most CTFs will specifically have a rule against brute forcing in their rules because of the potential impact on the event infrastructure, so just solve the problem, don't bruteforce.
 
-Furthermore, compound flag formats often make it hard for competitors to know when they've found the right thing; there are always several permutations to try each time someone has a new guess, and it's not rewarding to fiddle with formats while wondering how close you are.
-
-(There may be some good problems that absolutely require complex formats. Proceed with caution, and watch out for ambiguity.)
-
-Do not ask players to hash something they get and send the hash as the flag. As with the above, it is difficult to specify exactly what needs to go into the hash, and trivial errors in capitalization or newlines will give an incorrect result. Additionally, the hash itself will not be harder to guess than whatever the original flag was, so why not just submit that directly? As an organizer, it is also useful to watch submission logs to see what people are sending in as flags to get an idea of whether or not hints are needed or players are hitting unexpected roadblocks. If all you see are a slew of MD5 hashes, you won't have a clue what is going on.
-
-A flag should always look obviously like a flag to submit. If the flag
-is "Congratulations you win!" or "1234", some competitors may not
-realize when they have solved the challenge and continue to spend time
-on it. It's recommended that organizers pick a common format like
-"MyCTF{663d63e8c755f1b4}" or "funny\_1337speaK\_pHras3" for ALL flags in a competition. (It also helps if you can include "The flag is:" in front of some flags).
-
-Avoid brute forcible flags. For example, if flag has to be the name of a city, some players might try to submit thousands of guesses. Please do not put a CAPTCHA in front of all key submissions. This is unnecessary and extremely annoying to players.
-
-Be maximally permissible with flag checking. The flag submission should be case-insensitive and reasonably flexible. A nice feature is to accept any of "CTF{663d63e8c755f1b4}", "663D63E8C755F1B4", "flag is: 663D63E8C755F1B4", etc. Another nice feature is to trim/strip white space characters in flag submissions as they can easily be added when copying and pasting into web forms.
 
 ## Mechanics
 
@@ -448,34 +442,27 @@ Therefore, any CTF scoring system--however complex--must strongly tend to reward
 
 Some common mechanics for Jeopardy-style CTFs:
 
-1. Make the more difficult "tour-de-force" problems worth more points, and the easier or higher-variance trivia and guessing problems worth fewer points. This encourages people to look at the difficult problems and learn hardcore security skillz! Don't worry about fine-tuning point values: there is no "perfect". Keep in mind that people who test a problem typically know its difficulty better than the problem author, so testers usually assign the most suitable point-values.
-2. Employ "breakthru points": extra points (usually only good for tie-breaking) given to the first three-or-so teams to solve each particular challenge. This discourages "flag hoarding", where a team holds on to their flags and only submits them all at the very end of the competition (which is often advantageous for that team). It's demoralizing to find out that you are not doing as well as you thought, so it is useful to have anti-hoarding measures like breakthru points.
-3. The open/closed status of a problem should be global, meaning that if a problem is open for one team, it should be open for all teams. This gives all teams a fair time and chance to look at all of the problems, and avoids situations where a team gets screwed by opening unlucky challenges.
-4. Ensure that all teams on the scoreboard always have at least 2-3 problems open to work on. It's all too easy for any team to get stuck on some particular challenge (possibly through no fault of their own!), and making sure that all players have something that they'd like to work on in their hands is the best way to keep everyone happy.
-5. Limit the number of unsolved challenges opened. This helps to avoid giving large teams a huge advantage. And hey, you just might be able to save some unopened challenges for next year ;)
+1. Just like Jeopardy, the more difficult problems are worth more points, and the easier or higher-variance trivia and guessing problems worth fewer points. This encourages people to look at the difficult problems and learn the more hardcore security skills!
+   * Often solving the easier challenges will unlock harder, higher point challenges.
+   * Binary Exploitation problems wind up having some of the highest general point values because they are the most difficult skills to learn.
+2. There are usually extra "first blood" points (usually only a small number that allow for tie-breaking) given to the first few teams who solve a challenge. This discourages "flag hoarding", where a team holds on to their flags and submits them all at the very end of the competition.
+   * (This is a fairly advanced move, but flag hoarding allows a team to hide their true score on the scoreboard, causing other teams to feel that they have comfortable leads and don't need to be working to the last minutes. Then the flag hoarders can drop their stored flags and pull ahead in the last few seconds. Awesome when you do it, pretty terrible when it is done to you.).
+3.
 
-## Testing
-
-Testing is the difference between a horrible problem and a great one. Have a reference solution you can run to verify services are working and solvable whenever someone asks. Have someone other than the original problem author write the solution to make sure it's doable without having to be a psychic. If you don't have time to test everything, focus on the "black box" problems first.
 
 ## Communication
 
-Organizers should strive to be reachable throughout the entire CTF. Have an IRC channel and monitor it throughout the CTF. Give organizers operator status on the channel so that players know who they can discuss problem details with.
+Organizers are usually reachable throughout the entire CTF, either in an IRC, Slack, or by email. With that said, you should never reach out to organizers for hints during the competition. However, if a challenge appears to be failing or a webserver is not responding, you should let them know so that they can take action behind the scenes to make sure everything is operating as designed.
 
-Publish and monitor an email address.
-
-Have at least one other communication channel like a Twitter stream or a news page on the site to ensure that nobody misses any important game updates.
-
-## Problem Updates
-
-Whenever a change is made to a problem, announce it in a permanent and visible place, in addition to in IRC. Make sure to update the problem description to reflect the change. For any downloadable problem files which have changed, update the file name so that it is obvious it has changed.
-
-When applicable, leave the original version of the problem available and running. For example, someone might be really close on that pwnable you want to update and make easier :)
-
-If a problem has already been solved, be extremely sensitive about making changes to problems (this includes changing the point value, problem files, description, hints, etc.). These issues usually need to be handled case-by-case, so please exercise good judgment!
+Organizers also usually have an official, non-real time channel like a Twitter or a news page on the site to ensure that nobody misses any important game updates. Sometimes hints are dropped their too. Whenever a change is made to a problem, usually it is announced in whatever the non-real time channel is, in addition to in the real time chat. When this happens, make sure to check the problem description for a change, and if a file has been updated, your first move should be diffing the two files to find what was "fixed". Most of the time that will help you find your answer.
 
 
-<http://captf.com/maxims.html>
+
+## References:
+* <http://captf.com/maxims.html>
+* <https://github.com/pwning/docs/blob/master/suggestions-for-running-a-ctf.markdown>
+
+
 ---
 [//]: # (72,695,activities/page_695)
 # Linux and VMs (I/P)
@@ -617,6 +604,10 @@ Complete this writeup and submit a screenshot of the answer: <https://github.com
 # Host Forensics
 Host Forensics
 
+
+
+So much writing should go here.
+
 ---
 [//]: # (67,584,activities/assign_584)
 # *** Host Forensics 1 (I/P) ***
@@ -626,6 +617,9 @@ In Progress!
 [//]: # (67,784,activities/label_784)
 # Memory Forensics
 Memory Forensics
+
+So much writing should go here.
+
 
 ---
 [//]: # (67,585,activities/assign_585)
@@ -642,7 +636,6 @@ Forensics can include a number of elements mixed together such as:
 * Anti-forensic techniques
 
 
-Most forensic challenges can be tied in with Incident Response and teach the learner to handle things with care - this means running files or being careless could lead to loss of (challenge) data or information essential to solve the challenge. For example, write-blockers are utilized by forensic experts as a way of ensuring the integrity of the data is kept true and valid if used in court. Ensure the challenge leads players on a journey, an investigation of sorts with multiple sources of data leading to the culmination of ultimately one solution.	Most forensic challenges can be tied in with Incident Response and teach the learner to handle things with care - this means running files or being careless could lead to loss of (challenge) data or information essential to solve the challenge. For example, write-blockers are utilized by forensic experts as a way of ensuring the integrity of the data is kept true and valid if used in court. A good challenge ensures the challenge leads players on a journey, an investigation of sorts with multiple sources of data leading to the culmination of ultimately one solution.
 
 When looking through a network challenges, there are a few basic types of challenges you can expect to see.
 
@@ -653,7 +646,7 @@ When looking through a network challenges, there are a few basic types of challe
 
 These challenges often involve adding another level of work beyond the initial discovery of the communication, whether adding stego, encoding, encryption or a custom network protocol.
 
-The most important thing to do in these challenges is to identify the attacked host, the attacking host, and then find the channel in between.
+The most important thing to do in the majority of these challenges is to identify the attacked host, the attacking host, and then find the channel in between.
 ---
 [//]: # (73,785,activities/label_785)
 # Network Forensics
@@ -971,7 +964,10 @@ So moving on, if implemented properly (and the assumption for all standard libra
 ---
 [//]: # (69,626,activities/page_626)
 # CTF Meta (I/P)
-Web challenges are fun because they are the first step towards "hacking". Most of the time, the challenge provides a web address and port and the attacker has to figure out how to get a flag hidden somewhere on the server. The nice thing about WebEx challenges is that you can follow the same playbook every time that the professional pentesters do in order to ensure repeatable success in identifying what the flaw is... the hard part is actually exploiting the more complex flaws once you've identified the site is vulnerable to them.
+Web challenges are fun because they are the first step towards "hacking" something in the way they make it look like in the movie. Most of the time, the challenge provides a web address and port and the attacker has to figure out how to get a flag hidden somewhere on the server. The nice thing about WebEx challenges is that you can follow the same playbook every time that the professional pentesters do in order to ensure repeatable success in identifying what the flaw is... the hard part is actually exploiting the more complex flaws once you've identified the site is vulnerable to them.
+
+It takes years of looking at websites and different web frameworks to learn what normal looks like and spot misconfigurations, but it is easy to start building your knowledge now.
+
 ---
 [//]: # (69,630,activities/assign_630)
 # How Internet (I/P)
@@ -1003,13 +999,25 @@ Read and do all of this: <https://developer.mozilla.org/en-US/docs/Learn/Getting
 3. What do codes 200-299 mean?
 4. What do codes 300-399 mean?
 5. What do codes 400-499 mean?
+
+## Google Hacking
+
+What is Google hacking (or Google dorking)? Well, Google (and other search engines) are built around a large number of web-crawlers that are constantly scraping the internet. They scoop up everything that is publicly available and index it, allowing you to search it. However... what happens when the web crawlers find something that they shouldn't?
+
+Play around with a few of these Google hacks on Exploit-DB:
+* <link>
+* <link>
+
+In order to prevent Google from indexing the site so that it can be searchable, many sites use a robots.txt file to "block" the web crawlers. Robots.txt files are derived from RFC ____ and are meant to be a good faith request by site administrators. This means that any web crawler, or you, can visit a site's robots.txt and identify any part of the site that the owner does not want crawled. This often comes up in CTF problems, so it is always worth a quick check.
+
 ---
 [//]: # (69,632,activities/assign_632)
 # Under the Hood
 I know someone on the internet is going to be upset I am recommending Chrome for this. Sorry. I like it. If you are used to using some other browser's Dev Tools, then you don't need to do this section.
 
 ## Chrome Developer Tools
-* Also known as 'dev tools', all browsers come with the ability to view the behind the scenes of a webpage as it loads. Chrome's dev tools are amazing.
+* Also known as 'dev tools', all browsers come with the ability to view the behind the scenes of a webpage as it loads. Chrome's dev tools are amazing. Again, sorry internet randoms, I don't feel bad recommending Chrome over Firefox.
+
 * Read these pages and play around with loading different pages and seeing the different things that you can look at, or edit.
    * <https://developers.google.com/web/tools/chrome-devtools/open>
    * <https://developers.google.com/web/tools/chrome-devtools/console>
@@ -1022,12 +1030,22 @@ I know someone on the internet is going to be upset I am recommending Chrome for
 * Learn about HTML vs DOM and edit the DOM, submit a screenshot.
    * <https://developers.google.com/web/tools/chrome-devtools/dom#appendix>
    * <https://developers.google.com/web/tools/chrome-devtools/dom>
-* Read about Cookies
-
-
- * <https://computer.howstuffworks.com/cookie.htmhttps://developers.google.com/web/tools/chrome-devtools/storage/cookies>
-* Install a Cookie Editor <https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en>
+* Read about Cookies and Local Storage
+   * Websites maintain "state" by storing things in your browser. Cookies are used by many web frameworks to store session data, but sometimes can contain other important information. Many CTF problems involve modifying cookies.
+   * Do this and submit a screenshot. <https://developers.google.com/web/tools/chrome-devtools/storage/cookies>
+   * What is a cookie? <https://computer.howstuffworks.com/cookie.html>
+   * Install a Cookie Editor <https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en>
 ---
+
+# Web-Ex Meta
+## Meta
+
+## Methodology
+
+
+
+
+
 [//]: # (69,633,activities/assign_633)
 # SQL Injection
 Read this: <https://ctf101.org/web-exploitation/sql-injection/what-is-sql-injection/>
@@ -1094,7 +1112,7 @@ Read this: <https://ctf101.org/web-exploitation/server-side-request-forgery/what
 
 ---
 [//]: # (70,639,activities/page_639)
-# You Won't Learn That Here (I/P)
+# You Probably Won't Learn That Here (I/P)
 I don't believe this is a beginner topic! You should learn C and assembly before trying to do this stuff. Check out our course once I am done making it.
 
 There are plenty of pwning and RE challenges in CTFs, but they are hard and will be in the Advanced CTFs course.
@@ -1112,13 +1130,15 @@ For BinEx I really like this: <https://sploitfun.wordpress.com/2015/06/26/linux-
 ---
 [//]: # (74,640,activities/page_640)
 # Compete and Learn
-Register for the 2018 picoCTF!
+Our goal throughout this course was to teach you the most essential skills and introduce you the most important resources so that you are able to solve problems in a CTF by yourself. All the words, concepts, and tools we have introduced have led you to this point.
 
-<https://2018game.picoctf.com/>
+Now you are going to go compete in the 2019 picoCTF!
 
-This competition runs year round. With the knowledge you have from this course you should be able to crush it!
+<https://2019game.picoctf.com/>
 
-Keep us informed of your progress.
+This competition runs year round and is organized by some of our friends. With the knowledge you have from this course you should be able to crush it!
 
-I might do something where I have you submit screenshots of your score every 5 challenges you solve, and then have you do writeups of n challenges.
+Keep us informed of your progress, let us know any time that you get stuck. We are here to support and will be asking you as well.
+
+Make sure you document your work and take good notes so that you can create your own writeups for others to learn from.
 ---
