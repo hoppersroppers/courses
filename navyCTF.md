@@ -981,6 +981,8 @@ RSA is one of the most common modern cryptosystems, known for it's public and pr
 
 Read this: <https://ctf101.org/cryptography/what-is-rsa/>
 				
+The best tool for RSA CTF problems is ... <https://github.com/Ganapati/RsaCtfTool>. A gotcha is that it requires another program, Sagemath, to be fully operational. Otherwise it just fails quietly in the background. Install Sage using this link <http://linuxpitstop.com/install-sage-on-ubuntu/> so that you get everything out of RsaCtfTool.
+
 Make an account for Hack the Box, an awesome place to practice your skills. Then follow this writeup and submit your solution: <https://swapnil-pathak.github.io/hackthebox/walkthrough/htb-challenges-crypto-weakrsa/#>.
 
 Follow this writeup and submit your solution: <https://qy.sg/x-ctf-fact0r!z3-and-fact0r!z3_aga!n-crypto/> 
