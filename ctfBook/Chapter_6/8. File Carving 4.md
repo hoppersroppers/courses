@@ -1,4 +1,0 @@
-# File Carving 4
-Follow this walkthrough: <https://medium.com/@the.bilal.rizwan/intigriti-ctf-writeup-737009900a42>
-
-Submit a screenshot of your solution. 
